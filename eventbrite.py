@@ -2,8 +2,6 @@ import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import time
 from datetime import datetime
@@ -97,7 +95,7 @@ def format_location(location_str, source):
     if source == 'Facebook' or source == 'Eventbrite':
         return {
             'Location': location_str.strip(),
-            'City': 'Montreal',  # Como Montreal é a cidade padrão
+            'City': 'Montreal',
             'CountryCode': 'ca'
         }
     elif source == 'Google':
@@ -136,18 +134,6 @@ def format_location(location_str, source):
             'City': 'Montreal',
             'CountryCode': 'ca'
         }
-
-def extract_price_number(price_str):
-    cleaned_price_str = re.sub(r'[^\d,\.]', '', price_str).replace(',', '')
-
-    price_matches = re.findall(r'\d+\.\d+|\d+', cleaned_price_str)
-
-    if price_matches:
-        try:
-            return float(price_matches[0])
-        except ValueError:
-            return None
-    return None
 
 def extract_start_end_time(date_str):
     if date_str is None:
@@ -264,7 +250,7 @@ def get_previous_page_image_url(driver):
 
     return None
 
-def scrape_eventbrite_events(driver, url, selectors, max_pages=50):
+def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
     global event_id_counter
 
     driver.get(url)
@@ -300,12 +286,15 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=50):
 
                     description_element = event_page.find('p', class_='summary')
                     description = description_element.text.strip() if description_element else None
+
                     price_default_element = event_page.find('div', class_='conversion-bar__panel-info')
                     if price_default_element:
                         price_default = price_default_element.text.strip()
                     else:
                         price_default = "undisclosed price"
 
+                    price_element = event_page.find('span', class_='eds-text-bm eds-text-weight--heavy')
+                    price = price_element.text.strip() if price_element else price_default
                     price_element = event_page.find('span', class_='eds-text-bm eds-text-weight--heavy')
                     price = price_element.text.strip() if price_element else price_default
 
@@ -317,7 +306,11 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=50):
 
                     ImageURL = get_previous_page_image_url(driver)
 
-                    price_number = extract_price_number(price)
+                    price_number = None
+                    if price:
+                        price_matches = re.findall(r'\d+\.?\d*', price)
+                        if price_matches:
+                            price_number = float(price_matches[0])
 
                     latitude, longitude = get_coordinates(location)
 
@@ -348,9 +341,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=50):
                         map_url = open_google_maps(latitude, longitude)
                         event_info['GoogleMaps_URL'] = map_url
 
-                    # Verificação para ignorar eventos sem data
-                    if event_info['Date']:
-                        all_events.append(event_info)
+                    all_events.append(event_info)
 
                 except Exception as e:
                     print("Error scraping event page:", e)
@@ -359,9 +350,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=50):
                     driver.back()
 
             try:
-                next_button = WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.LINK_TEXT, 'Next'))
-                )
+                next_button = driver.find_element(By.LINK_TEXT, 'Next')
                 next_button.click()
             except Exception as e:
                 print("Error clicking next button:", e)
@@ -395,6 +384,7 @@ def main():
     chrome_options = Options()
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--headless")
 
     driver = webdriver.Chrome(options=chrome_options)
 
@@ -403,7 +393,8 @@ def main():
         print(f"Scraping events from: {source['name']}")
         if source['name'] == 'Eventbrite':
             events = scrape_eventbrite_events(driver, source['url'], source['selectors'])
-            all_events.extend(events)
+            events_with_data = [event for event in events if sum(1 for value in event.values() if value is not None) > 10]
+            all_events.extend(events_with_data)
         else:
             print(f"Unsupported source: {source['name']}")
             continue
