@@ -3,7 +3,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
@@ -31,7 +30,7 @@ def scrape_eventbrite_events(url, max_pages=5):
                 try:
                     # Esperar até que o título do evento esteja presente
                     title_element = WebDriverWait(driver, 10).until(
-                        EC.presence_of_element_located((By.CSS_SELECTOR, "h1.expired-heading"))
+                        EC.presence_of_element_located((By.CSS_SELECTOR, "h1"))
                     )
                     title = title_element.text.strip()
                     all_events.append({"Title": title, "URL": event_url})
