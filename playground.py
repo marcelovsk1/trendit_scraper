@@ -238,7 +238,7 @@ def open_google_maps(latitude, longitude):
     google_maps_url = f"https://www.google.com/maps/search/?api=1&query={latitude},{longitude}"
     return google_maps_url
 
-def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
+def scrape_eventbrite_events(driver, url, selectors, max_pages=20):
     driver.get(url)
     driver.implicitly_wait(20)
 
