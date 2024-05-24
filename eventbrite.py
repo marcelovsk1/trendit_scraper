@@ -1,9 +1,9 @@
 import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import time
+from bs4 import BeautifulSoup
 from datetime import datetime
 import geopy
 from geopy.geocoders import Nominatim
@@ -29,6 +29,7 @@ def format_date(date_str, source):
     source_lower = source.lower()
 
     if source_lower == 'eventbrite':
+        # Tentando capturar datas que podem incluir o começo de eventos em um dia e terminar em outro
         patterns = [
             r'(\w{3})\s*(\d{1,2})\s*·',  # 'May 19 · 10pm'
             r'(?:débute le\s+)?(\w{3})[.,]\s*(\d{1,2})\s*(\w{3,})\s*(\d{4})',  # 'Débute le lun., 27 mai 2024'
@@ -51,6 +52,7 @@ def format_date(date_str, source):
             date_match = re.search(pattern, date_str)
             if date_match:
                 try:
+                    # Extração dos grupos encontrados dependendo do padrão
                     if len(date_match.groups()) == 2:
                         month, day = date_match.groups()
                         year = datetime.now().year  # Assumir ano atual se não fornecido
@@ -69,6 +71,7 @@ def format_date(date_str, source):
                         day_of_week, day, month, year = date_match.groups()
                         month = month_map[month[:3].lower()]
 
+                    # Formatar para datetime
                     date_str_formatted = f"{day} {month} {year}"
                     start_date = datetime.strptime(date_str_formatted, '%d %b %Y')
                     return start_date.strftime('%d/%m/%Y')
@@ -80,6 +83,7 @@ def format_date(date_str, source):
     else:
         print("Fonte não suportada")
         return None
+
 
 def format_location(location_str, source):
     if location_str is None:
@@ -95,7 +99,7 @@ def format_location(location_str, source):
     if source == 'Facebook' or source == 'Eventbrite':
         return {
             'Location': location_str.strip(),
-            'City': 'Montreal',
+            'City': 'Montreal',  # Como Montreal é a cidade padrão
             'CountryCode': 'ca'
         }
     elif source == 'Google':
@@ -123,6 +127,7 @@ def format_location(location_str, source):
                     'CountryCode': country_code
                 }
 
+        # If unable to fetch data from Google Geocoding API, return default values
         return {
             'Location': location_str.strip(),
             'City': 'Montreal',
@@ -139,6 +144,7 @@ def extract_start_end_time(date_str):
     if date_str is None:
         return None, None
 
+    # If "-" is not present in the string, it means it is just a start time
     if "-" not in date_str:
         start_time_match = re.search(r'(\d{1,2}:\d{2}\s*(?:AM|PM)?)', date_str)
         if start_time_match:
@@ -147,12 +153,14 @@ def extract_start_end_time(date_str):
         else:
             return None, None
 
+    # For events that start and end on different days
     day_match = re.search(r'(\w+, \w+ \d{1,2}, \d{4} \d{1,2}:\d{2} (?:AM|PM))\s*-\s*(\w+, \w+ \d{1,2}, \d{4} \d{1,2}:\d{2} (?:AM|PM))', date_str)
     if day_match:
         start_time = day_match.group(1)
         end_time = day_match.group(2)
         return start_time.strip(), end_time.strip()
 
+    # Converta os dias da semana para inglês
     date_str = re.sub(r'\b(?:lun(?:di)?|mon(?:day)?)\b', 'Monday', date_str, flags=re.IGNORECASE)
     date_str = re.sub(r'\b(?:mar(?:di)?|tue(?:sday)?)\b', 'Tuesday', date_str, flags=re.IGNORECASE)
     date_str = re.sub(r'\b(?:mer(?:credi)?|wed(?:nesday)?)\b', 'Wednesday', date_str, flags=re.IGNORECASE)
@@ -161,22 +169,26 @@ def extract_start_end_time(date_str):
     date_str = re.sub(r'\b(?:sam(?:edi)?|sat(?:urday)?)\b', 'Saturday', date_str, flags=re.IGNORECASE)
     date_str = re.sub(r'\b(?:dim(?:anche)?|sun(?:day)?)\b', 'Sunday', date_str, flags=re.IGNORECASE)
 
+    # Pattern for start and end time in the same day
     same_day_match = re.search(r'(\w+, \w+ \d{1,2}, \d{4} \d{1,2}:\d{2} (?:AM|PM))\s*-\s*(\d{1,2}:\d{2} (?:AM|PM))', date_str)
     if same_day_match:
         start_time = same_day_match.group(1)
         end_time = same_day_match.group(2)
         return start_time.strip(), end_time.strip()
 
+    # AM/PM Format
     am_pm_match = re.search(r'(\d{1,2}:\d{2}\s*(?:AM|PM))\s*-\s*(\d{1,2}:\d{2}\s*(?:AM|PM))', date_str)
     if am_pm_match:
         start_time, end_time = am_pm_match.groups()
         return start_time.strip(), end_time.strip()
 
+    # 24hrs Format
     hrs_24_match = re.search(r'(\d{1,2}:\d{2})\s*-\s*(\d{1,2}:\d{2})', date_str)
     if hrs_24_match:
         start_time, end_time = hrs_24_match.groups()
         return start_time.strip(), end_time.strip()
 
+    # Handle times like "9pm" and "11pm"
     pm_match = re.search(r'(\d{1,2})pm', date_str, flags=re.IGNORECASE)
     if pm_match:
         start_hour = int(pm_match.group(1))
@@ -184,13 +196,15 @@ def extract_start_end_time(date_str):
             start_hour += 12
         start_time = f"{start_hour:02}:00"
 
-        end_hour = start_hour + 2
+        # Assume the event ends after the start time
+        end_hour = start_hour + 2  # Adding 2 hours as a default duration
         if end_hour >= 24:
             end_hour -= 12
         end_time = f"{end_hour:02}:00"
 
         return start_time.strip(), end_time
 
+    # Handle times like "9am" and "11am"
     am_match = re.search(r'(\d{1,2})am', date_str, flags=re.IGNORECASE)
     if am_match:
         start_hour = int(am_match.group(1))
@@ -198,7 +212,8 @@ def extract_start_end_time(date_str):
             start_hour = 0
         start_time = f"{start_hour:02}:00"
 
-        end_hour = start_hour + 2
+        # Assume the event ends after the start time
+        end_hour = start_hour + 2  # Adding 2 hours as a default duration
         if end_hour >= 12:
             end_hour -= 12
         end_time = f"{end_hour:02}:00"
@@ -219,6 +234,7 @@ def get_coordinates(location):
 
     for _ in range(retries):
         try:
+            # Construa uma string de consulta específica para Montreal ou Quebec
             query_string = f"{location}, Montreal, Quebec, Canada"
             location = geolocator.geocode(query_string, addressdetails=True)
             if location:
@@ -232,9 +248,11 @@ def get_coordinates(location):
 
     return None, None
 
+
 def open_google_maps(latitude, longitude):
     google_maps_url = f"https://www.google.com/maps/search/?api=1&query={latitude},{longitude}"
     return google_maps_url
+
 
 def get_previous_page_image_url(driver):
     url = 'https://www.eventbrite.com/d/canada--montreal/all-events/?page=1'
@@ -291,7 +309,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
                     if price_default_element:
                         price_default = price_default_element.text.strip()
                     else:
-                        price_default = "undisclosed price"
+                        price_default = "undisclosed price"  # Modificação aqui
 
                     price_element = event_page.find('span', class_='eds-text-bm eds-text-weight--heavy')
                     price = price_element.text.strip() if price_element else price_default
@@ -306,11 +324,13 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
 
                     ImageURL = get_previous_page_image_url(driver)
 
+                    # Isolando o número do preço usando expressões regulares
                     price_number = None
                     if price:
                         price_matches = re.findall(r'\d+\.?\d*', price)
                         if price_matches:
                             price_number = float(price_matches[0])
+
 
                     latitude, longitude = get_coordinates(location)
 
@@ -330,12 +350,14 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
                     event_info['Price'] = price_number
                     event_info['Date'] = format_date(date, 'Eventbrite')
                     event_info['StartTime'], event_info['EndTime'] = extract_start_end_time(date)
-                    event_info.update(format_location(location, 'Eventbrite'))
+                    event_info.update(format_location(location, 'Eventbrite'))  # Atualiza com os detalhes de localização
                     event_info['ImageURL'] = ImageURL
                     event_info['Latitude'] = latitude
                     event_info['Longitude'] = longitude
                     event_info['Organizer'] = organizer.text.strip() if organizer else None
                     event_info['EventUrl'] = event_link
+                    # event_info['Tags'] = tags
+
 
                     if latitude is not None and longitude is not None:
                         map_url = open_google_maps(latitude, longitude)
@@ -350,7 +372,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
                     driver.back()
 
             try:
-                next_button = driver.find_element(By.LINK_TEXT, 'Next')
+                next_button = driver.find_element_by_link_text('Next')
                 next_button.click()
             except Exception as e:
                 print("Error clicking next button:", e)
@@ -361,6 +383,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=3):
             break
 
     return all_events
+
 
 def main():
     sources = [
@@ -375,6 +398,7 @@ def main():
                 'Location': {'tag': 'p', 'class': 'location-info__address-text'},
                 'Price': {'tag': 'p', 'class': 'event-card__price'},
                 'ImageURL': {'tag': 'img', 'class': 'event-card__image'},
+                # 'Tags': {'tag': 'ul', 'class': 'event-card__tags'},
                 'Organizer': {'tag': 'a', 'class': 'event-card__organizer'}
             },
             'max_pages': 30
@@ -382,9 +406,9 @@ def main():
     ]
 
     chrome_options = Options()
+    # Remova a opção "--headless" para mostrar o navegador
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_argument("--headless")
 
     driver = webdriver.Chrome(options=chrome_options)
 
@@ -393,12 +417,14 @@ def main():
         print(f"Scraping events from: {source['name']}")
         if source['name'] == 'Eventbrite':
             events = scrape_eventbrite_events(driver, source['url'], source['selectors'])
-            events_with_data = [event for event in events if sum(1 for value in event.values() if value is not None) > 10]
+            # Filtrar eventos com a maioria das tags em null
+            events_with_data = [event for event in events if sum(1 for value in event.values() if value is not None) > 10]  # Defina o número mínimo de tags não nulas aqui
             all_events.extend(events_with_data)
         else:
             print(f"Unsupported source: {source['name']}")
             continue
 
+    # JSON File
     with open('eventbrite.json', 'w') as f:
         json.dump(all_events, f, indent=4)
 
