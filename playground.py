@@ -20,7 +20,6 @@ def scroll_to_bottom(driver, max_clicks=5):
         time.sleep(1)
 
 def calculate_similarity(str1, str2):
-    from fuzzywuzzy import fuzz
     return fuzz.token_sort_ratio(str1, str2)
 
 def format_date(date_str, source):
@@ -241,13 +240,12 @@ def open_google_maps(latitude, longitude):
 
 def scrape_eventbrite_events(driver, url, selectors, max_pages=22):
     driver.get(url)
-    driver.implicitly_wait(10)
+    driver.implicitly_wait(20)
 
     all_events = []
 
-    for page in range(max_pages):
+    for _ in range(max_pages):
         try:
-            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, selectors['event']['tag'] + '.' + selectors['event']['class'])))
             page_content = driver.page_source
             webpage = BeautifulSoup(page_content, 'html.parser')
             events = webpage.find_all(selectors['event']['tag'], class_=selectors['event'].get('class'))
@@ -335,7 +333,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=22):
                     print("No event link found for event")
 
             try:
-                next_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-spec='page-next']")))
+                next_button = driver.find_element(By.CSS_SELECTOR, "button[data-spec='page-next']")
                 next_button.click()
                 time.sleep(3)
             except Exception as e:
@@ -343,7 +341,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=22):
                 break
 
         except Exception as e:
-            print(f"Error scraping events page {page + 1}: {e}")
+            print(f"Error scraping events page: {e}")
             break
 
     return all_events
@@ -363,7 +361,7 @@ def main():
                 'ImageURL': {'tag': 'img', 'class': 'event-card__image'},
                 'Organizer': {'tag': 'div', 'class': 'descriptive-organizer-info-mobile__name'}
             },
-            'max_pages': 22
+            'max_pages': 3
         }
     ]
 
@@ -371,7 +369,6 @@ def main():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_argument("--no-sandbox")
-    chrome_options.add_argument("--headless")
 
     driver = webdriver.Chrome(options=chrome_options)
 
