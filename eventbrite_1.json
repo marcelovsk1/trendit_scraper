@@ -180,6 +180,23 @@
         "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4742689,-73.5998146"
     },
     {
+        "Title": "Johnny Drille Live in Montreal",
+        "Description": "Johnny Drille Canada TOUR 2024: Multi-talented rock, R&B, afrobeat vocalist",
+        "Date": "31/05/2024",
+        "Location": "Complexe Sky",
+        "Price": 42.86,
+        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F708004799%2F294276161836%2F1%2Foriginal.20240229-051743?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C15%2C1200%2C600&s=85d42e388efa2f6a67d6141bebeaf29f",
+        "Organizer": "Afrobeats Montreal",
+        "StartTime": "Fri, May 31, 2024 9:00 PM",
+        "EndTime": "Sat, Jun 1, 2024 3:00 AM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5209934,
+        "Longitude": -73.5536799,
+        "EventUrl": "https://www.eventbrite.ca/e/johnny-drille-live-in-montreal-tickets-852696426967?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5209934,-73.5536799"
+    },
+    {
         "Title": "F\u00eater les 3 ans de la clinique !",
         "Description": "Venez c\u00e9l\u00e9brer les 3 ans de la clinique avec nous lors d'une journ\u00e9e sp\u00e9ciale remplie de joie, de gratitude et de souvenirs m\u00e9morables !",
         "Date": "06/06/2024",
@@ -194,22 +211,6 @@
         "Latitude": null,
         "Longitude": null,
         "EventUrl": "https://www.eventbrite.ca/e/feter-les-3-ans-de-la-clinique-tickets-888764397237?aff=ebdssbdestsearch"
-    },
-    {
-        "Title": "SUMMER KICK OFF by AXELR",
-        "Description": "Get ready for this \"SUMMER KICK OFF\" event powered by AXELR and The Gathering. Join us and connect with industry friends in CPG & TECH.",
-        "Date": "30/05/2024",
-        "Location": "Sora 45",
-        "Price": 59.91,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F769495609%2F1675534983383%2F1%2Foriginal.20240516-160615?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C100%2C1600%2C800&s=4260fef24d2ba74efcf1b7e66a1b2afc",
-        "Organizer": "AXELR",
-        "StartTime": "Thursday, May 30, 2024 5:00 PM",
-        "EndTime": "11:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/summer-kick-off-by-axelr-tickets-871030845707?aff=ebdssbdestsearch"
     },
     {
         "Title": "Navigating Today\u2019s Dynamic Retail Landscape: Strategies for Success",
@@ -310,5 +311,22 @@
         "Latitude": null,
         "Longitude": null,
         "EventUrl": "https://www.eventbrite.ca/e/tabestoon-kootahe-3-tickets-879052609017?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Products That Count Presents: The 2024 Quebec Product Awards",
+        "Description": "Celebrating the best products in Quebec / C\u00e9l\u00e9brons l'excellence en gestion de produits au Qu\u00e9bec",
+        "Date": "30/05/2024",
+        "Location": "Maison Notman House",
+        "Price": 42.89,
+        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F768644339%2F248337702961%2F1%2Foriginal.20240515-182536?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=2538ce3cb04f86a1da4fcc8aeadded60",
+        "Organizer": "Products That Count",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.51189735,
+        "Longitude": -73.57008169586781,
+        "EventUrl": "https://www.eventbrite.com/e/products-that-count-presents-the-2024-quebec-product-awards-registration-906987412767?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.51189735,-73.57008169586781"
     }
 ]

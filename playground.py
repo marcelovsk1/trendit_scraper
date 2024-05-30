@@ -238,7 +238,7 @@ def open_google_maps(latitude, longitude):
     google_maps_url = f"https://www.google.com/maps/search/?api=1&query={latitude},{longitude}"
     return google_maps_url
 
-def scrape_eventbrite_events(driver, url, selectors, max_pages=22):
+def scrape_eventbrite_events(driver, url, selectors, max_pages=35):
     driver.get(url)
     driver.implicitly_wait(20)
 
@@ -333,7 +333,9 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=22):
                     print("No event link found for event")
 
             try:
-                next_button = driver.find_element(By.CSS_SELECTOR, "button[data-spec='page-next']")
+                next_button = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-spec='page-next']"))
+                )
                 next_button.click()
                 time.sleep(3)
             except Exception as e:
@@ -386,7 +388,7 @@ def main():
     # Filter out events with "Date: Null"
     filtered_events = [event for event in all_events if event['Date'] is not None]
 
-    with open('eventbrite.json', 'w') as f:
+    with open('eventbrite_1.json', 'w') as f:
         json.dump(filtered_events, f, indent=4)
 
     driver.quit()
