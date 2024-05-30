@@ -1,63 +1,5 @@
 [
     {
-        "Title": "BLUEPRINT TO BIG DEALS",
-        "Description": "Get ready to learn the secrets to closing big deals at Blueprint For Big Deal - the ultimate event  for ambitious go-getters like you!",
-        "Date": "30/05/2024",
-        "Location": "Embassy Plaza",
-        "Price": 8.79,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F758088349%2F2125822595953%2F1%2Foriginal.20240502-165238?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C6912%2C3456&s=dd487f46e46c6c8c38a14c56dd62ccca",
-        "Organizer": "L'\u00e9cole de L'immobilier",
-        "StartTime": "Thursday, May 30, 2024 6:00 PM",
-        "EndTime": "11:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.com/e/blueprint-to-big-deals-tickets-891859213917?aff=ebdssbdestsearch",
-        "Tags": []
-    },
-    {
-        "Title": "KIZO Fest Montreal 5th edition 2024",
-        "Description": "Kizo Fest Montreal is happy to announce the 5th edition of KIZO FEST MONTREAL, happening June 19th to 24th, 2024.",
-        "Date": "19/06/2024",
-        "Location": "DELTA Hotel Montreal",
-        "Price": 22.63,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748976029%2F313021944154%2F1%2Foriginal.20240422-032419?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C44%2C1920%2C960&s=6bdeb767031a2180a4c3e465bcd88b0a",
-        "Organizer": "KIZO Festival Montr\u00e9al",
-        "StartTime": "Wed, Jun 19, 2024 7:30 PM",
-        "EndTime": "Mon, Jun 24, 2024 11:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/kizo-fest-montreal-5th-edition-2024-tickets-645516456097?aff=ebdssbdestsearch",
-        "Tags": [
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "L\u2019\u00e9volution et l\u2019avenir de l\u2019unit\u00e9 de courte dur\u00e9e g\u00e9riatrique (UCDG)",
-        "Description": "Le RUSHGQ vous convie \u00e0 sa journ\u00e9e scientifique intitul\u00e9e \u00ab L\u2019\u00e9volution et l\u2019avenir de l\u2019UCDG, \u00e0 l\u2019aube de ses 40 ans \u00bb",
-        "Date": "17/06/2024",
-        "Location": "Institut universitaire de g\u00e9riatrie de Montr\u00e9al (IUGM)",
-        "Price": null,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F729943239%2F788692176963%2F1%2Foriginal.20240327-200537?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C764%2C382&s=f9df9671d0484b2097a1e6390c81b42e",
-        "Organizer": "CRIUGM",
-        "StartTime": "Monday, Jun 17, 2024 7:30 AM",
-        "EndTime": "5:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/levolution-et-lavenir-de-lunite-de-courte-duree-geriatrique-ucdg-registration-816850962217?aff=ebdssbdestsearch",
-        "Tags": []
-    },
-    {
         "Title": "SEMLA 2024",
         "Description": "The Software Engineering for Machine Learning Applications (SEMLA) international symposium.",
         "Date": "12/06/2024",
@@ -76,332 +18,38 @@
         "Tags": []
     },
     {
-        "Title": "Concert Anime",
-        "Description": "Concert orchestral Anim\u00e9",
-        "Date": "15/06/2024",
-        "Location": "Salle Claude-Champagne",
-        "Price": 25.3,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F692960229%2F300041748392%2F1%2Foriginal.20240208-150209?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C58%2C1920%2C960&s=fc811b13b4073470d0d92e685b4329c2",
-        "Organizer": "Orchestre de Jeux Vid\u00e9o",
-        "StartTime": "19:15",
-        "EndTime": "22:15",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.5090905,
-        "Longitude": -73.6090834,
-        "EventUrl": "https://www.eventbrite.ca/e/concert-anime-tickets-828418079777?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5090905,-73.6090834",
-        "Tags": [
-            {
-                "id": "1ec41b90-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Classical",
-                "emoji": " \ud83c\udfb6",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Festival des Solutions Climatiques - Climate Solutions Festival",
-        "Description": "Un \u00e9v\u00e9nement o\u00f9 nous explorerons des id\u00e9es et des actions pour lutter contre le changement climatique, tous ensemble!",
-        "Date": "17/06/2024",
-        "Location": "Grand Quay of the Port of Montreal",
-        "Price": 62.76,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F706479629%2F1334466057103%2F1%2Foriginal.20240227-163219?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4c89d847fb2996556e4d701e4a21eee0",
-        "Organizer": "Climate Solutions Prize Organization",
-        "StartTime": "Mon, Jun 17, 2024 9:00 AM",
-        "EndTime": "Tue, Jun 18, 2024 5:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/festival-des-solutions-climatiques-climate-solutions-festival-tickets-851632905947?aff=ebdssbdestsearch",
-        "Tags": []
-    },
-    {
-        "Title": "\"Slovo\"House. Unfinished novel|\u0411\u0443\u0434\u0438\u043d\u043e\u043a \u00ab\u0421\u043b\u043e\u0432\u043e\u00bb. \u041d\u0435\u0441\u043a\u0456\u043d\u0447\u0435\u043d\u043d\u0438\u0439 \u0440\u043e\u043c\u0430\u043d|MONTREAL",
-        "Description": "Film about the Ukrainian artists persecuted by totalitarianism amid the Holodomor, a tale of resilience in 20th-century genocide.",
-        "Date": "30/05/2024",
-        "Location": "Cin\u00e9ma du Mus\u00e9e",
-        "Price": 27.89,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F759753679%2F1085337892373%2F1%2Foriginal.20240504-234105?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=04a08c056f5ade3a052b82f909f0cab8",
-        "Organizer": "Ukraine Harmony & Film Hive Ent",
-        "StartTime": "21:00",
-        "EndTime": "23:00",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.4987878,
-        "Longitude": -73.5798104,
-        "EventUrl": "https://www.eventbrite.ca/e/slovohouse-unfinished-novel-montreal-tickets-898242616847?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4987878,-73.5798104",
-        "Tags": []
-    },
-    {
-        "Title": "Startupfest 2024",
-        "Description": "Canada\u2019s Original Startup Conference is back!",
-        "Date": "10/07/2024",
-        "Location": "Montr\u00e9al's Old Port - Grand Quai du Port de Montr\u00e9al",
-        "Price": 658.51,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F702339089%2F47022780363%2F1%2Foriginal.20240221-195036?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=a46e121cf22c8405e5a3bd9e92aa060e",
-        "Organizer": "Conseillers d'affaires Embrase Inc.",
-        "StartTime": "Wed, Jul 10, 2024 10:00 AM",
-        "EndTime": "Fri, Jul 12, 2024 5:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/startupfest-2024-tickets-669641043387?aff=ebdssbdestsearch",
-        "Tags": [
-            {
-                "id": "005a4420-88c3-11ee-ab49-69be32c19a11",
-                "name": "Startup",
-                "emoji": "\ud83d\ude80",
-                "tagCategory": "Education"
-            }
-        ]
-    },
-    {
-        "Title": "F\u00eater les 3 ans de la clinique !",
-        "Description": "Venez c\u00e9l\u00e9brer les 3 ans de la clinique avec nous lors d'une journ\u00e9e sp\u00e9ciale remplie de joie, de gratitude et de souvenirs m\u00e9morables !",
-        "Date": "06/06/2024",
-        "Location": "3882 Blvd Saint-Elz\u00e9ar O",
+        "Title": "7e \u00e9dition de Maillage Num\u00e9rique",
+        "Description": "Un \u00e9v\u00e9nement riche en r\u00e9flexions et rencontres pour fa\u00e7onner l'avenir de la culture et des loisirs dans nos communaut\u00e9s \u00e0 l'\u00e8re num\u00e9rique",
+        "Date": "12/06/2024",
+        "Location": "3755 Boul Matte",
         "Price": 0.0,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F750799469%2F700314856103%2F1%2Foriginal.20240423-215900?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1742%2C2624%2C1312&s=8dce01bf902b77a1e43744a4b8207213",
-        "Organizer": "Caroline Duchaine - Clinique CD M\u00e9dico-Esth\u00e9tique",
-        "StartTime": "Thursday, Jun 6, 2024 5:00 PM",
-        "EndTime": "9:00 PM",
+        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F752331929%2F571303488141%2F1%2Foriginal.20240425-151906?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=119%2C64%2C1214%2C607&s=f2cf3ebf4516de3b7324b2e3bcad8e65",
+        "Organizer": "Culture Mont\u00e9r\u00e9gie",
+        "StartTime": "Wednesday, Jun 12, 2024 1:00 PM",
+        "EndTime": "8:00 PM",
         "City": "Montreal",
         "CountryCode": "ca",
         "Latitude": null,
         "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/feter-les-3-ans-de-la-clinique-tickets-888764397237?aff=ebdssbdestsearch",
+        "EventUrl": "https://www.eventbrite.ca/e/7e-edition-de-maillage-numerique-tickets-891039522197?aff=ebdssbdestsearch",
         "Tags": []
     },
     {
-        "Title": "Samba Kal\u00e9idoscope",
-        "Description": "A show that transcends borders and celebrates Brazilian culture. Under the general direction of choreographer Raquel Bastazin.",
-        "Date": "08/06/2024",
-        "Location": "Dock 5160 - Verdun Cultural Centre",
-        "Price": 32.15,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F742918409%2F2097005639473%2F1%2Foriginal.20240413-203642?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=100%2C0%2C1440%2C720&s=ba7ddc92ccc6665107bd0d00a250d0e7",
-        "Organizer": "Levanta Samba",
-        "StartTime": "Saturday, Jun 8, 2024 7:00 PM",
-        "EndTime": "8:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/samba-kaleidoscope-tickets-880491282127?aff=ebdssbdestsearch",
-        "Tags": [
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "2995c8b0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "World Music",
-                "emoji": "\ud83c\udf0d",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "THE 3RD ANNUAL CANNABIS SCIENTIFIC SYMPOSIUM: FROM PLANTS TO PEOPLE",
-        "Description": "Highlighting recent  findings from cannabis research & training programs, aimed at sharing unbiased science-based evidence.",
-        "Date": "03/06/2024",
-        "Location": "MUHC Research Institute",
+        "Title": "LGBTQ+ MENA Business Networking/R\u00e9seautage d\u2019affaire LGBTQ+ MENA",
+        "Description": "\u0646\u0634\u0627\u0637 \u062a\u0634\u0628\u064a\u0643 \u0644\u0623\u0635\u062d\u0627\u0628 \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0648\u0627\u0644\u0645\u0647\u0646\u064a\u064a\u0646 \u0645\u0646 \u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u0645\u064a\u0645",
+        "Date": "12/06/2024",
+        "Location": "Montreal",
         "Price": null,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F699718689%2F773950603263%2F1%2Foriginal.20240218-184622?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=96%2C0%2C778%2C389&s=8d9643f50c9711448fcf2f4b3e5f22fb",
-        "Organizer": "McGill Research Centre for Cannabis",
-        "StartTime": "Mon, Jun 3, 2024 8:00 AM",
-        "EndTime": "Tue, Jun 4, 2024 4:00 PM",
+        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F762197239%2F496443484759%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=6dfbc262e7fedb1b97db2c557e74147f",
+        "Organizer": "Marginalized Majority",
+        "StartTime": "Wednesday, Jun 12, 2024 7:30 PM",
+        "EndTime": "9:30 PM",
         "City": "Montreal",
         "CountryCode": "ca",
-        "Latitude": 45.4742689,
-        "Longitude": -73.5998146,
-        "EventUrl": "https://www.eventbrite.ca/e/the-3rd-annual-cannabis-scientific-symposium-from-plants-to-people-tickets-768445439997?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4742689,-73.5998146",
-        "Tags": []
-    },
-    {
-        "Title": "F\u00eater les 3 ans de la clinique !",
-        "Description": "Venez c\u00e9l\u00e9brer les 3 ans de la clinique avec nous lors d'une journ\u00e9e sp\u00e9ciale remplie de joie, de gratitude et de souvenirs m\u00e9morables !",
-        "Date": "06/06/2024",
-        "Location": "3882 Blvd Saint-Elz\u00e9ar O",
-        "Price": 0.0,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F750799469%2F700314856103%2F1%2Foriginal.20240423-215900?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1742%2C2624%2C1312&s=8dce01bf902b77a1e43744a4b8207213",
-        "Organizer": "Caroline Duchaine - Clinique CD M\u00e9dico-Esth\u00e9tique",
-        "StartTime": "Thursday, Jun 6, 2024 5:00 PM",
-        "EndTime": "9:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/feter-les-3-ans-de-la-clinique-tickets-888764397237?aff=ebdssbdestsearch",
-        "Tags": []
-    },
-    {
-        "Title": "Navigating Today\u2019s Dynamic Retail Landscape: Strategies for Success",
-        "Description": "Discover effective strategies and innovative approaches you need to succeed in the dynamic retail industry.",
-        "Date": "06/06/2024",
-        "Location": "Desjardins, Downtown Branch",
-        "Price": 21.99,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F776888609%2F659599098%2F1%2Foriginal.20240527-132041?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2400%2C1200&s=07a5683b360bb3131e1807519c071fe9",
-        "Organizer": "YES Employment + Entrepreneurship",
-        "StartTime": "Thursday, Jun 6, 2024 5:30 PM",
-        "EndTime": "8:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/navigating-todays-dynamic-retail-landscape-strategies-for-success-tickets-900105107607?aff=ebdssbdestsearch",
-        "Tags": []
-    },
-    {
-        "Title": "YA LEVIS LIVE IN MONTR\u00c9AL, 8PM",
-        "Description": "Viens voir Ya Levis en live \u00e0 Montr\u00e9al, \u00e7a va \u00eatre de la bombe !",
-        "Date": "28/06/2024",
-        "Location": "Renaissance",
-        "Price": 49.49,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F752702409%2F1441594815593%2F1%2Foriginal.20240425-221359?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C296%2C1280%2C640&s=1cc0d0bd71c512759fc4d484836e544c",
-        "Organizer": "ENT. CLICKYEG & GOODVIBZPROMOTIONS",
-        "StartTime": "Friday, Jun 28, 2024 8:00 PM",
-        "EndTime": "11:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.5349762,
-        "Longitude": -73.619602,
-        "EventUrl": "https://www.eventbrite.ca/e/ya-levis-live-in-montreal-8pm-tickets-891297042447?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5349762,-73.619602",
-        "Tags": []
-    },
-    {
-        "Title": "Pika Pika by OtakuRave",
-        "Description": "Pok\u00e9mon-themed Cosplay Rave",
-        "Date": "07/06/2024",
-        "Location": "917 Rue Sainte-Catherine E",
-        "Price": 24.89,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F742442559%2F1941147566923%2F1%2Foriginal.20240412-201301?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=45397b8d76328d59e51630405de1dd73",
-        "Organizer": "Kik Cosplay & Events",
-        "StartTime": "Fri, Jun 7, 2024 10:00 PM",
-        "EndTime": "Sat, Jun 8, 2024 3:00 AM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.6342237,
-        "Longitude": -73.5059529,
-        "EventUrl": "https://www.eventbrite.ca/e/pika-pika-by-otakurave-tickets-871243150717?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.6342237,-73.5059529",
-        "Tags": [
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1b7e1210-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Photography",
-                "emoji": "\ud83d\udcf8",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1d344290-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Pop",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "290a1bb0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Techno",
-                "emoji": "\ud83c\udfa7",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Afrobeats Montreal Day Party with Starboy DJ",
-        "Description": "Afrobeats Montreal Day Party with Starboy DJ  Saturday June 8th",
-        "Date": "08/06/2024",
-        "Location": "3616 Boul. Saint-Laurent",
-        "Price": 35.89,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F760159619%2F294276161836%2F1%2Foriginal.20240505-223745?w=500&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C180%2C500%2C250&s=4ee60437d5dd070cc532c5ee05c8df2d",
-        "Organizer": "Afrobeats Montreal",
-        "StartTime": "Saturday, Jun 8, 2024 3:00 PM",
-        "EndTime": "9:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.51391894509804,
-        "Longitude": -73.5727702117647,
-        "EventUrl": "https://www.eventbrite.ca/e/afrobeats-montreal-day-party-with-starboy-dj-tickets-898761498837?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.51391894509804,-73.5727702117647",
-        "Tags": [
-            {
-                "id": "2995c8b0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "World Music",
-                "emoji": "\ud83c\udf0d",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Tabestoon Kootahe 3",
-        "Description": "Experience the biggest Iranian summer party \"Tabestoon Kootahe 3\" - \u062a\u062c\u0631\u0628\u0647\u200c\u0627\u06cc \u0646\u0627\u0628 \u0628\u0627 \u0628\u0632\u0631\u06af\u062a\u0631\u06cc\u0646 \u062c\u0634\u0646 \u062a\u0627\u0628\u0633\u062a\u0627\u0646\u06cc \u0627\u06cc\u0631\u0627\u0646\u06cc \u062a\u0627\u0628\u0633\u062a\u0648\u0646 \u06a9\u0648\u062a\u0627\u0647 \u06f3",
-        "Date": "02/06/2024",
-        "Location": "Cave Montreal - Venue",
-        "Price": 19.96,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F746323359%2F392203231251%2F1%2Foriginal.20240418-002925?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C98%2C3108%2C1554&s=e14923554516c4dedd621be3889088ea",
-        "Organizer": "Yeke Montreal",
-        "StartTime": "9:00 PM",
-        "EndTime": null,
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/tabestoon-kootahe-3-tickets-879052609017?aff=ebdssbdestsearch",
-        "Tags": [
-            {
-                "id": "1d344290-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Pop",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "2995c8b0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "World Music",
-                "emoji": "\ud83c\udf0d",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Products That Count Presents: The 2024 Quebec Product Awards",
-        "Description": "Celebrating the best products in Quebec / C\u00e9l\u00e9brons l'excellence en gestion de produits au Qu\u00e9bec",
-        "Date": "30/05/2024",
-        "Location": "Maison Notman House",
-        "Price": 42.89,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F768644339%2F248337702961%2F1%2Foriginal.20240515-182536?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=2538ce3cb04f86a1da4fcc8aeadded60",
-        "Organizer": "Products That Count",
-        "StartTime": "20:00",
-        "EndTime": "22:00",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.51189735,
-        "Longitude": -73.57008169586781,
-        "EventUrl": "https://www.eventbrite.com/e/products-that-count-presents-the-2024-quebec-product-awards-registration-906987412767?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.51189735,-73.57008169586781",
+        "Latitude": 45.5031824,
+        "Longitude": -73.5698065,
+        "EventUrl": "https://www.eventbrite.ca/e/lgbtq-mena-business-networkingreseautage-daffaire-lgbtq-mena-tickets-900888621117?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065",
         "Tags": []
     }
 ]
