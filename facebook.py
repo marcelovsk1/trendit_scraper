@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
 import openai
 
-client = openai.OpenAI(api_key='sk-proj-yqr04pojS7nwwUqkp20TT3BlbkFJUcdzCafxVZa09BZm5ccV')
+client = openai.OpenAI(api_key='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')
 
 def generate_tags(title, description):
     predefined_tags = [
@@ -198,7 +198,7 @@ def get_location_details(latitude, longitude):
         print(f"An error occurred while fetching location details: {e}")
         return None, None, None
 
-def scrape_facebook_events(driver, url, selectors, max_scroll=30):
+def scrape_facebook_events(driver, url, selectors, max_scroll=50):
     driver.get(url)
     driver.implicitly_wait(20)  # Wait for elements to load
     all_events = []
