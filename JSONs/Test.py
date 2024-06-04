@@ -13,7 +13,7 @@ import re
 import openai
 
 # OpenAI API Key
-client = openai.OpenAI(api_key='sk-proj-6VmWKDpRa2BARtPgt3OaT3BlbkFJM1JX0nwrgSSET5nDq3y9')
+client = openai.OpenAI(api_key='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')
 
 def generate_tags(title, description):
     predefined_tags = [
