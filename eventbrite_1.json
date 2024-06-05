@@ -21,7 +21,7 @@
         "Description": "Le RUSHGQ vous convie \u00e0 sa journ\u00e9e scientifique intitul\u00e9e \u00ab L\u2019\u00e9volution et l\u2019avenir de l\u2019UCDG, \u00e0 l\u2019aube de ses 40 ans \u00bb",
         "Date": "17/06/2024",
         "Location": "Institut universitaire de g\u00e9riatrie de Montr\u00e9al (IUGM)",
-        "Price": "0.0 - 161.08",
+        "Price": null,
         "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F729943239%2F788692176963%2F1%2Foriginal.20240327-200537?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C764%2C382&s=f9df9671d0484b2097a1e6390c81b42e",
         "Organizer": "CRIUGM",
         "StartTime": "Monday, Jun 17, 2024 7:30 AM",
@@ -185,116 +185,6 @@
                 "name": "Dance",
                 "emoji": "\ud83d\udc83",
                 "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Canadian Mobile Music School Music Celebration Concert !",
-        "Description": "Get ready for an incredible music concert featuring the talented students and teachers from CMMS. It's  gonna be a day to remember!",
-        "Date": "08/06/2024",
-        "Location": "Elgar Community Centre",
-        "Price": null,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F758528429%2F2129666496213%2F1%2Foriginal.20240503-034855?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C6912%2C3456&s=25b83b6327c96c1da280a50b5357d2c6",
-        "Organizer": "Canadian Mobile Music School",
-        "StartTime": "Saturday, Jun 8, 2024 11:30 AM",
-        "EndTime": "1:15 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.4568673,
-        "Longitude": -73.5474463,
-        "EventUrl": "https://www.eventbrite.ca/e/canadian-mobile-music-school-music-celebration-concert-tickets-893816086977?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4568673,-73.5474463",
-        "Tags": [
-            {
-                "id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Singing",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "YA LEVIS LIVE IN MONTR\u00c9AL, 8PM",
-        "Description": "Viens voir Ya Levis en live \u00e0 Montr\u00e9al, \u00e7a va \u00eatre de la bombe !",
-        "Date": "28/06/2024",
-        "Location": "Renaissance",
-        "Price": 49.49,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F752702409%2F1441594815593%2F1%2Foriginal.20240425-221359?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C296%2C1280%2C640&s=1cc0d0bd71c512759fc4d484836e544c",
-        "Organizer": "ENT. CLICKYEG & GOODVIBZPROMOTIONS",
-        "StartTime": "Friday, Jun 28, 2024 8:00 PM",
-        "EndTime": "11:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.5349762,
-        "Longitude": -73.619602,
-        "EventUrl": "https://www.eventbrite.ca/e/ya-levis-live-in-montreal-8pm-tickets-891297042447?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5349762,-73.619602",
-        "Tags": []
-    },
-    {
-        "Title": "EvolveDrupal Montreal Tech Summit & Pre-Summit Drupal Training",
-        "Description": "Favorisant l'innovation open source et la transformation num\u00e9rique. Promoting open source innovation & digital transformation.",
-        "Date": "14/06/2024",
-        "Location": "Montr\u00e9al CoWork",
-        "Price": "16.95 - 452.0",
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F750744599%2F895441074913%2F1%2Foriginal.20240423-205115?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31f97ca50ecd9018331b6199f30604e5",
-        "Organizer": "Evolving Web",
-        "StartTime": "Friday, Jun 14, 2024 9:00 AM",
-        "EndTime": "7:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.5230531,
-        "Longitude": -73.5815338,
-        "EventUrl": "https://www.eventbrite.ca/e/evolvedrupal-montreal-tech-summit-pre-summit-drupal-training-tickets-888603094777?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5230531,-73.5815338",
-        "Tags": []
-    },
-    {
-        "Title": "Opportunity Bridal - Vente de robes de mari\u00e9e - Montreal",
-        "Description": "Vente de robes de mari\u00e9e sur un jour seulement, avec uniquement des robes de mari\u00e9e neuves et des accessoires. Jusqu\u2019\u00e0 80% de r\u00e9duction.",
-        "Date": "08/06/2024",
-        "Location": "Radisson Hotel Montreal Airport",
-        "Price": "0.0 - 54.24",
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F715978149%2F33030646273%2F1%2Foriginal.20240310-184219?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=287bd3404891070434859191e3b93580",
-        "Organizer": "Opportunity Bridal",
-        "StartTime": "Saturday, Jun 8, 2024 9:00 AM",
-        "EndTime": "4:00 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": null,
-        "Longitude": null,
-        "EventUrl": "https://www.eventbrite.ca/e/opportunity-bridal-vente-de-robes-de-mariee-montreal-tickets-860463739207?aff=ebdssbdestsearch",
-        "Tags": [
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Soir\u00e9e R\u00e9seautage Polytech en Am\u00e9rique du Nord - Afterwork",
-        "Description": "Rejoignez-nous pour un rassemblement des anciens \u00e9l\u00e8ves de Polytech en Am\u00e9rique du Nord - un excellent moyen de r\u00e9seauter",
-        "Date": "17/06/2024",
-        "Location": "355 Rue Sainte-Catherine #500",
-        "Price": null,
-        "ImageURL": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F766218679%2F274798960173%2F1%2Foriginal.20240513-134310?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C266%2C1080%2C540&s=044293a2a2d0c87dca94d800227fad53",
-        "Organizer": "Celine Khuu",
-        "StartTime": "Monday, Jun 17, 2024 6:00 PM",
-        "EndTime": "8:30 PM",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "Latitude": 45.5062326,
-        "Longitude": -73.5671491,
-        "EventUrl": "https://www.eventbrite.ca/e/soiree-reseautage-polytech-en-amerique-du-nord-afterwork-tickets-890449296817?aff=ebdssbdestsearch",
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5062326,-73.5671491",
-        "Tags": [
-            {
-                "id": "005a4420-88c3-11ee-ab49-69be32c19a11",
-                "name": "Startup",
-                "emoji": "\ud83d\ude80",
-                "tagCategory": "Education"
             }
         ]
     }

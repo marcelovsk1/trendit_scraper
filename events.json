@@ -1,24 +1,23 @@
 [
     {
-        "Title": "Make friends in Montr\u00e9al - Every week",
-        "Description": "Meet new people & make international friends in a cool and international atmosphere.",
+        "Title": "Epicure Classics",
+        "Description": "",
         "Date": [
-            "04/06/2024 at 07:00 PM",
-            "04/06/2024 at 10:00 PM"
+            "08/06/2024 at 06:00 PM",
+            "08/06/2024 at 09:00 PM"
         ],
-        "StartTime": "7:00\u202fPM",
-        "EndTime": "10:00\u202fPM",
-        "Location": "Birra Bar",
-        "Latitude": 45.5343831,
-        "Longitude": -73.617344,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5343831,-73.617344",
-        "City": "Montr\u00e9al",
+        "StartTime": "6:00\u202fPM",
+        "EndTime": "9:00\u202fPM",
+        "Location": "Epicure Market",
+        "Latitude": 45.4288546,
+        "Longitude": -73.8272783,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4288546,-73.8272783",
+        "City": null,
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/248424134920168/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/403599164_731504205667975_304727111953160691_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5lHp2GRdPsQQ7kNvgEGsm2T&_nc_ht=scontent-lga3-2.xx&oh=00_AYBlwVthg5IwyYsvsVrXxCfwDm9ODi8uuBUL8EKeCUY3jQ&oe=666452A0",
-        "Organizer": "Make Friends events",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/403599164_731504205667975_304727111953160691_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5lHp2GRdPsQQ7kNvgEGsm2T&_nc_ht=scontent-lga3-2.xx&oh=00_AYBlwVthg5IwyYsvsVrXxCfwDm9ODi8uuBUL8EKeCUY3jQ&oe=666452A0",
-        "Tags": []
+        "EventUrl": "https://www.facebook.com/events/975133527420048/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444504050_974478591140106_1810846187647355395_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=A_0RO0cjNiUQ7kNvgFkRp4V&_nc_ht=scontent-lga3-2.xx&oh=00_AYAh9JuZXtel-TGjLD7dwvla98SUM6aUMe3PUZ8xDlrQaA&oe=6665A030",
+        "Organizer": "Epicure Classics",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444504050_974478591140106_1810846187647355395_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=A_0RO0cjNiUQ7kNvgFkRp4V&_nc_ht=scontent-lga3-2.xx&oh=00_AYAh9JuZXtel-TGjLD7dwvla98SUM6aUMe3PUZ8xDlrQaA&oe=6665A030"
     },
     {
         "Title": "Pika Pika by OtakuRave",
@@ -36,41 +35,29 @@
         "City": null,
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/235876386214714/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437777945_122135516774108473_6378500223015218860_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y-yBoJ6oyJEQ7kNvgGS22vk&_nc_ht=scontent-lga3-2.xx&oh=00_AYDRE2J2vos2vnJIsLQrgSmOAW1TWVEy69cepbXN7QFtzw&oe=66646170",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437777945_122135516774108473_6378500223015218860_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y-yBoJ6oyJEQ7kNvgGS22vk&_nc_ht=scontent-lga3-2.xx&oh=00_AYA9lnrw_Vd_pOjszD2vkkITjeSnjOkXH9Gl975mJ8mXvA&oe=66657AB0",
         "Organizer": "Kik Cosplay & Events",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437777945_122135516774108473_6378500223015218860_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y-yBoJ6oyJEQ7kNvgGS22vk&_nc_ht=scontent-lga3-2.xx&oh=00_AYDRE2J2vos2vnJIsLQrgSmOAW1TWVEy69cepbXN7QFtzw&oe=66646170",
-        "Tags": [
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1b7e1210-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Photography",
-                "emoji": "\ud83d\udcf8",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1d344290-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Pop",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "290a1bb0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Techno",
-                "emoji": "\ud83c\udfa7",
-                "tagCategory": "Musique"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437777945_122135516774108473_6378500223015218860_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=y-yBoJ6oyJEQ7kNvgGS22vk&_nc_ht=scontent-lga3-2.xx&oh=00_AYA9lnrw_Vd_pOjszD2vkkITjeSnjOkXH9Gl975mJ8mXvA&oe=66657AB0"
+    },
+    {
+        "Title": "Make friends & BlaBla Language Exchange Montr\u00e9al - Every Tuesday - Recurrent meetings",
+        "Description": "Meet new people & make international friends in a cool and international atmosphere.",
+        "Date": [
+            "11/06/2024 at 07:00 PM",
+            "11/06/2024 at 10:00 PM"
+        ],
+        "StartTime": "7:00\u202fPM",
+        "EndTime": "10:00\u202fPM",
+        "Location": "Birra Bar",
+        "Latitude": 45.5343831,
+        "Longitude": -73.617344,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5343831,-73.617344",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/248424134920168/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/403599164_731504205667975_304727111953160691_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5lHp2GRdPsQQ7kNvgEGsm2T&_nc_ht=scontent-lga3-2.xx&oh=00_AYAllorINBqza5CDlRyoYL0POKdBGgojjo9zQedqkAJZzw&oe=66656BE0",
+        "Organizer": "Make Friends events",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/403599164_731504205667975_304727111953160691_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5lHp2GRdPsQQ7kNvgEGsm2T&_nc_ht=scontent-lga3-2.xx&oh=00_AYAllorINBqza5CDlRyoYL0POKdBGgojjo9zQedqkAJZzw&oe=66656BE0"
     },
     {
         "Title": "CARNIVAL ON THE CANAL 2024",
@@ -88,35 +75,9 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1418822182115768/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436562268_3888262201461149_1730935310657599405_n.png?stp=dst-png_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g49s0a647ccQ7kNvgEOfTq6&_nc_ht=scontent-lga3-2.xx&oh=00_AYD7tiVMqjKUBPIBCnfJiDFFG98PBtlh4JW6AVwDpGPtxA&oe=6664666C",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436562268_3888262201461149_1730935310657599405_n.png?stp=dst-png_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g49s0a647ccQ7kNvgEOfTq6&_nc_ht=scontent-lga3-2.xx&oh=00_AYD5NOuipDrwv9hro5QvT3lCYixSnFmTuose4vWaIW2ZBw&oe=66657FAC",
         "Organizer": "Rickey D Events",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436562268_3888262201461149_1730935310657599405_n.png?stp=dst-png_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g49s0a647ccQ7kNvgEOfTq6&_nc_ht=scontent-lga3-2.xx&oh=00_AYD7tiVMqjKUBPIBCnfJiDFFG98PBtlh4JW6AVwDpGPtxA&oe=6664666C",
-        "Tags": [
-            {
-                "id": "00fb7c50-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Reggae",
-                "emoji": " \ud83d\udc9a",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "06759f60-5c8d-11ee-8ae0-fb963ffbedc0",
-                "name": "Holiday",
-                "emoji": "\ud83c\udf1e",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "2995c8b0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "World Music",
-                "emoji": "\ud83c\udf0d",
-                "tagCategory": "Musique"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436562268_3888262201461149_1730935310657599405_n.png?stp=dst-png_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g49s0a647ccQ7kNvgEOfTq6&_nc_ht=scontent-lga3-2.xx&oh=00_AYD5NOuipDrwv9hro5QvT3lCYixSnFmTuose4vWaIW2ZBw&oe=66657FAC"
     },
     {
         "Title": "3rd Year Anniversary Party",
@@ -134,301 +95,9 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/986853952562750/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/445248352_470316575388501_4764813913181889113_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j1JUxGJpr-YQ7kNvgFCN3br&_nc_ht=scontent-lga3-2.xx&oh=00_AYDBTvTfQle8gB1mv_9LPimQ2A2Gg2evi0kOFo7jqnXNvQ&oe=66645A3B",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/445248352_470316575388501_4764813913181889113_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j1JUxGJpr-YQ7kNvgFCN3br&_nc_ht=scontent-lga3-2.xx&oh=00_AYDWkUlS7sBCnJis9qmKjqh04z168Jc1bacPiqk7-gsahw&oe=6665737B",
         "Organizer": "BAR Monti\u2019s",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/445248352_470316575388501_4764813913181889113_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j1JUxGJpr-YQ7kNvgFCN3br&_nc_ht=scontent-lga3-2.xx&oh=00_AYDBTvTfQle8gB1mv_9LPimQ2A2Gg2evi0kOFo7jqnXNvQ&oe=66645A3B",
-        "Tags": []
-    },
-    {
-        "Title": "Trade In Event - Montreal - KEH at Photo Service",
-        "Description": "Annual KEH Trade in Event at Photo Service in Montreal, Quebec. Come visit us June 8th from 10AM to 5PM.",
-        "Date": [
-            "08/06/2024 at 10:00 AM",
-            "08/06/2024 at 05:00 PM"
-        ],
-        "StartTime": "10:00\u202fAM",
-        "EndTime": "5:00\u202fPM",
-        "Location": "Photo Service",
-        "Latitude": 45.5034609,
-        "Longitude": -73.557563,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5034609,-73.557563",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1466862350594469/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/425718273_796837699148107_2782963884949608392_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9grbJTlHLfQQ7kNvgFL6GFW&_nc_ht=scontent-lga3-2.xx&oh=00_AYBcqLk_bwc5V_GjP-hGQdPuXdu3FRaGXUU3xwJelNCYPw&oe=66646ACE",
-        "Organizer": "FUJIFILM X/GFX CANADA",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/425718273_796837699148107_2782963884949608392_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9grbJTlHLfQQ7kNvgFL6GFW&_nc_ht=scontent-lga3-2.xx&oh=00_AYBcqLk_bwc5V_GjP-hGQdPuXdu3FRaGXUU3xwJelNCYPw&oe=66646ACE",
-        "Tags": [
-            {
-                "id": "1b7e1210-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Photography",
-                "emoji": "\ud83d\udcf8",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Stand Up Comedy in NDG/Girouard Park",
-        "Description": "Watch Stand Up Comedy in NDG/Girouard Park at 8pm",
-        "Date": [
-            "08/06/2024 at 07:45 PM",
-            "08/06/2024 at 10:00 PM"
-        ],
-        "StartTime": "7:45\u202fPM",
-        "EndTime": "10:00\u202fPM",
-        "Location": "Girouard parc",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/462488822825653/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436275559_747173554229186_6733727829240301843_n.png?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tquGSut6XTwQ7kNvgHnmH-R&_nc_ht=scontent-lga3-2.xx&oh=00_AYDrcpPgeZCkubd2a_c4Euwy5Nr1UfaOBOT77jQfBkRrqg&oe=666461AB",
-        "Organizer": "NDG Comedy",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436275559_747173554229186_6733727829240301843_n.png?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tquGSut6XTwQ7kNvgHnmH-R&_nc_ht=scontent-lga3-2.xx&oh=00_AYDrcpPgeZCkubd2a_c4Euwy5Nr1UfaOBOT77jQfBkRrqg&oe=666461AB",
-        "Tags": []
-    },
-    {
-        "Title": "MAJOR AMiCi EVENT -  ITAL AUTOFEST  & Montreal Ferrari Festival \u2013 Little Italy Montreal",
-        "Description": "ITAL AUTOFEST \u2013 Montreal\u2019s Annual Official Italian Automobile Festival\u2026 (formerly known as the Fiat Breakout). This is a major event put on by our partner AMiCi club in Montreal; C\u2026 See more",
-        "Date": [
-            "07/07/2024 at 10:00 AM",
-            "07/07/2024 at 04:00 PM"
-        ],
-        "StartTime": "10:00\u202fAM",
-        "EndTime": "4:00\u202fPM",
-        "Location": "Little Italy, Montreal",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1413677619352343/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441503065_991561999638660_7188568951018206820_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X5ac1_NDzd4Q7kNvgFsUbeY&_nc_ht=scontent-lga3-2.xx&oh=00_AYBwJ37768QrUZUclbNE9Pvfr2_nSe15qtzbGocOSjAE-w&oe=666462E2",
-        "Organizer": "Ontario Fiat Club",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441503065_991561999638660_7188568951018206820_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X5ac1_NDzd4Q7kNvgFsUbeY&_nc_ht=scontent-lga3-2.xx&oh=00_AYBwJ37768QrUZUclbNE9Pvfr2_nSe15qtzbGocOSjAE-w&oe=666462E2",
-        "Tags": []
-    },
-    {
-        "Title": "Raquel Maestre is... ADMIRING LIBRARIANS",
-        "Description": "THE SHOW THAT WILL PUT AN END TO THE TRANS DEBATE\u2026 FOR BETTER OR WORSE",
-        "Date": [
-            "08/06/2024 at 10:45 PM",
-            "08/06/2024 at 11:45 PM"
-        ],
-        "StartTime": "10:45\u202fPM",
-        "EndTime": "11:45\u202fPM",
-        "Location": "O Patro Vys",
-        "Latitude": 45.5234341,
-        "Longitude": -73.5831098,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5234341,-73.5831098",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1116947189449269/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435084098_385558954381030_735339681385066658_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JqfZV9t2DooQ7kNvgGBcIrj&_nc_ht=scontent-lga3-2.xx&oh=00_AYDzKegNFH2ingqzgqwDcLy1AsA-l-SMBwoQCtwPYlu_mg&oe=666477E3",
-        "Organizer": "Very Pretentious Comedy",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435084098_385558954381030_735339681385066658_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JqfZV9t2DooQ7kNvgGBcIrj&_nc_ht=scontent-lga3-2.xx&oh=00_AYDzKegNFH2ingqzgqwDcLy1AsA-l-SMBwoQCtwPYlu_mg&oe=666477E3",
-        "Tags": []
-    },
-    {
-        "Title": "Late in Life Lesbian, a comedy show for the MTL Fringe Festival",
-        "Description": "Part of the 34th edition of the Montreal FRINGE Festival, Late in Life Lesbian is a hilarious and raw half-hour stand-up comedy special about learning to love yourself and living y\u2026 See more",
-        "Date": [
-            "08/06/2024 at 09:00 PM",
-            "08/06/2024 at 09:30 PM"
-        ],
-        "StartTime": "9:00\u202fPM",
-        "EndTime": "9:30\u202fPM",
-        "Location": "Petit Campus",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/969043494064037/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/433136866_861457382658602_2046350475700981892_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=79TpDsnx8NwQ7kNvgH31I1c&_nc_ht=scontent-lga3-2.xx&oh=00_AYCHPvIwIklsaJYT7K4Wm6siLUMRFNhcXpwCjW801ZBx0g&oe=66646083",
-        "Organizer": "Shelby Thevenot",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/433136866_861457382658602_2046350475700981892_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=79TpDsnx8NwQ7kNvgH31I1c&_nc_ht=scontent-lga3-2.xx&oh=00_AYCHPvIwIklsaJYT7K4Wm6siLUMRFNhcXpwCjW801ZBx0g&oe=66646083",
-        "Tags": []
-    },
-    {
-        "Title": "Taping in Clinical Practice - Taping en pratique clinique",
-        "Description": "This workshop will introduce basic concepts of taping (traditional taping, kinesio taping and dynamic taping) for the clinician and cover the different types of material used in va\u2026 See more",
-        "Date": [
-            "14/06/2024 at 08:00 AM",
-            "14/06/2024 at 05:00 PM"
-        ],
-        "StartTime": "8:00\u202fAM",
-        "EndTime": "5:00\u202fPM",
-        "Location": "McGill School of Physical and Occupational Therapy",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/429872806293644/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440197068_921588836419893_7652423309423061649_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wf7tS7UzyH0Q7kNvgG5LuMY&_nc_ht=scontent-lga3-1.xx&oh=00_AYC38IMBrkoD5sMpylhhDYKPqmkm2Gci7-DCXRLwvXJqTQ&oe=66646DE0",
-        "Organizer": "McGill School of Physical and Occupational Therapy",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440197068_921588836419893_7652423309423061649_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wf7tS7UzyH0Q7kNvgG5LuMY&_nc_ht=scontent-lga3-1.xx&oh=00_AYC38IMBrkoD5sMpylhhDYKPqmkm2Gci7-DCXRLwvXJqTQ&oe=66646DE0",
-        "Tags": []
-    },
-    {
-        "Title": "Bunny Party by OtakuRave",
-        "Description": "Get ready to hop into the ultimate Bunny Party by OtakuRave, where cute bunnies, awesome music, and epic fun collide!",
-        "Date": [
-            "12/07/2024 at 10:00 PM",
-            "13/07/2024 at 03:00 AM"
-        ],
-        "StartTime": "10:00\u202fPM",
-        "EndTime": "3:00\u202fAM",
-        "Location": "917 Rue Ste-Catherine E, Montr\u00e9al, QC H2L 2E5, Canada",
-        "Latitude": 45.6342237,
-        "Longitude": -73.5059529,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.6342237,-73.5059529",
-        "City": null,
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/923438212603724/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442508443_122141029466108473_4411421224267469376_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g4yRypzHEO0Q7kNvgFTzkTz&_nc_ht=scontent-lga3-2.xx&oh=00_AYDnr9kqs_LkDt8BA5ZV2ndehYMMR1Fgu1AuWE7WbRnd8Q&oe=66647A45",
-        "Organizer": "OtakuRave Mtl",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442508443_122141029466108473_4411421224267469376_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g4yRypzHEO0Q7kNvgFTzkTz&_nc_ht=scontent-lga3-2.xx&oh=00_AYDnr9kqs_LkDt8BA5ZV2ndehYMMR1Fgu1AuWE7WbRnd8Q&oe=66647A45",
-        "Tags": [
-            {
-                "id": "01785870-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Karaoke",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1d344290-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Pop",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "290a1bb0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Techno",
-                "emoji": "\ud83c\udfa7",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "All-You-Can-Play Fridays at the Montreal Pinball Arcade",
-        "Description": "Roll up your sleeves, slap on that Groovy Cologne, and grab those Bell Bottom Jeans! The Montreal Pinball Arcade is bringing back the Swing and Sizzle of the 70\u2019s & 80\u2019s with Crazy\u2026 See more",
-        "Date": [
-            "07/06/2024 at 05:00 PM",
-            "07/06/2024 at 10:00 PM"
-        ],
-        "StartTime": "5:00\u202fPM",
-        "EndTime": "10:00\u202fPM",
-        "Location": "923 Avenue Girouard, Montr\u00e9al, QC H4A 3B9, Canada",
-        "Latitude": 45.46938498086396,
-        "Longitude": -73.6047805786215,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.46938498086396,-73.6047805786215",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/621145800042423/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/420895862_291799287222220_6381538424338241872_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=sOLz1gntk28Q7kNvgHkRkSB&_nc_ht=scontent-lga3-1.xx&oh=00_AYAgL0BSKOFCvy-4GaKabcwWknf5wcDPtjun6mOCy7EtDg&oe=666479C1",
-        "Organizer": "The Montr\u00e9al Pinball Arcade",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/420895862_291799287222220_6381538424338241872_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=sOLz1gntk28Q7kNvgHkRkSB&_nc_ht=scontent-lga3-1.xx&oh=00_AYAgL0BSKOFCvy-4GaKabcwWknf5wcDPtjun6mOCy7EtDg&oe=666479C1",
-        "Tags": [
-            {
-                "id": "01785870-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Karaoke",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1cbfc5a0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Jazz",
-                "emoji": " \ud83c\udfb5",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "1de59e30-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Rock",
-                "emoji": "\ud83c\udfb8",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "263997d0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Jazz",
-                "emoji": " \ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "27a4a0f0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Rock and Roll",
-                "emoji": "\ud83c\udfb8",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Family Funday Sundays \u2013 Unlimited Play @ The Montr\u00e9al Pinball Arcade!",
-        "Description": "Family Funday Sundays aim to connect and resonate with Families. We understand the joys of bonding over games, so we\u2019ve launched this weekly event priced at just $15.00 for those a\u2026 See more",
-        "Date": [
-            "09/06/2024 at 11:00 AM",
-            "09/06/2024 at 04:00 PM"
-        ],
-        "StartTime": "11:00\u202fAM",
-        "EndTime": "4:00\u202fPM",
-        "Location": "923 Avenue Girouard, Montr\u00e9al, QC H4A 3B9, Canada",
-        "Latitude": 45.46938498086396,
-        "Longitude": -73.6047805786215,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.46938498086396,-73.6047805786215",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1080828013326811/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/417117502_284524207949728_6952823090632643695_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eDQE8PI2QQwQ7kNvgHEQR0-&_nc_ht=scontent-lga3-1.xx&oh=00_AYCep9Aw9IaZeYftmP5SYu8UC0oHBiH_xmecib48L3TDDw&oe=666459DA",
-        "Organizer": "The Montr\u00e9al Pinball Arcade",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/417117502_284524207949728_6952823090632643695_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eDQE8PI2QQwQ7kNvgHEQR0-&_nc_ht=scontent-lga3-1.xx&oh=00_AYCep9Aw9IaZeYftmP5SYu8UC0oHBiH_xmecib48L3TDDw&oe=666459DA",
-        "Tags": []
-    },
-    {
-        "Title": "Qigong & Meditation for Integration",
-        "Description": "Qigong is a wholistic system of self-healing exercise and meditation, an ancient, evolving practice that includes healing posture, movement, self-massage, breathing techniques and \u2026 See more",
-        "Date": [
-            "04/06/2024 at 07:00 PM",
-            "04/06/2024 at 08:30 PM"
-        ],
-        "StartTime": "7:00\u202fPM",
-        "EndTime": "8:30\u202fPM",
-        "Location": "2800 Rue des Andes, St-Laurent, QC H4R 3G3, Canada",
-        "Latitude": 45.511348136,
-        "Longitude": -73.714874952,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.511348136,-73.714874952",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1364142500969503/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424674033_895536759242266_7118968129527487143_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QIp1cROt_wsQ7kNvgHFDSi5&_nc_ht=scontent-lga3-2.xx&oh=00_AYDH7cF7mtFE7TAR7P9BNcHQqvPgd5GRmKTeZ92ugw3aIQ&oe=6664568F",
-        "Organizer": "Shamanica Institute",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424674033_895536759242266_7118968129527487143_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QIp1cROt_wsQ7kNvgHFDSi5&_nc_ht=scontent-lga3-2.xx&oh=00_AYDH7cF7mtFE7TAR7P9BNcHQqvPgd5GRmKTeZ92ugw3aIQ&oe=6664568F",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/445248352_470316575388501_4764813913181889113_n.jpg?stp=dst-jpg_fb50_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=j1JUxGJpr-YQ7kNvgFCN3br&_nc_ht=scontent-lga3-2.xx&oh=00_AYDWkUlS7sBCnJis9qmKjqh04z168Jc1bacPiqk7-gsahw&oe=6665737B"
     },
     {
         "Title": "Parent/Baby Meetup in the Park!",
@@ -446,10 +115,49 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1442745446629279/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436096655_10106148791559357_6800185320501507849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RuiQUEF3ZZYQ7kNvgE3EnJu&_nc_ht=scontent-lga3-2.xx&oh=00_AYBx18tefKg--LpuwKPO6kRL_5fA6rLq1-eZAK7LdBgFnA&oe=666483F6",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436096655_10106148791559357_6800185320501507849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RuiQUEF3ZZYQ7kNvgE3EnJu&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqUwqfDjZJccOEqaHZfw-02_s5H4zlTe7a9klKD0ekdA&oe=66659D36",
         "Organizer": "MotherWit Doula Care",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436096655_10106148791559357_6800185320501507849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RuiQUEF3ZZYQ7kNvgE3EnJu&_nc_ht=scontent-lga3-2.xx&oh=00_AYBx18tefKg--LpuwKPO6kRL_5fA6rLq1-eZAK7LdBgFnA&oe=666483F6",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436096655_10106148791559357_6800185320501507849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RuiQUEF3ZZYQ7kNvgE3EnJu&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqUwqfDjZJccOEqaHZfw-02_s5H4zlTe7a9klKD0ekdA&oe=66659D36"
+    },
+    {
+        "Title": "Trade In Event - Montreal - KEH at Photo Service",
+        "Description": "Annual KEH Trade in Event at Photo Service in Montreal, Quebec. Come visit us June 8th from 10AM to 5PM.",
+        "Date": [
+            "08/06/2024 at 10:00 AM",
+            "08/06/2024 at 05:00 PM"
+        ],
+        "StartTime": "10:00\u202fAM",
+        "EndTime": "5:00\u202fPM",
+        "Location": "Photo Service",
+        "Latitude": 45.5034609,
+        "Longitude": -73.557563,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5034609,-73.557563",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1466862350594469/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/425718273_796837699148107_2782963884949608392_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9grbJTlHLfQQ7kNvgFL6GFW&_nc_ht=scontent-lga3-2.xx&oh=00_AYBBE1UkTpRzn4u4qWP1rRObsAOUF9ZqCjJF7-4CCVWNXg&oe=6665840E",
+        "Organizer": "FUJIFILM X/GFX CANADA",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/425718273_796837699148107_2782963884949608392_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9grbJTlHLfQQ7kNvgFL6GFW&_nc_ht=scontent-lga3-2.xx&oh=00_AYBBE1UkTpRzn4u4qWP1rRObsAOUF9ZqCjJF7-4CCVWNXg&oe=6665840E"
+    },
+    {
+        "Title": "Stand Up Comedy in NDG/Girouard Park",
+        "Description": "Watch Stand Up Comedy in NDG/Girouard Park at 8pm",
+        "Date": [
+            "08/06/2024 at 07:45 PM",
+            "08/06/2024 at 10:00 PM"
+        ],
+        "StartTime": "7:45\u202fPM",
+        "EndTime": "10:00\u202fPM",
+        "Location": "Girouard parc",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/462488822825653/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436275559_747173554229186_6733727829240301843_n.png?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tquGSut6XTwQ7kNvgHnmH-R&_nc_ht=scontent-lga3-2.xx&oh=00_AYDMKzz27mx6am3AwRcyAztRWgnjFvjqByk8B_JkijupiA&oe=66657AEB",
+        "Organizer": "NDG Comedy",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436275559_747173554229186_6733727829240301843_n.png?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tquGSut6XTwQ7kNvgHnmH-R&_nc_ht=scontent-lga3-2.xx&oh=00_AYDMKzz27mx6am3AwRcyAztRWgnjFvjqByk8B_JkijupiA&oe=66657AEB"
     },
     {
         "Title": "Spring Kizomba Dance Classes",
@@ -467,42 +175,53 @@
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/270418799395499/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441416746_972337810917566_938337414077279015_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UffPckHKPmkQ7kNvgEKLunY&_nc_ht=scontent-lga3-1.xx&oh=00_AYAqk_71djXLiTiNsmcULtTNtLkBhwDh2alJBfTkQIkeqw&oe=66647976",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441416746_972337810917566_938337414077279015_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-pLtIVJ_GsgQ7kNvgHQc4Uo&_nc_ht=scontent-lga3-1.xx&oh=00_AYDbbiX0MM9AbaMW9ozbcsDCVmssTP1yPwtXb3oU8Ya-6w&oe=666592B6",
         "Organizer": "Dr. Kizomba",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441416746_972337810917566_938337414077279015_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UffPckHKPmkQ7kNvgEKLunY&_nc_ht=scontent-lga3-1.xx&oh=00_AYAqk_71djXLiTiNsmcULtTNtLkBhwDh2alJBfTkQIkeqw&oe=66647976",
-        "Tags": [
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441416746_972337810917566_938337414077279015_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-pLtIVJ_GsgQ7kNvgHQc4Uo&_nc_ht=scontent-lga3-1.xx&oh=00_AYDbbiX0MM9AbaMW9ozbcsDCVmssTP1yPwtXb3oU8Ya-6w&oe=666592B6"
     },
     {
-        "Title": "Navigating Today\u2019s Dynamic Retail Landscape: Strategies for Success",
-        "Description": "Is retail the right choice for me? What is omnichannel marketing in retail? How do I deal with rising costs in today's market? What trends are shaping the retail industry and how d\u2026 See more",
+        "Title": "Raquel Maestre is... ADMIRING LIBRARIANS",
+        "Description": "THE SHOW THAT WILL PUT AN END TO THE TRANS DEBATE\u2026 FOR BETTER OR WORSE",
         "Date": [
-            "06/06/2024 at 05:30 PM",
-            "06/06/2024 at 08:30 PM"
+            "08/06/2024 at 10:45 PM",
+            "08/06/2024 at 11:45 PM"
         ],
-        "StartTime": "5:30\u202fPM",
-        "EndTime": "8:30\u202fPM",
-        "Location": "1101 Sainte-Catherine Ouest Montr\u00e9al, QC H3B 1H7",
-        "Latitude": 45.4761143,
-        "Longitude": -73.5997409,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4761143,-73.5997409",
-        "City": null,
+        "StartTime": "10:45\u202fPM",
+        "EndTime": "11:45\u202fPM",
+        "Location": "O Patro Vys",
+        "Latitude": 45.5234341,
+        "Longitude": -73.5831098,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5234341,-73.5831098",
+        "City": "Montr\u00e9al",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1903648900055477/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444781866_838245931669082_7147101689044812779_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uKWqxSoyoVYQ7kNvgHEeC_T&_nc_ht=scontent-lga3-2.xx&oh=00_AYBAcGLsBTQg2YMElmDzVoAy44cnZtnfRFz7_o9BY0GPZQ&oe=66646729",
-        "Organizer": "YES Employment + Entrepreneurship",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444781866_838245931669082_7147101689044812779_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uKWqxSoyoVYQ7kNvgHEeC_T&_nc_ht=scontent-lga3-2.xx&oh=00_AYBAcGLsBTQg2YMElmDzVoAy44cnZtnfRFz7_o9BY0GPZQ&oe=66646729",
-        "Tags": []
+        "EventUrl": "https://www.facebook.com/events/1116947189449269/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435084098_385558954381030_735339681385066658_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JqfZV9t2DooQ7kNvgGBcIrj&_nc_ht=scontent-lga3-2.xx&oh=00_AYCjH7W_wVV6fLbW02DpDWP-8T5CzZ1alvcy-Slk0eIwlg&oe=66659123",
+        "Organizer": "Very Pretentious Comedy",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435084098_385558954381030_735339681385066658_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JqfZV9t2DooQ7kNvgGBcIrj&_nc_ht=scontent-lga3-2.xx&oh=00_AYCjH7W_wVV6fLbW02DpDWP-8T5CzZ1alvcy-Slk0eIwlg&oe=66659123"
     },
     {
-        "Title": "Ital Autofest!!",
-        "Description": "\ufeff Sunday July 7th our annual Italian Car Festival will be held on Dante St. in Little Italy. You have VIP parking for your Italian Car or Motor Bike on Dante St. ( first come first\u2026 See more",
+        "Title": "Late in Life Lesbian, a comedy show for the MTL Fringe Festival",
+        "Description": "Part of the 34th edition of the Montreal FRINGE Festival, Late in Life Lesbian is a hilarious and raw half-hour stand-up comedy special about learning to love yourself and living y\u2026 See more",
+        "Date": [
+            "08/06/2024 at 09:00 PM",
+            "08/06/2024 at 09:30 PM"
+        ],
+        "StartTime": "9:00\u202fPM",
+        "EndTime": "9:30\u202fPM",
+        "Location": "Petit Campus",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/969043494064037/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/433136866_861457382658602_2046350475700981892_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=79TpDsnx8NwQ7kNvgH31I1c&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqFTRQrGJgDU1TMnZlbT59IeA6s-9WfkkT8EOrTyRJqg&oe=666579C3",
+        "Organizer": "Shelby Thevenot",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/433136866_861457382658602_2046350475700981892_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=79TpDsnx8NwQ7kNvgH31I1c&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqFTRQrGJgDU1TMnZlbT59IeA6s-9WfkkT8EOrTyRJqg&oe=666579C3"
+    },
+    {
+        "Title": "MAJOR AMiCi EVENT -  ITAL AUTOFEST  & Montreal Ferrari Festival \u2013 Little Italy Montreal",
+        "Description": "ITAL AUTOFEST \u2013 Montreal\u2019s Annual Official Italian Automobile Festival\u2026 (formerly known as the Fiat Breakout). This is a major event put on by our partner AMiCi club in Montreal; C\u2026 See more",
         "Date": [
             "07/07/2024 at 10:00 AM",
             "07/07/2024 at 04:00 PM"
@@ -515,11 +234,30 @@
         "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
         "City": "Montreal",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1492860021342780/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/430609428_887742520027083_8043505896328378035_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eRFTPQdjRagQ7kNvgFaaf5n&_nc_ht=scontent-lga3-2.xx&oh=00_AYD6f2PTfotfElFsJqSU0ZMycbmZU5Zaq4lpezQUkM9WRw&oe=66645A70",
-        "Organizer": "Club Fiat Montreal",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/430609428_887742520027083_8043505896328378035_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eRFTPQdjRagQ7kNvgFaaf5n&_nc_ht=scontent-lga3-2.xx&oh=00_AYD6f2PTfotfElFsJqSU0ZMycbmZU5Zaq4lpezQUkM9WRw&oe=66645A70",
-        "Tags": []
+        "EventUrl": "https://www.facebook.com/events/1413677619352343/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441503065_991561999638660_7188568951018206820_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X5ac1_NDzd4Q7kNvgFsUbeY&_nc_ht=scontent-lga3-2.xx&oh=00_AYC5B1mD3IRepcar2kv_C-97oMxOvhu7SET6953qQz8b9g&oe=66657C22",
+        "Organizer": "Ontario Fiat Club",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441503065_991561999638660_7188568951018206820_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X5ac1_NDzd4Q7kNvgFsUbeY&_nc_ht=scontent-lga3-2.xx&oh=00_AYC5B1mD3IRepcar2kv_C-97oMxOvhu7SET6953qQz8b9g&oe=66657C22"
+    },
+    {
+        "Title": "All-You-Can-Play Fridays at the Montreal Pinball Arcade",
+        "Description": "Roll up your sleeves, slap on that Groovy Cologne, and grab those Bell Bottom Jeans! The Montreal Pinball Arcade is bringing back the Swing and Sizzle of the 70\u2019s & 80\u2019s with Crazy\u2026 See more",
+        "Date": [
+            "07/06/2024 at 05:00 PM",
+            "07/06/2024 at 10:00 PM"
+        ],
+        "StartTime": "5:00\u202fPM",
+        "EndTime": "10:00\u202fPM",
+        "Location": "923 Avenue Girouard, Montr\u00e9al, QC H4A 3B9, Canada",
+        "Latitude": 45.46938498086396,
+        "Longitude": -73.6047805786215,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.46938498086396,-73.6047805786215",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/621145800042423/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/420895862_291799287222220_6381538424338241872_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jVBsx73thugQ7kNvgHcfIZA&_nc_ht=scontent-lga3-1.xx&oh=00_AYBab57fw3QWaWUvrM1d21JHYEt9kOM_ubHEjL7mcdszxA&oe=66659301",
+        "Organizer": "The Montr\u00e9al Pinball Arcade",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/420895862_291799287222220_6381538424338241872_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jVBsx73thugQ7kNvgHcfIZA&_nc_ht=scontent-lga3-1.xx&oh=00_AYBab57fw3QWaWUvrM1d21JHYEt9kOM_ubHEjL7mcdszxA&oe=66659301"
     },
     {
         "Title": "Quarta Kiz: Your Wednesday Kizomba Escape!",
@@ -537,17 +275,129 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1876639552757183/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438082186_122094199172298019_8289770405126143404_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YZRXBjXz2i0Q7kNvgGeS8Ti&_nc_ht=scontent-lga3-1.xx&oh=00_AYB1NsRpdQQmsGfjbvbk3uaAkhCT0VwyFsoH-FPvxppBeA&oe=666464DE",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438082186_122094199172298019_8289770405126143404_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YZRXBjXz2i0Q7kNvgGeS8Ti&_nc_ht=scontent-lga3-1.xx&oh=00_AYBePaA52JbyWqIZUAQlpmHtndOBomC8LPCbHuKkB0R8jg&oe=66657E1E",
         "Organizer": "Quarta Kiz",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438082186_122094199172298019_8289770405126143404_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YZRXBjXz2i0Q7kNvgGeS8Ti&_nc_ht=scontent-lga3-1.xx&oh=00_AYB1NsRpdQQmsGfjbvbk3uaAkhCT0VwyFsoH-FPvxppBeA&oe=666464DE",
-        "Tags": [
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438082186_122094199172298019_8289770405126143404_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YZRXBjXz2i0Q7kNvgGeS8Ti&_nc_ht=scontent-lga3-1.xx&oh=00_AYBePaA52JbyWqIZUAQlpmHtndOBomC8LPCbHuKkB0R8jg&oe=66657E1E"
+    },
+    {
+        "Title": "Bunny Party by OtakuRave",
+        "Description": "Get ready to hop into the ultimate Bunny Party by OtakuRave, where cute bunnies, awesome music, and epic fun collide!",
+        "Date": [
+            "12/07/2024 at 10:00 PM",
+            "13/07/2024 at 03:00 AM"
+        ],
+        "StartTime": "10:00\u202fPM",
+        "EndTime": "3:00\u202fAM",
+        "Location": "917 Rue Ste-Catherine E, Montr\u00e9al, QC H2L 2E5, Canada",
+        "Latitude": 45.6342237,
+        "Longitude": -73.5059529,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.6342237,-73.5059529",
+        "City": null,
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/923438212603724/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442508443_122141029466108473_4411421224267469376_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g4yRypzHEO0Q7kNvgFTzkTz&_nc_ht=scontent-lga3-2.xx&oh=00_AYCY6YZHUIE6_Uw7BMcYUorZg8FppnpQJgpkCPn_pnzfiA&oe=66659385",
+        "Organizer": "OtakuRave Mtl",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442508443_122141029466108473_4411421224267469376_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=g4yRypzHEO0Q7kNvgFTzkTz&_nc_ht=scontent-lga3-2.xx&oh=00_AYCY6YZHUIE6_Uw7BMcYUorZg8FppnpQJgpkCPn_pnzfiA&oe=66659385"
+    },
+    {
+        "Title": "Inksharing/Swatching Meetup",
+        "Description": "Come have tea, share your inks and swatch with us!",
+        "Date": [
+            "08/06/2024 at 01:00 PM",
+            "08/06/2024 at 04:00 PM"
+        ],
+        "StartTime": "1:00\u202fPM",
+        "EndTime": "4:00\u202fPM",
+        "Location": "Th\u00e9saurus Th\u00e9rrarium",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/3802540073360701/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/447479437_762458839416607_5716151882416558059_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SUh0OP0cuikQ7kNvgHhVzl1&_nc_ht=scontent-lga3-2.xx&oh=00_AYCvpX6tXRmfRJ6jVZCrOrFuJn_nHfBvB98uXwC8g5Nf-Q&oe=66656B6A",
+        "Organizer": "Scriven Montreal",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/447479437_762458839416607_5716151882416558059_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=SUh0OP0cuikQ7kNvgHhVzl1&_nc_ht=scontent-lga3-2.xx&oh=00_AYCvpX6tXRmfRJ6jVZCrOrFuJn_nHfBvB98uXwC8g5Nf-Q&oe=66656B6A"
+    },
+    {
+        "Title": "Navigating Today\u2019s Dynamic Retail Landscape: Strategies for Success",
+        "Description": "Is retail the right choice for me? What is omnichannel marketing in retail? How do I deal with rising costs in today's market? What trends are shaping the retail industry and how d\u2026 See more",
+        "Date": [
+            "06/06/2024 at 05:30 PM",
+            "06/06/2024 at 08:30 PM"
+        ],
+        "StartTime": "5:30\u202fPM",
+        "EndTime": "8:30\u202fPM",
+        "Location": "1101 Sainte-Catherine Ouest Montr\u00e9al, QC H3B 1H7",
+        "Latitude": 45.4761143,
+        "Longitude": -73.5997409,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4761143,-73.5997409",
+        "City": null,
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1903648900055477/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444781866_838245931669082_7147101689044812779_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cXQl08ngLWsQ7kNvgGUNSwO&_nc_ht=scontent-lga3-2.xx&oh=00_AYAq-XOiqRndl9pOXr1GvXwUc-5NGiiPDhNYzOm7YjXCrg&oe=66658069",
+        "Organizer": "YES Employment + Entrepreneurship",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444781866_838245931669082_7147101689044812779_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cXQl08ngLWsQ7kNvgGUNSwO&_nc_ht=scontent-lga3-2.xx&oh=00_AYAq-XOiqRndl9pOXr1GvXwUc-5NGiiPDhNYzOm7YjXCrg&oe=66658069"
+    },
+    {
+        "Title": "Family Funday Sundays \u2013 Unlimited Play @ The Montr\u00e9al Pinball Arcade!",
+        "Description": "Family Funday Sundays aim to connect and resonate with Families. We understand the joys of bonding over games, so we\u2019ve launched this weekly event priced at just $15.00 for those a\u2026 See more",
+        "Date": [
+            "09/06/2024 at 11:00 AM",
+            "09/06/2024 at 04:00 PM"
+        ],
+        "StartTime": "11:00\u202fAM",
+        "EndTime": "4:00\u202fPM",
+        "Location": "923 Avenue Girouard, Montr\u00e9al, QC H4A 3B9, Canada",
+        "Latitude": 45.46938498086396,
+        "Longitude": -73.6047805786215,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.46938498086396,-73.6047805786215",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1080828013326811/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/417117502_284524207949728_6952823090632643695_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eDQE8PI2QQwQ7kNvgHEQR0-&_nc_ht=scontent-lga3-1.xx&oh=00_AYDDdcQT5Avq0zEcVNOg9-MzNpUkbjY5CnfMLjV4hwMw3g&oe=6665731A",
+        "Organizer": "The Montr\u00e9al Pinball Arcade",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/417117502_284524207949728_6952823090632643695_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eDQE8PI2QQwQ7kNvgHEQR0-&_nc_ht=scontent-lga3-1.xx&oh=00_AYDDdcQT5Avq0zEcVNOg9-MzNpUkbjY5CnfMLjV4hwMw3g&oe=6665731A"
+    },
+    {
+        "Title": "Ital Autofest!!",
+        "Description": "\ufeff Sunday July 7th our annual Italian Car Festival will be held on Dante St. in Little Italy. You have VIP parking for your Italian Car or Motor Bike on Dante St. ( first come first\u2026 See more",
+        "Date": [
+            "07/07/2024 at 10:00 AM",
+            "07/07/2024 at 04:00 PM"
+        ],
+        "StartTime": "10:00\u202fAM",
+        "EndTime": "4:00\u202fPM",
+        "Location": "Little Italy, Montreal",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1492860021342780/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/430609428_887742520027083_8043505896328378035_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JFJk8Wjr1zIQ7kNvgGrROtT&_nc_ht=scontent-lga3-2.xx&oh=00_AYC-sqf4NhzVI9HKxDkR8UXCNRAkxdYAfHnY0xKAuFxZ8Q&oe=666573B0",
+        "Organizer": "Club Fiat Montreal",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/430609428_887742520027083_8043505896328378035_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JFJk8Wjr1zIQ7kNvgGrROtT&_nc_ht=scontent-lga3-2.xx&oh=00_AYC-sqf4NhzVI9HKxDkR8UXCNRAkxdYAfHnY0xKAuFxZ8Q&oe=666573B0"
+    },
+    {
+        "Title": "Qigong & Meditation for Integration",
+        "Description": "Qigong is a wholistic system of self-healing exercise and meditation, an ancient, evolving practice that includes healing posture, movement, self-massage, breathing techniques and \u2026 See more",
+        "Date": [
+            "06/06/2024 at 10:00 AM",
+            "06/06/2024 at 11:30 AM"
+        ],
+        "StartTime": "10:00\u202fAM",
+        "EndTime": "11:30\u202fAM",
+        "Location": "2800 Rue des Andes, St-Laurent, QC H4R 3G3, Canada",
+        "Latitude": 45.511348136,
+        "Longitude": -73.714874952,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.511348136,-73.714874952",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1364142504302836/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424674033_895536759242266_7118968129527487143_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QIp1cROt_wsQ7kNvgHFDSi5&_nc_ht=scontent-lga3-2.xx&oh=00_AYD_NaaEcRxQqDd4XMDN5kLCCMkBju7UMXPMIDZuHNt9Sw&oe=66656FCF",
+        "Organizer": "Shamanica Institute",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424674033_895536759242266_7118968129527487143_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QIp1cROt_wsQ7kNvgHFDSi5&_nc_ht=scontent-lga3-2.xx&oh=00_AYD_NaaEcRxQqDd4XMDN5kLCCMkBju7UMXPMIDZuHNt9Sw&oe=66656FCF"
     },
     {
         "Title": "UNFACED w/ Jacidorex, Xaviera, Yorel & Tigwell",
@@ -565,108 +415,9 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1118381552750820/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442413401_425272750364126_6935974701019496426_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hIWjWVnjtisQ7kNvgFlliPf&_nc_ht=scontent-lga3-2.xx&oh=00_AYAqur3tS3j57F7LqKr9tklhxqXbDs8AAWlGnbhfrv92bw&oe=6664864A",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442413401_425272750364126_6935974701019496426_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hIWjWVnjtisQ7kNvgFlliPf&_nc_ht=scontent-lga3-2.xx&oh=00_AYBFTY06nRjHB9VBbVocpjba8GP3NBfE-DEvaY8uYgmYGQ&oe=66659F8A",
         "Organizer": "Unfaced",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442413401_425272750364126_6935974701019496426_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hIWjWVnjtisQ7kNvgFlliPf&_nc_ht=scontent-lga3-2.xx&oh=00_AYAqur3tS3j57F7LqKr9tklhxqXbDs8AAWlGnbhfrv92bw&oe=6664864A",
-        "Tags": [
-            {
-                "id": "290a1bb0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Techno",
-                "emoji": "\ud83c\udfa7",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Cirque du Soleil - Kurios Tickets Montreal Quebec Canada Jacques-cartier Pier In The Old Port",
-        "Description": "Don't miss the Cirque du Soleil - Kurios show at the Jacques-cartier Pier In The Old Port Of Montreal in Montreal, Canada.",
-        "Date": [
-            "05/06/2024 at 07:30 PM",
-            "05/06/2024 at 09:30 PM"
-        ],
-        "StartTime": "7:30\u202fPM",
-        "EndTime": "9:30\u202fPM",
-        "Location": "Old Port of Montreal",
-        "Latitude": 45.5042344,
-        "Longitude": -73.55298656927826,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5042344,-73.55298656927826",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/830904002273538/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/402110392_837711865025215_2292245707637320335_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RTjt8CDr7XUQ7kNvgEui7j9&_nc_ht=scontent-lga3-1.xx&oh=00_AYBylbEICaOhCjlR8brXS8MMXUht7ck_knfHUsT6lf0aVw&oe=66647D90",
-        "Organizer": "MyCityRocks Ticket Exchange",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/402110392_837711865025215_2292245707637320335_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RTjt8CDr7XUQ7kNvgEui7j9&_nc_ht=scontent-lga3-1.xx&oh=00_AYBylbEICaOhCjlR8brXS8MMXUht7ck_knfHUsT6lf0aVw&oe=66647D90",
-        "Tags": []
-    },
-    {
-        "Title": "LIONS ON PARADE CANADA DAY",
-        "Description": "The Members and friends of the Montreal Autism Community Lions Club will be joining a delegation of Lions International (District U1) in the Canada Day Parade in Montreal July 1st.\u2026 See more",
-        "Date": [
-            "01/07/2024 at 10:00 AM",
-            "01/07/2024 at 03:00 PM"
-        ],
-        "StartTime": "10:00\u202fAM",
-        "EndTime": "3:00\u202fPM",
-        "Location": "Montreal, Quebec, Canada",
-        "Latitude": 45.5031824,
-        "Longitude": -73.5698065,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/410447815104121/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436495557_410648371596408_565259060218517656_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tD8oy8rooT8Q7kNvgHivYzu&_nc_ht=scontent-lga3-2.xx&oh=00_AYC7jjuSqIwOyIpgn7T6o1XT3DrXBEFxQbo3hmFrp0XrxQ&oe=66648543",
-        "Organizer": "Montreal Autism Community Lions Club",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436495557_410648371596408_565259060218517656_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tD8oy8rooT8Q7kNvgHivYzu&_nc_ht=scontent-lga3-2.xx&oh=00_AYC7jjuSqIwOyIpgn7T6o1XT3DrXBEFxQbo3hmFrp0XrxQ&oe=66648543",
-        "Tags": []
-    },
-    {
-        "Title": "The 2024 QWF Mentorship Reading",
-        "Description": "For four months, seven emerging writers have worked to hone their craft through the QWF Mentorship Program. Each has received one-on-one guidance from a professional writing mentor\u2026 See more",
-        "Date": [
-            "09/06/2024 at 02:00 PM",
-            "09/06/2024 at 04:00 PM"
-        ],
-        "StartTime": "2:00\u202fPM",
-        "EndTime": "4:00\u202fPM",
-        "Location": "Bar La Marche \u00e0 c\u00f4t\u00e9",
-        "Latitude": 45.5267956,
-        "Longitude": -73.5887263,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5267956,-73.5887263",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/723650303071965/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/414570350_849488630632355_1606598886045732437_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wih8xgLKR1kQ7kNvgGHU12c&_nc_ht=scontent-lga3-1.xx&oh=00_AYBoYGjT1MjL3ScGd2u_c472LUyLOTA6CsJT5PJvPKkadg&oe=66647A6A",
-        "Organizer": "Quebec Writers' Federation",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/414570350_849488630632355_1606598886045732437_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wih8xgLKR1kQ7kNvgGHU12c&_nc_ht=scontent-lga3-1.xx&oh=00_AYBoYGjT1MjL3ScGd2u_c472LUyLOTA6CsJT5PJvPKkadg&oe=66647A6A",
-        "Tags": [
-            {
-                "id": "0dc9b310-45df-11ee-837b-e184466a9b82",
-                "name": "Book",
-                "emoji": "\ud83d\udcd6",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Stargaze Career Expo | Inspire to Hire",
-        "Description": "Canada\u2019s 1st gathering of Aviation experts and industry leaders targeted for BIPOC communities, organized by BAPN, held in Montreal, QC, CA",
-        "Date": [
-            "15/06/2024 at 09:00 AM",
-            "15/06/2024 at 04:00 PM"
-        ],
-        "StartTime": "9:00\u202fAM",
-        "EndTime": "4:00\u202fPM",
-        "Location": "8585 Chemin de la C\u00f4te-de-Liesse, Montr\u00e9al, QC H4T 1G5, Canada",
-        "Latitude": 45.476561649999994,
-        "Longitude": -73.70853737639953,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.476561649999994,-73.70853737639953",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/3622655131324052/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438087026_453023337085520_2246218960899849957_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eOFKiYKrbqUQ7kNvgE1PcXD&_nc_ht=scontent-lga3-1.xx&oh=00_AYBPbgXMunE6o0hOAMckKkLdt_FckrSQVCC2lHQiLFJyrA&oe=666471E5",
-        "Organizer": "Black Aviation Professionals Network",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438087026_453023337085520_2246218960899849957_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eOFKiYKrbqUQ7kNvgE1PcXD&_nc_ht=scontent-lga3-1.xx&oh=00_AYBPbgXMunE6o0hOAMckKkLdt_FckrSQVCC2lHQiLFJyrA&oe=666471E5",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442413401_425272750364126_6935974701019496426_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hIWjWVnjtisQ7kNvgFlliPf&_nc_ht=scontent-lga3-2.xx&oh=00_AYBFTY06nRjHB9VBbVocpjba8GP3NBfE-DEvaY8uYgmYGQ&oe=66659F8A"
     },
     {
         "Title": "TRIVIA NIGHT AT HURLEY'S IRISH PUB",
@@ -684,166 +435,69 @@
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1163030958211979/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/421483880_859873132814175_9036114085016065720_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1S6DakW2HN4Q7kNvgFgyJWy&_nc_ht=scontent-lga3-2.xx&oh=00_AYD5Tb-DWjAoY5zh_e8FlZpZlLjxN44_K2js7DhQaibaWA&oe=66647C63",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/421483880_859873132814175_9036114085016065720_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fq4ygPk61AwQ7kNvgE4M-3Z&_nc_ht=scontent-lga3-2.xx&oh=00_AYCFphKHkhFUA6J1yUAPRGFKKjn9AyT3HHlfyq4fLwulQw&oe=666595A3",
         "Organizer": null,
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/421483880_859873132814175_9036114085016065720_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1S6DakW2HN4Q7kNvgFgyJWy&_nc_ht=scontent-lga3-2.xx&oh=00_AYD5Tb-DWjAoY5zh_e8FlZpZlLjxN44_K2js7DhQaibaWA&oe=66647C63",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/421483880_859873132814175_9036114085016065720_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fq4ygPk61AwQ7kNvgE4M-3Z&_nc_ht=scontent-lga3-2.xx&oh=00_AYCFphKHkhFUA6J1yUAPRGFKKjn9AyT3HHlfyq4fLwulQw&oe=666595A3"
     },
     {
-        "Title": "ELAN x FRINGE Schmoozer 5 \u00e0 7",
-        "Description": "Make some Fringe Friends at the ELAN x FRINGE Schmoozer!",
+        "Title": "Unlock Your Gifts with Katalina May at The Sonotarium",
+        "Description": "UNLOCK YOUR UNIQUE GIFTS TO LIVE YOUR PURPOSEJoin us for a transformative journey through the chakras to understand and unlock your unique gifts so that you can see yourself t\u2026 See more",
         "Date": [
-            "10/06/2024 at 05:00 PM",
-            "10/06/2024 at 07:00 PM"
+            "15/06/2024 at 06:30 PM",
+            "15/06/2024 at 09:30 PM"
         ],
-        "StartTime": "5:00\u202fPM",
-        "EndTime": "7:00\u202fPM",
-        "Location": "Parc des Ameriques",
-        "Latitude": 45.51840045,
-        "Longitude": -73.58179281748166,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.51840045,-73.58179281748166",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/2144969685851801/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438231101_431327882873278_3858109373455151341_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iRrzbGLZTqAQ7kNvgF-sybm&_nc_ht=scontent-lga3-1.xx&oh=00_AYAQ11JDGKtcbuYzOgrVNzvTWnOejIst97FkE9g2MGTurg&oe=666472E1",
-        "Organizer": "ELAN Quebec",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438231101_431327882873278_3858109373455151341_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iRrzbGLZTqAQ7kNvgF-sybm&_nc_ht=scontent-lga3-1.xx&oh=00_AYAQ11JDGKtcbuYzOgrVNzvTWnOejIst97FkE9g2MGTurg&oe=666472E1",
-        "Tags": []
-    },
-    {
-        "Title": "DANCE TO THE MUSIC - Locking & W*acking/Punking Workshops",
-        "Description": "DANCE TO THE MUSIC - Locking & W*acking/Punking WorkshopsPresented by / Pr\u00e9sent\u00e9 par: Scramblelock & Succubus",
-        "Date": [
-            "21/07/2024 at 01:00 PM",
-            "21/07/2024 at 05:00 PM"
-        ],
-        "StartTime": "1:00\u202fPM",
-        "EndTime": "5:00\u202fPM",
-        "Location": "100Lux",
+        "StartTime": "6:30\u202fPM",
+        "EndTime": "9:30\u202fPM",
+        "Location": "9880 rue Clark suite 230, Montreal, QC, Canada",
         "Latitude": null,
         "Longitude": null,
         "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
         "City": "Montreal",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1460439598195817/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441542659_793609312896930_6010649503210046519_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ISiEw-WAYpYQ7kNvgFki_LJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYByKkJKpLQp4h0uyHJsKcjtVwhDoARLuptM9W4fGDAelg&oe=666483B0",
-        "Organizer": "LockUnity",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441542659_793609312896930_6010649503210046519_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ISiEw-WAYpYQ7kNvgFki_LJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYByKkJKpLQp4h0uyHJsKcjtVwhDoARLuptM9W4fGDAelg&oe=666483B0",
-        "Tags": [
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "EventUrl": "https://www.facebook.com/events/998556085195329/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/447429200_322413274235744_8708195729121120530_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uwJ6xc96UuMQ7kNvgG3lc3R&_nc_ht=scontent-lga3-1.xx&oh=00_AYASaiwvr6snPPv1_cz_v9ZFbQSpDcwqbL6soC_CwsmdwQ&oe=66657438",
+        "Organizer": "Le Sonotarium : exp\u00e9riences vibratoires",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/447429200_322413274235744_8708195729121120530_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uwJ6xc96UuMQ7kNvgG3lc3R&_nc_ht=scontent-lga3-1.xx&oh=00_AYASaiwvr6snPPv1_cz_v9ZFbQSpDcwqbL6soC_CwsmdwQ&oe=66657438"
     },
     {
-        "Title": "Poetry Reading: Derek Webster & Mary Dean Lee",
-        "Description": "Join us as Two Montreal poets read from their new collections and sign books: \ud835\udc75\ud835\udc82\ud835\udc95\ud835\udc8a\ud835\udc90\ud835\udc8f\ud835\udc82\ud835\udc8d \ud835\udc68\ud835\udc8f\ud835\udc8a\ud835\udc8e\ud835\udc82\ud835\udc8d by \ud835\udc03\ud835\udc1e\ud835\udc2b\ud835\udc1e\ud835\udc24 \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc2b  & \ud835\udc7b\ud835\udc8a\ud835\udc85\ud835\udc82\ud835\udc8d by \ud835\udde0\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\uddd7\ud835\uddf2\ud835\uddee\ud835\uddfb \ud835\udddf\ud835\uddf2\ud835\uddf2.",
+        "Title": "The 2024 QWF Mentorship Reading",
+        "Description": "For four months, seven emerging writers have worked to hone their craft through the QWF Mentorship Program. Each has received one-on-one guidance from a professional writing mentor\u2026 See more",
         "Date": [
-            "16/06/2024 at 02:00 PM",
-            "16/06/2024 at 04:00 PM"
+            "09/06/2024 at 02:00 PM",
+            "09/06/2024 at 04:00 PM"
         ],
         "StartTime": "2:00\u202fPM",
         "EndTime": "4:00\u202fPM",
-        "Location": "2220 McGill College Avenue, Montreal, QC, Canada, Quebec H3A3P9",
-        "Latitude": 45.5034888,
-        "Longitude": -73.5746287,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5034888,-73.5746287",
+        "Location": "Bar La Marche \u00e0 c\u00f4t\u00e9",
+        "Latitude": 45.5267956,
+        "Longitude": -73.5887263,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5267956,-73.5887263",
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/610643587949262/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435107192_1057995889114486_1357211567619947785_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=73hqLkfY6N4Q7kNvgERHBpY&_nc_ht=scontent-lga3-2.xx&oh=00_AYBi--WtF_hwLEHQaMw-FXh5GZLyb9rYNA0tLcn_nciZzQ&oe=66645AC2",
-        "Organizer": "Librairie Paragraphe Bookstore",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435107192_1057995889114486_1357211567619947785_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=73hqLkfY6N4Q7kNvgERHBpY&_nc_ht=scontent-lga3-2.xx&oh=00_AYBi--WtF_hwLEHQaMw-FXh5GZLyb9rYNA0tLcn_nciZzQ&oe=66645AC2",
-        "Tags": [
-            {
-                "id": "0dc9b310-45df-11ee-837b-e184466a9b82",
-                "name": "Book",
-                "emoji": "\ud83d\udcd6",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "EventUrl": "https://www.facebook.com/events/723650303071965/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/414570350_849488630632355_1606598886045732437_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8gEMnLGX2pEQ7kNvgEXbm-K&_nc_ht=scontent-lga3-1.xx&oh=00_AYC6On3ePKB3vCPoZA6Ca0GntP0UJe4ZkV9a8jz5rrj8Xw&oe=666593AA",
+        "Organizer": "Quebec Writers' Federation",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/414570350_849488630632355_1606598886045732437_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8gEMnLGX2pEQ7kNvgEXbm-K&_nc_ht=scontent-lga3-1.xx&oh=00_AYC6On3ePKB3vCPoZA6Ca0GntP0UJe4ZkV9a8jz5rrj8Xw&oe=666593AA"
     },
     {
-        "Title": "Spring 2024 Session Slam",
-        "Description": "It's that time again!! Come and join us to help celebrate the work that our bands have put in...",
+        "Title": "LIONS ON PARADE CANADA DAY",
+        "Description": "The Members and friends of the Montreal Autism Community Lions Club will be joining a delegation of Lions International (District U1) in the Canada Day Parade in Montreal July 1st.\u2026 See more",
         "Date": [
-            "14/06/2024 at 07:00 PM",
-            "14/06/2024 at 11:00 PM"
+            "01/07/2024 at 10:00 AM",
+            "01/07/2024 at 03:00 PM"
         ],
-        "StartTime": "7:00\u202fPM",
-        "EndTime": "11:00\u202fPM",
-        "Location": "Piranha Bar",
-        "Latitude": 45.5028698,
-        "Longitude": -73.5699097,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5028698,-73.5699097",
+        "StartTime": "10:00\u202fAM",
+        "EndTime": "3:00\u202fPM",
+        "Location": "Montreal, Quebec, Canada",
+        "Latitude": 45.5031824,
+        "Longitude": -73.5698065,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065",
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1500986787497417/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441509437_1044185057709007_7871355788883775990_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k5rZazcR2LoQ7kNvgEl-4Kh&_nc_ht=scontent-lga3-2.xx&oh=00_AYCZMrAkuvD9H9ZjxSASDeRR8vB_ucSnvyPepUhZkRuXyA&oe=666484A7",
-        "Organizer": "Montreal Jams",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441509437_1044185057709007_7871355788883775990_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k5rZazcR2LoQ7kNvgEl-4Kh&_nc_ht=scontent-lga3-2.xx&oh=00_AYCZMrAkuvD9H9ZjxSASDeRR8vB_ucSnvyPepUhZkRuXyA&oe=666484A7",
-        "Tags": [
-            {
-                "id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Singing",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "11164b60-4381-11ee-b8b1-a1b868b635cd",
-                "name": "Punk",
-                "emoji": "\ud83d\udc69\u200d\ud83c\udfa4",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "1de59e30-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Rock",
-                "emoji": "\ud83c\udfb8",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "2307f3e0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Indie",
-                "emoji": " \ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "244cfde0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Punk Rock",
-                "emoji": "\ud83d\udc69\u200d\ud83c\udfa4",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "27a4a0f0-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Rock and Roll",
-                "emoji": "\ud83c\udfb8",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Yu-Gi-Oh! Locals Sundays",
-        "Description": "Welcome to our Yu-Gi-Oh! Sunday Locals.",
-        "Date": [
-            "09/06/2024 at 01:30 PM",
-            "09/06/2024 at 05:00 PM"
-        ],
-        "StartTime": "1:30\u202fPM",
-        "EndTime": "5:00\u202fPM",
-        "Location": "1118 Sainte-Catherine Ouest #204\nMontreal, QC, Canada, Quebec H3B1H5",
-        "Latitude": 45.499497950000006,
-        "Longitude": -73.57302485765183,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.499497950000006,-73.57302485765183",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1297140950954414/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/421587666_759912582825859_7484446712943079427_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ACxdpTImIOcQ7kNvgE-bU0i&_nc_ht=scontent-lga3-1.xx&oh=00_AYATAsDdz7LxsAOPb1oxdOjb0l9gg57_7x6kP9CqkSs32w&oe=66646961",
-        "Organizer": "Three Kings Loot Inc.",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/421587666_759912582825859_7484446712943079427_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ACxdpTImIOcQ7kNvgE-bU0i&_nc_ht=scontent-lga3-1.xx&oh=00_AYATAsDdz7LxsAOPb1oxdOjb0l9gg57_7x6kP9CqkSs32w&oe=66646961",
-        "Tags": []
+        "EventUrl": "https://www.facebook.com/events/410447815104121/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436495557_410648371596408_565259060218517656_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tD8oy8rooT8Q7kNvgHivYzu&_nc_ht=scontent-lga3-2.xx&oh=00_AYCB13mmUnkwjzP7mrZ45eo8icTr4S56lZSCc1ZL5lH21g&oe=66659E83",
+        "Organizer": "Montreal Autism Community Lions Club",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436495557_410648371596408_565259060218517656_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tD8oy8rooT8Q7kNvgHivYzu&_nc_ht=scontent-lga3-2.xx&oh=00_AYCB13mmUnkwjzP7mrZ45eo8icTr4S56lZSCc1ZL5lH21g&oe=66659E83"
     },
     {
         "Title": "I Hate Magic - Montreal Fringe",
@@ -861,59 +515,129 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/480688704291254/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441883300_1013799530620977_7992460411375478630_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5l7WSxStmEcQ7kNvgHkb7oo&_nc_ht=scontent-lga3-2.xx&oh=00_AYCiBpDTFzmazTAUVOmQigLZC0_s-zFUNbelntpNaonqGg&oe=666465A6",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441883300_1013799530620977_7992460411375478630_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5l7WSxStmEcQ7kNvgHkb7oo&_nc_ht=scontent-lga3-2.xx&oh=00_AYC1q6ALQuCRMIrIQ3noBlbYm-KevNMbywemM_n981OX7Q&oe=66657EE6",
         "Organizer": "Rob Teszka Magician",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441883300_1013799530620977_7992460411375478630_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5l7WSxStmEcQ7kNvgHkb7oo&_nc_ht=scontent-lga3-2.xx&oh=00_AYCiBpDTFzmazTAUVOmQigLZC0_s-zFUNbelntpNaonqGg&oe=666465A6",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441883300_1013799530620977_7992460411375478630_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5l7WSxStmEcQ7kNvgHkb7oo&_nc_ht=scontent-lga3-2.xx&oh=00_AYC1q6ALQuCRMIrIQ3noBlbYm-KevNMbywemM_n981OX7Q&oe=66657EE6"
     },
     {
-        "Title": "Paint Nights - Saturday",
-        "Description": "Join our paint night every Saturday starting at 4 pm till closing time around 9 pm for free.",
+        "Title": "Stargaze Career Expo | Inspire to Hire",
+        "Description": "Canada\u2019s 1st gathering of Aviation experts and industry leaders targeted for BIPOC communities, organized by BAPN, held in Montreal, QC, CA",
         "Date": [
-            "08/06/2024 at 04:00 PM",
-            "08/06/2024 at 09:00 PM"
+            "15/06/2024 at 09:00 AM",
+            "15/06/2024 at 04:00 PM"
         ],
-        "StartTime": "4:00\u202fPM",
-        "EndTime": "9:00\u202fPM",
-        "Location": "Three Kings Loot Inc.",
+        "StartTime": "9:00\u202fAM",
+        "EndTime": "4:00\u202fPM",
+        "Location": "8585 Chemin de la C\u00f4te-de-Liesse, Montr\u00e9al, QC H4T 1G5, Canada",
+        "Latitude": 45.476561649999994,
+        "Longitude": -73.70853737639953,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.476561649999994,-73.70853737639953",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/3622655131324052/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438087026_453023337085520_2246218960899849957_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eOFKiYKrbqUQ7kNvgE1PcXD&_nc_ht=scontent-lga3-1.xx&oh=00_AYBnCmGioRLw4ejg5URl5ZBqTQS2QGgkEBw3OZ65FuO3Kg&oe=66658B25",
+        "Organizer": "Black Aviation Professionals Network",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/438087026_453023337085520_2246218960899849957_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eOFKiYKrbqUQ7kNvgE1PcXD&_nc_ht=scontent-lga3-1.xx&oh=00_AYBnCmGioRLw4ejg5URl5ZBqTQS2QGgkEBw3OZ65FuO3Kg&oe=66658B25"
+    },
+    {
+        "Title": "Hata Careers: Tech & Marketing (\u043d\u0435\u0442\u0432\u043e\u0440\u043a\u0456\u043d\u0433 \u0437\u0443\u0441\u0442\u0440\u0456\u0447 \u0434\u043b\u044f \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456\u0432)",
+        "Description": "Hata Careers: Tech and Marketing",
+        "Date": [
+            "18/06/2024 at 06:00 PM",
+            "18/06/2024 at 08:30 PM"
+        ],
+        "StartTime": "6:00\u202fPM",
+        "EndTime": "8:30\u202fPM",
+        "Location": "Montr\u00e9al, Qu\u00e9bec, Canada",
+        "Latitude": 45.5031824,
+        "Longitude": -73.5698065,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1229159888051441/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444505211_427020270199781_7864435439586275726_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5TYHidAQM6AQ7kNvgHCnokJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYDcmCF9o60YHd_lbHI4vAL-HFnRwj7PsXHDsm3T9VGfBQ&oe=666573A5",
+        "Organizer": "Hata na Mont Royal",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444505211_427020270199781_7864435439586275726_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5TYHidAQM6AQ7kNvgHCnokJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYDcmCF9o60YHd_lbHI4vAL-HFnRwj7PsXHDsm3T9VGfBQ&oe=666573A5"
+    },
+    {
+        "Title": "Poetry Reading: Derek Webster & Mary Dean Lee",
+        "Description": "Join us as Two Montreal poets read from their new collections and sign books: \ud835\udc75\ud835\udc82\ud835\udc95\ud835\udc8a\ud835\udc90\ud835\udc8f\ud835\udc82\ud835\udc8d \ud835\udc68\ud835\udc8f\ud835\udc8a\ud835\udc8e\ud835\udc82\ud835\udc8d by \ud835\udc03\ud835\udc1e\ud835\udc2b\ud835\udc1e\ud835\udc24 \ud835\udc16\ud835\udc1e\ud835\udc1b\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc2b  & \ud835\udc7b\ud835\udc8a\ud835\udc85\ud835\udc82\ud835\udc8d by \ud835\udde0\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\uddd7\ud835\uddf2\ud835\uddee\ud835\uddfb \ud835\udddf\ud835\uddf2\ud835\uddf2.",
+        "Date": [
+            "16/06/2024 at 02:00 PM",
+            "16/06/2024 at 04:00 PM"
+        ],
+        "StartTime": "2:00\u202fPM",
+        "EndTime": "4:00\u202fPM",
+        "Location": "2220 McGill College Avenue, Montreal, QC, Canada, Quebec H3A3P9",
+        "Latitude": 45.5034888,
+        "Longitude": -73.5746287,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5034888,-73.5746287",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/610643587949262/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435107192_1057995889114486_1357211567619947785_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=73hqLkfY6N4Q7kNvgERHBpY&_nc_ht=scontent-lga3-2.xx&oh=00_AYCOnSNRlWgB7Cve1ZC3r44xPhgRWaNAzmhLtkRaxehFmg&oe=66657402",
+        "Organizer": "Librairie Paragraphe Bookstore",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/435107192_1057995889114486_1357211567619947785_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=73hqLkfY6N4Q7kNvgERHBpY&_nc_ht=scontent-lga3-2.xx&oh=00_AYCOnSNRlWgB7Cve1ZC3r44xPhgRWaNAzmhLtkRaxehFmg&oe=66657402"
+    },
+    {
+        "Title": "DANCE TO THE MUSIC - Locking & W*acking/Punking Workshops",
+        "Description": "DANCE TO THE MUSIC - Locking & W*acking/Punking WorkshopsPresented by / Pr\u00e9sent\u00e9 par: Scramblelock & Succubus",
+        "Date": [
+            "21/07/2024 at 01:00 PM",
+            "21/07/2024 at 05:00 PM"
+        ],
+        "StartTime": "1:00\u202fPM",
+        "EndTime": "5:00\u202fPM",
+        "Location": "100Lux",
         "Latitude": null,
         "Longitude": null,
         "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
         "City": "Montreal",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/929147098789839/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/426587214_772253741591743_1256225389415626963_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_-Ak1fjt3V8Q7kNvgE8GNv6&_nc_ht=scontent-lga3-2.xx&oh=00_AYAUTnSclz-ZDiJVXzroCNkQ6UM0KeLdr13lYRMHmec1sQ&oe=666486DB",
-        "Organizer": "Three Kings Loot Inc.",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/426587214_772253741591743_1256225389415626963_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_-Ak1fjt3V8Q7kNvgE8GNv6&_nc_ht=scontent-lga3-2.xx&oh=00_AYAUTnSclz-ZDiJVXzroCNkQ6UM0KeLdr13lYRMHmec1sQ&oe=666486DB",
-        "Tags": []
+        "EventUrl": "https://www.facebook.com/events/1460439598195817/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441542659_793609312896930_6010649503210046519_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ISiEw-WAYpYQ7kNvgFki_LJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYAux1Boqgiw9OyTtz4padz1HcKCr22Uu9SpfF75ZFkIeQ&oe=66659CF0",
+        "Organizer": "LockUnity",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/441542659_793609312896930_6010649503210046519_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ISiEw-WAYpYQ7kNvgFki_LJ&_nc_ht=scontent-lga3-1.xx&oh=00_AYAux1Boqgiw9OyTtz4padz1HcKCr22Uu9SpfF75ZFkIeQ&oe=66659CF0"
     },
     {
-        "Title": "Blitz & Brews Circuit at Fitzroy",
-        "Description": "Welcome to Blitz Bishops & Brews at FitzRoy!",
+        "Title": "Entheogens Sharing & Integration Circle - Support Group",
+        "Description": "What is healing?",
         "Date": [
-            "10/06/2024 at 06:00 PM",
-            "10/06/2024 at 11:15 PM"
+            "06/06/2024 at 06:30 PM",
+            "06/06/2024 at 08:45 PM"
         ],
-        "StartTime": "6:00\u202fPM",
-        "EndTime": "11:15\u202fPM",
-        "Location": "Fitzroy",
-        "Latitude": 45.5252463,
-        "Longitude": -73.5819566,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5252463,-73.5819566",
+        "StartTime": "6:30\u202fPM",
+        "EndTime": "8:45\u202fPM",
+        "Location": "Premalok Yoga Studio",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/996327195422390/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/447286899_985182623611012_9006106677940246651_n.jpg?stp=dst-jpg_fb50_p261x260&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LIYquLrPKt8Q7kNvgEZh4ku&_nc_ht=scontent-lga3-2.xx&oh=00_AYAfp3nNzSVHuWMnRo9Ld9NrfW_pmBGl5xr_dIWD88CtLA&oe=66658117",
+        "Organizer": "Shamanica Institute",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/447286899_985182623611012_9006106677940246651_n.jpg?stp=dst-jpg_fb50_p261x260&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LIYquLrPKt8Q7kNvgEZh4ku&_nc_ht=scontent-lga3-2.xx&oh=00_AYAfp3nNzSVHuWMnRo9Ld9NrfW_pmBGl5xr_dIWD88CtLA&oe=66658117"
+    },
+    {
+        "Title": "Honouring Dignity and Resistance",
+        "Description": "In this talk with Ann-Maje Raider, Dr. Catherine Richardson Kineweskw\u00eaw outlines Response-Based Practice and discusses its value and pertinence in working with Indigenous people an\u2026 See more",
+        "Date": [
+            "07/06/2024 at 10:00 AM",
+            "07/06/2024 at 01:00 PM"
+        ],
+        "StartTime": "10:00\u202fAM",
+        "EndTime": "1:00\u202fPM",
+        "Location": "1400 De Maisonneuve Ouest, Montreal, QC, Canada, Quebec H3G1M8",
+        "Latitude": 45.4968158,
+        "Longitude": -73.5779337,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4968158,-73.5779337",
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/413794631586999/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440440525_122137616204225002_4459852213955901478_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=exmSizx0aN4Q7kNvgGWQ1By&_nc_ht=scontent-lga3-1.xx&oh=00_AYAIsrhCw4tfsjFbheA-LiyzMW4xD-XMEeftGngxhKvFJQ&oe=66647C16",
-        "Organizer": "Blitzbishops",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440440525_122137616204225002_4459852213955901478_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=exmSizx0aN4Q7kNvgGWQ1By&_nc_ht=scontent-lga3-1.xx&oh=00_AYAIsrhCw4tfsjFbheA-LiyzMW4xD-XMEeftGngxhKvFJQ&oe=66647C16",
-        "Tags": [
-            {
-                "id": "09dddaa0-573d-11ee-8b78-9b77053f08ef",
-                "name": "Chess",
-                "emoji": "\u265f",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "EventUrl": "https://www.facebook.com/events/1164551311492701/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/447022865_958317856296014_5274432674813048133_n.jpg?stp=cp6_dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=p-i5tIRPAakQ7kNvgGZAidz&_nc_ht=scontent-lga3-1.xx&oh=00_AYCuRY5-KGn2hxDYTfsPB848Dxi6pK5RK_WHWIo3dm2zUg&oe=66659709",
+        "Organizer": "4TH SPACE Concordia University",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/447022865_958317856296014_5274432674813048133_n.jpg?stp=cp6_dst-jpg_fb50_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=p-i5tIRPAakQ7kNvgGZAidz&_nc_ht=scontent-lga3-1.xx&oh=00_AYCuRY5-KGn2hxDYTfsPB848Dxi6pK5RK_WHWIo3dm2zUg&oe=66659709"
     },
     {
         "Title": "Warkrusher / Cheap heat / Schenectavoidz / Nothing left",
@@ -931,23 +655,29 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/7723221194452691/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444935903_967668512025433_6284766671046666849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NZpat3Vv3fUQ7kNvgHuGCiA&_nc_ht=scontent-lga3-1.xx&oh=00_AYClAQWmutIC13fwZ_zW7urwVx_ADpr3OFaZWUAP-SJsvQ&oe=66646480",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444935903_967668512025433_6284766671046666849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NZpat3Vv3fUQ7kNvgHuGCiA&_nc_ht=scontent-lga3-1.xx&oh=00_AYA9irR9HgL-XhYWq5R8cvdnEq1gXejgEAQe8oQuTfKW6Q&oe=66657DC0",
         "Organizer": "The TraXide",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444935903_967668512025433_6284766671046666849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NZpat3Vv3fUQ7kNvgHuGCiA&_nc_ht=scontent-lga3-1.xx&oh=00_AYClAQWmutIC13fwZ_zW7urwVx_ADpr3OFaZWUAP-SJsvQ&oe=66646480",
-        "Tags": [
-            {
-                "id": "11164b60-4381-11ee-b8b1-a1b868b635cd",
-                "name": "Punk",
-                "emoji": "\ud83d\udc69\u200d\ud83c\udfa4",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "2401c100-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Metal",
-                "emoji": "\ud83e\udd18",
-                "tagCategory": "Musique"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444935903_967668512025433_6284766671046666849_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NZpat3Vv3fUQ7kNvgHuGCiA&_nc_ht=scontent-lga3-1.xx&oh=00_AYA9irR9HgL-XhYWq5R8cvdnEq1gXejgEAQe8oQuTfKW6Q&oe=66657DC0"
+    },
+    {
+        "Title": "Paint Nights - Saturday",
+        "Description": "Join our paint night every Saturday starting at 4 pm till closing time around 9 pm for free.",
+        "Date": [
+            "08/06/2024 at 04:00 PM",
+            "08/06/2024 at 09:00 PM"
+        ],
+        "StartTime": "4:00\u202fPM",
+        "EndTime": "9:00\u202fPM",
+        "Location": "Three Kings Loot Inc.",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/929147098789839/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/426587214_772253741591743_1256225389415626963_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_-Ak1fjt3V8Q7kNvgE8GNv6&_nc_ht=scontent-lga3-2.xx&oh=00_AYBhVGXRojnGHoHYkdRVIUt4pMM1PqjFsYW5Ag-UZAQhyQ&oe=6665A01B",
+        "Organizer": "Three Kings Loot Inc.",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/426587214_772253741591743_1256225389415626963_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_-Ak1fjt3V8Q7kNvgE8GNv6&_nc_ht=scontent-lga3-2.xx&oh=00_AYBhVGXRojnGHoHYkdRVIUt4pMM1PqjFsYW5Ag-UZAQhyQ&oe=6665A01B"
     },
     {
         "Title": "Motorwolf / Moldead / Pests / Cruciferous",
@@ -965,221 +695,9 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/1435469384008112/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441533413_960608432731441_8663745961453552215_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gW8lIMWVrskQ7kNvgHz_BKh&_nc_ht=scontent-lga3-2.xx&oh=00_AYBRVrOKhOMK26ZQkfThq4gkoupla5qweAP7_mVvZ8z_Jw&oe=66645EF4",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441533413_960608432731441_8663745961453552215_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v-z2Z1m0bwYQ7kNvgFrQu3v&_nc_ht=scontent-lga3-2.xx&oh=00_AYAF9VrgiROubc03RWKU0fejJ5aqDN7ZL1pNe6NAbLeHlg&oe=66657834",
         "Organizer": "The TraXide",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441533413_960608432731441_8663745961453552215_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gW8lIMWVrskQ7kNvgHz_BKh&_nc_ht=scontent-lga3-2.xx&oh=00_AYBRVrOKhOMK26ZQkfThq4gkoupla5qweAP7_mVvZ8z_Jw&oe=66645EF4",
-        "Tags": [
-            {
-                "id": "1de59e30-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Rock",
-                "emoji": "\ud83c\udfb8",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "2401c100-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Metal",
-                "emoji": "\ud83e\udd18",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Sashiko 101 with Xiaoxiao Yarn",
-        "Description": "Welcome to the enchanting world of Sashiko, a traditional Japanese embroidery technique that originated in the 17th century. Initially developed for mending and reinforcing fabric,\u2026 See more",
-        "Date": [
-            "09/06/2024 at 02:00 PM",
-            "09/06/2024 at 05:00 PM"
-        ],
-        "StartTime": "2:00\u202fPM",
-        "EndTime": "5:00\u202fPM",
-        "Location": "Maison de l'amiti\u00e9",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1203108537724652/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442472374_974972081298016_186620917640865113_n.jpg?stp=dst-jpg_fb50_p173x172&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OzmlqPRlfycQ7kNvgH1Duxn&_nc_ht=scontent-lga3-1.xx&oh=00_AYCTuM0EeEcB6Fgz6Z4DOGa7ohHAW1esWbbsLk7IjS8k6g&oe=66646E2C",
-        "Organizer": "Xiaoxiao Yarn",
-        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442472374_974972081298016_186620917640865113_n.jpg?stp=dst-jpg_fb50_p173x172&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OzmlqPRlfycQ7kNvgH1Duxn&_nc_ht=scontent-lga3-1.xx&oh=00_AYCTuM0EeEcB6Fgz6Z4DOGa7ohHAW1esWbbsLk7IjS8k6g&oe=66646E2C",
-        "Tags": []
-    },
-    {
-        "Title": "The Oz Escape: An Interactive Montreal Experience",
-        "Description": "A fun new outdoor event for people of all ages is coming to town!",
-        "Date": [
-            "06/07/2024 at 10:00 AM",
-            "06/07/2024 at 04:00 PM"
-        ],
-        "StartTime": "10:00\u202fAM",
-        "EndTime": "4:00\u202fPM",
-        "Location": "Montreal, Quebec",
-        "Latitude": 45.5031824,
-        "Longitude": -73.5698065,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1076520753443710/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436314635_1035854798548025_2040174743440305503_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fdUJKiqTGqQQ7kNvgFObti3&_nc_ht=scontent-lga3-2.xx&oh=00_AYCG9WpYEHYpioyOjpskNeG9mDjuwGG6xai5Z6Z1be4UNA&oe=6664709E",
-        "Organizer": "Questo",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/436314635_1035854798548025_2040174743440305503_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fdUJKiqTGqQQ7kNvgFObti3&_nc_ht=scontent-lga3-2.xx&oh=00_AYCG9WpYEHYpioyOjpskNeG9mDjuwGG6xai5Z6Z1be4UNA&oe=6664709E",
-        "Tags": []
-    },
-    {
-        "Title": "SOLSTICE 2024",
-        "Description": "Embrace the longest day of the year with warmth and vitality at IDOLEM Bois-Franc. As the sun reaches its zenith during the summer solstice, join us for a rejuvenating experience i\u2026 See more",
-        "Date": [
-            "21/06/2024 at 07:15 AM",
-            "21/06/2024 at 07:45 PM"
-        ],
-        "StartTime": "7:15\u202fAM",
-        "EndTime": "7:45\u202fPM",
-        "Location": "Idolem Hot Yoga Chaud (Bois-Franc)",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1360156288013264/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441538863_1016465633812954_8065429306054930634_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RDTzuOZsOZoQ7kNvgGEE1QK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqDNeuM9aYvoQXKhOBnmw0E2W-mAfT2kk9dzGSJxNthA&oe=66647B09",
-        "Organizer": "Idolem Hot Yoga Chaud (Bois-Franc)",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441538863_1016465633812954_8065429306054930634_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RDTzuOZsOZoQ7kNvgGEE1QK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCqDNeuM9aYvoQXKhOBnmw0E2W-mAfT2kk9dzGSJxNthA&oe=66647B09",
-        "Tags": [
-            {
-                "id": "15de0a70-45e3-11ee-837b-e184466a9b82",
-                "name": "Hiking",
-                "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f",
-                "tagCategory": "Sports"
-            },
-            {
-                "id": "19783bb0-45e3-11ee-837b-e184466a9b82",
-                "name": "Yoga",
-                "emoji": "\ud83e\uddd8\u200d\u2642\ufe0f",
-                "tagCategory": "Sports"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Intro to English Paper Piecing Workshop",
-        "Description": "Intro to English Paper Piecing",
-        "Date": [
-            "08/06/2024 at 09:00 AM",
-            "08/06/2024 at 12:00 PM"
-        ],
-        "StartTime": "9:00\u202fAM",
-        "EndTime": "12:00\u202fPM",
-        "Location": "Craft de Ville",
-        "Latitude": 45.4638983,
-        "Longitude": -73.5671236,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4638983,-73.5671236",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/1015055113308148/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442489518_966891442107810_4035690459498374223_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hcvmjDpw6bgQ7kNvgHYl1P5&_nc_ht=scontent-lga3-2.xx&oh=00_AYD31Vsn9Hc4BvoT2xxtdWl8uL8f2V0TtzwV6jCBNKQSgw&oe=6664532C",
-        "Organizer": "Craft de Ville",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442489518_966891442107810_4035690459498374223_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=hcvmjDpw6bgQ7kNvgHYl1P5&_nc_ht=scontent-lga3-2.xx&oh=00_AYD31Vsn9Hc4BvoT2xxtdWl8uL8f2V0TtzwV6jCBNKQSgw&oe=6664532C",
-        "Tags": []
-    },
-    {
-        "Title": "So Grateful",
-        "Description": "Join International Gospel Recording Artists  Zina Edwards for her long awaited Live concert, So Grateful\ufffd Let Give God the highest Praise!",
-        "Date": [
-            "29/06/2024 at 07:00 PM",
-            "29/06/2024 at 10:00 PM"
-        ],
-        "StartTime": "7:00\u202fPM",
-        "EndTime": "10:00\u202fPM",
-        "Location": "1850 Rue Saint-Antoine Ouest,Montr\u00e9al,H3J 1A3,CA",
-        "Latitude": 45.4905285,
-        "Longitude": -73.5746074,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4905285,-73.5746074",
-        "City": "Montr\u00e9al",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/440548505319473/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/438830619_373990842305352_6504335614373733411_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=I0g96C3O8tkQ7kNvgFY2FuP&_nc_ht=scontent-lga3-2.xx&oh=00_AYDZTeCSDrteXNr8XxdeeRJa7IjsHMe8WVg2u3FZO_OBGg&oe=6664564D",
-        "Organizer": "Zina Edwards",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/438830619_373990842305352_6504335614373733411_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=I0g96C3O8tkQ7kNvgFY2FuP&_nc_ht=scontent-lga3-2.xx&oh=00_AYDZTeCSDrteXNr8XxdeeRJa7IjsHMe8WVg2u3FZO_OBGg&oe=6664564D",
-        "Tags": [
-            {
-                "id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Singing",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "133a3370-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Religious",
-                "emoji": "\u271d",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "2602b960-3c47-11ee-bb59-7f5156da6f07",
-                "name": "Gospel",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            }
-        ]
-    },
-    {
-        "Title": "Storytime with Maggie : environmental kids theatre workshop",
-        "Description": "In this fun filled workshop, children will listen to a folktale about our natural world.After the story, we will dress up in costumes and act out the story.",
-        "Date": [
-            "08/06/2024 at 10:30 AM",
-            "08/06/2024 at 11:30 AM"
-        ],
-        "StartTime": "10:30\u202fAM",
-        "EndTime": "11:30\u202fAM",
-        "Location": "Agriculture du Coin 235 Av. Laurier O, Montr\u00e9al, QC H2T 2N9",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/464070492807589/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440350798_122148500312101273_8282480089862995608_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KScip2U2Zf0Q7kNvgHzXmzn&_nc_ht=scontent-lga3-2.xx&oh=00_AYDQqXuAiKmldVSmioDz0r6xd5paxBtiLzS_RH2sCN65SQ&oe=66645908",
-        "Organizer": "Agriculture du Coin",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440350798_122148500312101273_8282480089862995608_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KScip2U2Zf0Q7kNvgHzXmzn&_nc_ht=scontent-lga3-2.xx&oh=00_AYDQqXuAiKmldVSmioDz0r6xd5paxBtiLzS_RH2sCN65SQ&oe=66645908",
-        "Tags": [
-            {
-                "id": "0dc9b310-45df-11ee-837b-e184466a9b82",
-                "name": "Book",
-                "emoji": "\ud83d\udcd6",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
-    },
-    {
-        "Title": "Pok\u00e9mon kids club - Learn-to-play Pokemon TCG",
-        "Description": "Join us every Saturday at Butin des Trois Rois for our Pok\u00e9mon Club. Bring your kid for them to learn the Pok\u00e9mon TCG game.At noon we will start up our weekly Junior/Senior Beginn\u2026 See more",
-        "Date": [
-            "08/06/2024 at 12:00 PM",
-            "08/06/2024 at 02:00 PM"
-        ],
-        "StartTime": "12:00\u202fPM",
-        "EndTime": "2:00\u202fPM",
-        "Location": "Three Kings Loot Inc.",
-        "Latitude": null,
-        "Longitude": null,
-        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
-        "City": "Montreal",
-        "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/744079657558224/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424530017_761139749369809_1699342099558926716_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ToB9OLazKzQQ7kNvgE0DKF1&_nc_ht=scontent-lga3-2.xx&oh=00_AYAMegIJb4O-Nb5Xz-8odIbCwMBY9K_7gNTCw7AolgdMAw&oe=666487AB",
-        "Organizer": "Three Kings Loot Inc.",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/424530017_761139749369809_1699342099558926716_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ToB9OLazKzQQ7kNvgE0DKF1&_nc_ht=scontent-lga3-2.xx&oh=00_AYAMegIJb4O-Nb5Xz-8odIbCwMBY9K_7gNTCw7AolgdMAw&oe=666487AB",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441533413_960608432731441_8663745961453552215_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v-z2Z1m0bwYQ7kNvgFrQu3v&_nc_ht=scontent-lga3-2.xx&oh=00_AYAF9VrgiROubc03RWKU0fejJ5aqDN7ZL1pNe6NAbLeHlg&oe=66657834"
     },
     {
         "Title": "Love, Sharks & Frenching: a hot date w/ Lou Laurence @ MTL FRINGE",
@@ -1197,10 +715,109 @@
         "City": "Montreal",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/962055355545332/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437044318_821316539817041_6095208396881546246_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RhWG7bNagDYQ7kNvgHmMtdK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCQatufOVS7kPSXGFNh7oAamHC7aIhYRoNu1Y47FVGUKw&oe=66646A78",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437044318_821316539817041_6095208396881546246_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RhWG7bNagDYQ7kNvgHmMtdK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCXiBxuIAWcrZikwYiYh6Lmcf4uxPzvuO02Q0QJ21Tgfg&oe=666583B8",
         "Organizer": "Lou Laurence",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437044318_821316539817041_6095208396881546246_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RhWG7bNagDYQ7kNvgHmMtdK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCQatufOVS7kPSXGFNh7oAamHC7aIhYRoNu1Y47FVGUKw&oe=66646A78",
-        "Tags": []
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/437044318_821316539817041_6095208396881546246_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RhWG7bNagDYQ7kNvgHmMtdK&_nc_ht=scontent-lga3-2.xx&oh=00_AYCXiBxuIAWcrZikwYiYh6Lmcf4uxPzvuO02Q0QJ21Tgfg&oe=666583B8"
+    },
+    {
+        "Title": "An hour with Abby Stonehouse",
+        "Description": "On June 5th, I\u2019ll be testing out an hour of material for my special titled \"Stale Bugles and Flat Sodas.\" Mariam Khan will warm up the crowd, and then I\u2019ll take the stage for a ful\u2026 See more",
+        "Date": [
+            "05/06/2024 at 09:00 PM",
+            "05/06/2024 at 10:30 PM"
+        ],
+        "StartTime": "9:00\u202fPM",
+        "EndTime": "10:30\u202fPM",
+        "Location": "Notre Dame Des Quilles",
+        "Latitude": 45.5306164,
+        "Longitude": -73.608092,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5306164,-73.608092",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1355364421826718/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444458033_10160561331423778_7490190819111741802_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UU7BneBf8dUQ7kNvgEpscZt&_nc_ht=scontent-lga3-1.xx&oh=00_AYChURSiG4d10pUQKHQZ1Y2qAHsxzYId7ke8H3HG8rsE9A&oe=66657F78",
+        "Organizer": "Abby Stonehouse",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/444458033_10160561331423778_7490190819111741802_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UU7BneBf8dUQ7kNvgEpscZt&_nc_ht=scontent-lga3-1.xx&oh=00_AYChURSiG4d10pUQKHQZ1Y2qAHsxzYId7ke8H3HG8rsE9A&oe=66657F78"
+    },
+    {
+        "Title": "Storytime with Maggie : environmental kids theatre workshop",
+        "Description": "In this fun filled workshop, children will listen to a folktale about our natural world.After the story, we will dress up in costumes and act out the story.",
+        "Date": [
+            "08/06/2024 at 10:30 AM",
+            "08/06/2024 at 11:30 AM"
+        ],
+        "StartTime": "10:30\u202fAM",
+        "EndTime": "11:30\u202fAM",
+        "Location": "Agriculture du Coin 235 Av. Laurier O, Montr\u00e9al, QC H2T 2N9",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/464070492807589/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440350798_122148500312101273_8282480089862995608_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KScip2U2Zf0Q7kNvgHzXmzn&_nc_ht=scontent-lga3-2.xx&oh=00_AYDeMU-WKy5524Mp1Y6FkGJHTjBm5gVJ4pcXQU6s4oOglA&oe=66657248",
+        "Organizer": "Agriculture du Coin",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440350798_122148500312101273_8282480089862995608_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KScip2U2Zf0Q7kNvgHzXmzn&_nc_ht=scontent-lga3-2.xx&oh=00_AYDeMU-WKy5524Mp1Y6FkGJHTjBm5gVJ4pcXQU6s4oOglA&oe=66657248"
+    },
+    {
+        "Title": "Spring 2024 Session Slam",
+        "Description": "It's that time again!! Come and join us to help celebrate the work that our bands have put in...",
+        "Date": [
+            "14/06/2024 at 07:00 PM",
+            "14/06/2024 at 11:00 PM"
+        ],
+        "StartTime": "7:00\u202fPM",
+        "EndTime": "11:00\u202fPM",
+        "Location": "Piranha Bar",
+        "Latitude": 45.5028698,
+        "Longitude": -73.5699097,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5028698,-73.5699097",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1500986787497417/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441509437_1044185057709007_7871355788883775990_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k5rZazcR2LoQ7kNvgEl-4Kh&_nc_ht=scontent-lga3-2.xx&oh=00_AYCAnQaWhszihPcLEcRc08b4WJO1g2W5aWglrC8jDtkXSQ&oe=66659DE7",
+        "Organizer": "Montreal Jams",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441509437_1044185057709007_7871355788883775990_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k5rZazcR2LoQ7kNvgEl-4Kh&_nc_ht=scontent-lga3-2.xx&oh=00_AYCAnQaWhszihPcLEcRc08b4WJO1g2W5aWglrC8jDtkXSQ&oe=66659DE7"
+    },
+    {
+        "Title": "SOLSTICE 2024",
+        "Description": "Embrace the longest day of the year with warmth and vitality at IDOLEM Bois-Franc. As the sun reaches its zenith during the summer solstice, join us for a rejuvenating experience i\u2026 See more",
+        "Date": [
+            "21/06/2024 at 07:15 AM",
+            "21/06/2024 at 07:45 PM"
+        ],
+        "StartTime": "7:15\u202fAM",
+        "EndTime": "7:45\u202fPM",
+        "Location": "Idolem Hot Yoga Chaud (Bois-Franc)",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1360156288013264/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441538863_1016465633812954_8065429306054930634_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IcedudjJfTwQ7kNvgFsnKh_&_nc_ht=scontent-lga3-2.xx&oh=00_AYB4MHhe4AvmytCrgHZJ9rdVZ6_X3RTEkoyKoi5swVPvBQ&oe=66659449",
+        "Organizer": "Idolem Hot Yoga Chaud (Bois-Franc)",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/441538863_1016465633812954_8065429306054930634_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IcedudjJfTwQ7kNvgFsnKh_&_nc_ht=scontent-lga3-2.xx&oh=00_AYB4MHhe4AvmytCrgHZJ9rdVZ6_X3RTEkoyKoi5swVPvBQ&oe=66659449"
+    },
+    {
+        "Title": "Blitz & Brews Circuit at Fitzroy",
+        "Description": "Welcome to Blitz Bishops & Brews at FitzRoy!",
+        "Date": [
+            "10/06/2024 at 06:00 PM",
+            "10/06/2024 at 11:15 PM"
+        ],
+        "StartTime": "6:00\u202fPM",
+        "EndTime": "11:15\u202fPM",
+        "Location": "Fitzroy",
+        "Latitude": 45.5252463,
+        "Longitude": -73.5819566,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5252463,-73.5819566",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/413794631586999/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440440525_122137616204225002_4459852213955901478_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=exmSizx0aN4Q7kNvgGWQ1By&_nc_ht=scontent-lga3-1.xx&oh=00_AYA3EVnJ9ByblL0e8cMXtzu_6NCVh8aA9gy5dDyGQcHU1A&oe=66659556",
+        "Organizer": "Blitzbishops",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/440440525_122137616204225002_4459852213955901478_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=exmSizx0aN4Q7kNvgGWQ1By&_nc_ht=scontent-lga3-1.xx&oh=00_AYA3EVnJ9ByblL0e8cMXtzu_6NCVh8aA9gy5dDyGQcHU1A&oe=66659556"
     },
     {
         "Title": "Rediscover Beauty: Art & Music Event",
@@ -1218,86 +835,1196 @@
         "City": "Montr\u00e9al",
         "CountryCode": "ca",
         "EventUrl": "https://www.facebook.com/events/425751360232717/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444760137_425618113687587_3154385424989848349_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tot0JAk9VzgQ7kNvgGHML6l&_nc_ht=scontent-lga3-2.xx&oh=00_AYDlwWqbkfj9RK3cB_VI-6Ht70fOWlS79x_qMcOa1lSUYw&oe=666482C2",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444760137_425618113687587_3154385424989848349_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tot0JAk9VzgQ7kNvgGHML6l&_nc_ht=scontent-lga3-2.xx&oh=00_AYAOYiu1K3pi9RuxBm5ajvzHHHtg26IZfPg5VVvjDnrpeg&oe=66659C02",
         "Organizer": "O.N.E Band",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444760137_425618113687587_3154385424989848349_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tot0JAk9VzgQ7kNvgGHML6l&_nc_ht=scontent-lga3-2.xx&oh=00_AYDlwWqbkfj9RK3cB_VI-6Ht70fOWlS79x_qMcOa1lSUYw&oe=666482C2",
-        "Tags": [
-            {
-                "id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Singing",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1b7e1210-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Photography",
-                "emoji": "\ud83d\udcf8",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "1cbfc5a0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Jazz",
-                "emoji": " \ud83c\udfb5",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "1d344290-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Pop",
-                "emoji": "\ud83c\udfb6",
-                "tagCategory": "Musique"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "263997d0-3c46-11ee-bb59-7f5156da6f07",
-                "name": "Jazz",
-                "emoji": " \ud83c\udfb6",
-                "tagCategory": "Musique"
-            }
-        ]
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/444760137_425618113687587_3154385424989848349_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tot0JAk9VzgQ7kNvgGHML6l&_nc_ht=scontent-lga3-2.xx&oh=00_AYAOYiu1K3pi9RuxBm5ajvzHHHtg26IZfPg5VVvjDnrpeg&oe=66659C02"
     },
     {
-        "Title": "KINKY BOOTS the fundraising event !",
-        "Description": "Join us Saturday, June 8th, for a delightful evening and help NUVO raise funds for its upcoming musical production of KINKY BOOTS, the musical.",
+        "Title": "So Grateful",
+        "Description": "Join International Gospel Recording Artists  Zina Edwards for her long awaited Live concert, So Grateful\ufffd Let Give God the highest Praise!",
         "Date": [
-            "08/06/2024 at 06:00 PM",
-            "08/06/2024 at 09:00 PM"
+            "29/06/2024 at 07:00 PM",
+            "29/06/2024 at 10:00 PM"
         ],
-        "StartTime": "6:00\u202fPM",
-        "EndTime": "9:00\u202fPM",
-        "Location": "Bar Le Cocktail",
+        "StartTime": "7:00\u202fPM",
+        "EndTime": "10:00\u202fPM",
+        "Location": "1850 Rue Saint-Antoine Ouest,Montr\u00e9al,H3J 1A3,CA",
+        "Latitude": 45.4905285,
+        "Longitude": -73.5746074,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4905285,-73.5746074",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/440548505319473/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/438830619_373990842305352_6504335614373733411_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=I0g96C3O8tkQ7kNvgFY2FuP&_nc_ht=scontent-lga3-2.xx&oh=00_AYB-wPXK4EbNeVoiE9-WIY5XY9T78dTm4exjwc4OCVG0cw&oe=66656F8D",
+        "Organizer": "Zina Edwards",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/438830619_373990842305352_6504335614373733411_n.jpg?stp=dst-jpg_fb50_p160x160&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=I0g96C3O8tkQ7kNvgFY2FuP&_nc_ht=scontent-lga3-2.xx&oh=00_AYB-wPXK4EbNeVoiE9-WIY5XY9T78dTm4exjwc4OCVG0cw&oe=66656F8D"
+    },
+    {
+        "Title": "Yu-Gi-Oh! Locals Sundays",
+        "Description": "Welcome to our Yu-Gi-Oh! Sunday Locals.",
+        "Date": [
+            "09/06/2024 at 01:30 PM",
+            "09/06/2024 at 05:00 PM"
+        ],
+        "StartTime": "1:30\u202fPM",
+        "EndTime": "5:00\u202fPM",
+        "Location": "1118 Sainte-Catherine Ouest #204\nMontreal, QC, Canada, Quebec H3B1H5",
+        "Latitude": 45.499497950000006,
+        "Longitude": -73.57302485765183,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.499497950000006,-73.57302485765183",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1297140950954414/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/421587666_759912582825859_7484446712943079427_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fU9CFv39v6QQ7kNvgFTQ4aC&_nc_ht=scontent-lga3-1.xx&oh=00_AYDQmy4aTC2Z283AnWpmpRDHNYzGxANV6lb0gRvS42r1cw&oe=666582A1",
+        "Organizer": "Three Kings Loot Inc.",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/421587666_759912582825859_7484446712943079427_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fU9CFv39v6QQ7kNvgFTQ4aC&_nc_ht=scontent-lga3-1.xx&oh=00_AYDQmy4aTC2Z283AnWpmpRDHNYzGxANV6lb0gRvS42r1cw&oe=666582A1"
+    },
+    {
+        "Title": "Intro to English Paper Piecing Workshop",
+        "Description": "Intro to English Paper Piecing",
+        "Date": [
+            "08/06/2024 at 09:00 AM",
+            "08/06/2024 at 12:00 PM"
+        ],
+        "StartTime": "9:00\u202fAM",
+        "EndTime": "12:00\u202fPM",
+        "Location": "Craft de Ville",
+        "Latitude": 45.4638983,
+        "Longitude": -73.5671236,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.4638983,-73.5671236",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/1015055113308148/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442489518_966891442107810_4035690459498374223_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QDHFSc_p5P8Q7kNvgGe_lwK&_nc_ht=scontent-lga3-2.xx&oh=00_AYAgLYk7lOxxhFj_EBjRHKIgwq8W4CntY82voANEi6NGoA&oe=66656C6C",
+        "Organizer": "Craft de Ville",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442489518_966891442107810_4035690459498374223_n.jpg?stp=dst-jpg_fb50_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=QDHFSc_p5P8Q7kNvgGe_lwK&_nc_ht=scontent-lga3-2.xx&oh=00_AYAgLYk7lOxxhFj_EBjRHKIgwq8W4CntY82voANEi6NGoA&oe=66656C6C"
+    },
+    {
+        "Title": "Pindorama at Montreal Fringe!",
+        "Description": "Witness the world premiere of PINDORAMA, a delirious, laugh-out-loud Brazilian comedy by Fred Azeredo!",
+        "Date": [
+            "08/06/2024 at 09:45 PM",
+            "08/06/2024 at 10:45 PM"
+        ],
+        "StartTime": "9:45\u202fPM",
+        "EndTime": "10:45\u202fPM",
+        "Location": "3700 Rue St-Dominique, Montr\u00e9al, QC H2X 2X7, Canada",
+        "Latitude": 45.5149886,
+        "Longitude": -73.5736359,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5149886,-73.5736359",
+        "City": "Montr\u00e9al",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/405700505619835/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442477515_122143272080186440_6950635424076908290_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FAlbbXFJDCkQ7kNvgFZ7RMa&_nc_ht=scontent-lga3-1.xx&oh=00_AYDT8WbmV--boW0GYnw4Dst9VsAx0B9bJUecEZqLWE6EXg&oe=66656DFA",
+        "Organizer": "MBC Productions",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442477515_122143272080186440_6950635424076908290_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FAlbbXFJDCkQ7kNvgFZ7RMa&_nc_ht=scontent-lga3-1.xx&oh=00_AYDT8WbmV--boW0GYnw4Dst9VsAx0B9bJUecEZqLWE6EXg&oe=66656DFA"
+    },
+    {
+        "Title": "Sashiko 101 with Xiaoxiao Yarn",
+        "Description": "Welcome to the enchanting world of Sashiko, a traditional Japanese embroidery technique that originated in the 17th century. Initially developed for mending and reinforcing fabric,\u2026 See more",
+        "Date": [
+            "09/06/2024 at 02:00 PM",
+            "09/06/2024 at 05:00 PM"
+        ],
+        "StartTime": "2:00\u202fPM",
+        "EndTime": "5:00\u202fPM",
+        "Location": "Maison de l'amiti\u00e9",
         "Latitude": null,
         "Longitude": null,
         "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
         "City": "Montreal",
         "CountryCode": "ca",
-        "EventUrl": "https://www.facebook.com/events/3306220456338179/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440941068_779521547609688_3734075504587104380_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lI3ZStUteXEQ7kNvgGzB9ej&_nc_ht=scontent-lga3-2.xx&oh=00_AYABUiwBp90x4TfsMIMI7HjzOi6c5K5mMMmwy-vb7RNWxA&oe=6664614A",
-        "Organizer": "NUVO - th\u00e9\u00e2tre musical theatre",
-        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/440941068_779521547609688_3734075504587104380_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lI3ZStUteXEQ7kNvgGzB9ej&_nc_ht=scontent-lga3-2.xx&oh=00_AYABUiwBp90x4TfsMIMI7HjzOi6c5K5mMMmwy-vb7RNWxA&oe=6664614A",
-        "Tags": [
-            {
-                "id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa",
-                "name": "Singing",
-                "emoji": "\ud83c\udfa4",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Fashion",
-                "emoji": "\ud83e\udd7b",
-                "tagCategory": "Leisure"
-            },
-            {
-                "id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4",
-                "name": "Dance",
-                "emoji": "\ud83d\udc83",
-                "tagCategory": "Leisure"
-            }
-        ]
+        "EventUrl": "https://www.facebook.com/events/1203108537724652/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442472374_974972081298016_186620917640865113_n.jpg?stp=dst-jpg_fb50_p173x172&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lH_0Y6ntEqcQ7kNvgESsJM5&_nc_ht=scontent-lga3-1.xx&oh=00_AYDLWw04jryRB-qBZ9sSuySD9OxKPJ1rbN22yBzomoCOTA&oe=6665876C",
+        "Organizer": "Xiaoxiao Yarn",
+        "Organizer_IMG": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/442472374_974972081298016_186620917640865113_n.jpg?stp=dst-jpg_fb50_p173x172&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lH_0Y6ntEqcQ7kNvgESsJM5&_nc_ht=scontent-lga3-1.xx&oh=00_AYDLWw04jryRB-qBZ9sSuySD9OxKPJ1rbN22yBzomoCOTA&oe=6665876C"
+    },
+    {
+        "Title": "DAR SHERIF",
+        "Description": "Join us for DAR SHERIF VOL. 1, an all-night event from 11 p.m. to 3 a.m. at the unique venue Osmo x Marusan.",
+        "Date": [
+            "07/06/2024 at 11:00 PM",
+            "08/06/2024 at 03:00 AM"
+        ],
+        "StartTime": "11:00\u202fPM",
+        "EndTime": "3:00\u202fAM",
+        "Location": "Osmo x Marusan",
+        "Latitude": null,
+        "Longitude": null,
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=None,None",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "EventUrl": "https://www.facebook.com/events/463739696127354/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22lov_feed%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "ImageURL": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442411001_122109827714313472_3647035492680066384_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=A6dK2Ce9Z0UQ7kNvgHcirAm&_nc_ht=scontent-lga3-2.xx&oh=00_AYALTvq43__nK2WdD2cH85lzFyvFLeJw2Q54NebVNeRNWQ&oe=66658BD2",
+        "Organizer": "Sherifsound",
+        "Organizer_IMG": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/442411001_122109827714313472_3647035492680066384_n.jpg?stp=dst-jpg_fb50_s320x320&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=A6dK2Ce9Z0UQ7kNvgHcirAm&_nc_ht=scontent-lga3-2.xx&oh=00_AYALTvq43__nK2WdD2cH85lzFyvFLeJw2Q54NebVNeRNWQ&oe=66658BD2"
+    },
+    {
+        "Title": "Urban Worship",
+        "Description": "Du gospel Urbain! voil\u00e0 ce qui vous attends le samedi 8 juin 2024",
+        "Date": "Saturday, June 8 \u00b7 7 - 10:30pm EDT",
+        "Location": "3971 Bd Robert",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "On The Rock entertainement",
+        "StartTime": "30:00",
+        "EndTime": "20:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.574158366666666,
+        "Longitude": -73.61193066666667,
+        "EventUrl": "https://www.eventbrite.ca/e/urban-worship-tickets-885237979627?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.574158366666666,-73.61193066666667"
+    },
+    {
+        "Title": "DISCUSION ENTRE ELLES BY  N.W.A EVENTS",
+        "Description": "Une soir\u00e9e entre femmes pour discuter de sujets importants, partager nos exp\u00e9riences et nous soutenir mutuellement!",
+        "Date": "Thu, Jun 13, 2024 6:30 PM - 9:00 PM EDT",
+        "Location": "Avenue Mandy",
+        "Price": 33.28,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "Thursday, Jun 13, 2024 6:30 PM",
+        "EndTime": "9:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/discusion-entre-elles-by-nwa-events-tickets-910619025017?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "PMP Live Instructor Led Certification Training Bootcamp Saint-Leonard, QC",
+        "Description": "Get ready to ace your PMP certification with our live instructor-led bootcamp - it's gonna be epic!",
+        "Date": "Saturday, June 15 \u00b7 9am - 5pm EDT",
+        "Location": "Saint-Leonard",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Shine BrightX Limited Liability Company",
+        "StartTime": "17:00",
+        "EndTime": "19:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.58671,
+        "Longitude": -73.5969488,
+        "EventUrl": "https://www.eventbrite.com/e/pmp-live-instructor-led-certification-training-bootcamp-saint-leonard-qc-tickets-865573402347?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.58671,-73.5969488"
+    },
+    {
+        "Title": "Soir\u00e9e d'humour au BordeRire Comedie",
+        "Description": "Au BordeRire c'est une soir\u00e9e de fous rires garantie ! RDV le 14 juin \u00e0 partir de 19h30 (show \u00e0 19h45) pour notre septi\u00e8me \u00e9dition!",
+        "Date": "ven. 14 juin 2024 19:30 - 21:30 UTC\u22124",
+        "Location": "3400 Rue B\u00e9lair",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Mlle Borderline",
+        "StartTime": "19:30",
+        "EndTime": "21:30",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5591851,
+        "Longitude": -73.5939145,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-soiree-dhumour-au-borderire-comedie-907981064807?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5591851,-73.5939145"
+    },
+    {
+        "Title": "Father-Son  Conversation June 16th/Conversation P\u00e8re-Fils 16 Juin",
+        "Description": "Venez nous rejoindre pour une journ\u00e9e  de conversation P\u00e8re et Fils  le 16 Juin. (Une paire de billet P\u00e8re /Fils)",
+        "Date": "Sun, Jun 16, 2024 3:30 PM - 7:30 PM EDT",
+        "Location": "3737 Boul Cr\u00e9mazie E",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Rising Men Alliance / Parlons Entre Hommes",
+        "StartTime": "Sunday, Jun 16, 2024 3:30 PM",
+        "EndTime": "7:30 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/father-son-conversation-june-16thconversation-pere-fils-16-juin-tickets-860256158327?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "\"Gino: A Child of War\"  With Special Guest  GINO FARNETTI-BRAGAGLIA",
+        "Description": "Please join us at Centro Leonardo Da Vinci to meet Gino and Family members of his Guardian Angels at 7:30pm on June 18th, 2024!",
+        "Date": "Tuesday, June 18 \u00b7 7:30 - 9:30pm EDT",
+        "Location": "8370 Bd Lacordaire",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Combined Forces Production Collaborative",
+        "StartTime": "7:30",
+        "EndTime": "9:30",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5854468,
+        "Longitude": -73.59709108159345,
+        "EventUrl": "https://www.eventbrite.ca/e/gino-a-child-of-war-with-special-guest-gino-farnetti-bragaglia-tickets-897531610207?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5854468,-73.59709108159345"
+    },
+    {
+        "Title": "City LOVE Scavenger Hunt for Couples Date Night! - Montreal Area",
+        "Description": "CITY LOVE SCAVENGER HUNT Date For Couples (Self-Guided) Enjoy your city scavenger hunt with fun digital activities along the way!",
+        "Date": "Thursday, June 6 \u00b7 1 - 5pm EDT",
+        "Location": "Recommended scavenger starting point or other city spot of your choice!(USE PDF TICKETS NO QR CODES",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Wellness Events",
+        "StartTime": "17:00",
+        "EndTime": "19:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/city-love-scavenger-hunt-for-couples-date-night-montreal-area-tickets-908038115447?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "SAMEDI CHEZ CALLIARI...dans le jardin",
+        "Description": "Spectacle intime dans le jardin de Marco Calliari \u00e0 Montr\u00e9al!",
+        "Date": "sam. 15 juin 2024 19:00 - 22:00 UTC\u22124",
+        "Location": "Marco Calliari",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "PRODUCTIONS CASA NOSTRA",
+        "StartTime": "19:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-samedi-chez-calliaridans-le-jardin-872085490177?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "BIC pour la f\u00eate de la musique",
+        "Description": "Vous \u00eates un amant de la bonne musique et de la po\u00e9sie? R\u00e9servez une soir\u00e9e de bonheur avec l'homme de la belle plume, BIC",
+        "Date": "Friday, June 21 \u00b7 7 - 9pm EDT",
+        "Location": "8370 Boulevard Lacordaire",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Compagnie Th\u00e9\u00e2tre Cr\u00e9ole",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5854468,
+        "Longitude": -73.59709108159345,
+        "EventUrl": "https://www.eventbrite.ca/e/bic-pour-la-fete-de-la-musique-tickets-914722689187?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5854468,-73.59709108159345"
+    },
+    {
+        "Title": "Votre Open Mic",
+        "Description": "Open mic ouvert \u00e0 tous!",
+        "Date": "Wednesday, June 12 \u00b7 7:30 - 10pm EDT",
+        "Location": "6566 Rue Jarry Est, Saint-L\u00e9onard, QC, Canada",
+        "Price": 11.98,
+        "ImageURL": null,
+        "Organizer": "Divertissements Double R",
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.59585419591836,
+        "Longitude": -73.58056972040816,
+        "EventUrl": "https://www.eventbrite.ca/e/votre-open-mic-tickets-915754916607?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.59585419591836,-73.58056972040816"
+    },
+    {
+        "Title": "Columbus Crew at CF Montreal Tickets",
+        "Description": "Get your tickets to see Columbus Crew take on CF Montreal live in person - it's gonna be epic!",
+        "Date": "Wednesday, June 5 \u00b7 10am - 12pm EDT",
+        "Location": "Stadium Saputo",
+        "Price": 10.36,
+        "ImageURL": null,
+        "Organizer": "Roderick Ginnylee",
+        "StartTime": "12:00",
+        "EndTime": "14:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5630905,
+        "Longitude": -73.55264201236912,
+        "EventUrl": "https://www.eventbrite.com/e/columbus-crew-at-cf-montreal-tickets-tickets-891584883387?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5630905,-73.55264201236912"
+    },
+    {
+        "Title": "Cocktail du printemps du CIB\u00ceM !",
+        "Description": "Partageons nos exp\u00e9riences lors d'une soir\u00e9e conviviale !",
+        "Date": "jeu. 6 juin 2024 17:30 - 19:30 UTC\u22124",
+        "Location": "Soci\u00e9t\u00e9 d\u2019astronomie du Plan\u00e9tarium de Montr\u00e9al",
+        "Price": 25.0,
+        "ImageURL": null,
+        "Organizer": "CIB\u00ceM",
+        "StartTime": "17:30",
+        "EndTime": "19:30",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-cocktail-du-printemps-du-cibim-895309995297?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Workshop : Reconecte-se com sua essencia",
+        "Description": "Descubra o poder transformador de se reconectar com a sua crian\u00e7a interior. Exploraremos o conceito profundo da crian\u00e7a interior.",
+        "Date": "Sat, Jun 15, 2024 2:00 PM - 4:00 PM EDT",
+        "Location": "3580 Rue Masson",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "Saturday, Jun 15, 2024 2:00 PM",
+        "EndTime": "4:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5541859,
+        "Longitude": -73.5711996,
+        "EventUrl": "https://www.eventbrite.ca/e/workshop-reconecte-se-com-sua-essencia-tickets-918823264117?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5541859,-73.5711996"
+    },
+    {
+        "Title": "ALBUM RELEASE PARTY / SOIR\u00c9E CHIC 2",
+        "Description": "Soyez pr\u00eat pour venir c\u00e9l\u00e9brer L'ALBUM RELEASE PARTY  dans une SOIR\u00c9E CHIC .Avec JBeatz et Tcheke.",
+        "Date": "June 8 \u00b7 10pm - June 9 \u00b7 3am EDT",
+        "Location": "8860 Boul Langelier",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.600625060742814,
+        "Longitude": -73.59586999107816,
+        "EventUrl": "https://www.eventbrite.com/e/album-release-party-soiree-chic-2-tickets-874519410097?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.600625060742814,-73.59586999107816"
+    },
+    {
+        "Title": "Nostalgie en ZOUK",
+        "Description": "Une soir\u00e9e inoubliable  avec Eric Virgal & Orlane.",
+        "Date": "sam. 15 juin 2024 19:00 - dim. 16 juin 2024 03:00 UTC\u22124",
+        "Location": "Le Carlton Signature",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Pascal Laraque",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-nostalgie-en-zouk-885733923007?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Formation massage des tissus profonds 1",
+        "Description": "Ce cours de massage des tissus profonds de 30h se d\u00e9roule sur 4 journ\u00e9es.",
+        "Date": "sam. 29 juin 2024 09:00 - dim. 30 juin 2024 17:00 EDT",
+        "Location": "\u00c9cole de massage \u00c0 fleur de peau",
+        "Price": "107.0 - 83.0",
+        "ImageURL": null,
+        "Organizer": "\u00c9cole de massage professionnel \u00c0 fleur de peau",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-formation-massage-des-tissus-profonds-1-872118539027?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "L'aromath\u00e9rapie et les infections",
+        "Description": "Ce cours aborde l'aromath\u00e9rapie pour soulager les infections.",
+        "Date": "sam. 29 juin 2024 09:00 - dim. 30 juin 2024 17:00 EDT",
+        "Location": "\u00c9cole de massage \u00c0 fleur de peau",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "\u00c9cole de massage professionnel \u00c0 fleur de peau",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-laromatherapie-et-les-infections-872140013257?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Massage adapt\u00e9 aux enfants - 22h30",
+        "Description": "Cette formation permet d'acqu\u00e9rir les connaissances n\u00e9cessaires au massage des enfants.",
+        "Date": "sam. 6 juil. 2024 09:00 - lun. 8 juil. 2024 17:00 EDT",
+        "Location": "Ecole de massage \u00c0 fleur de peau",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "\u00c9cole de massage professionnel \u00c0 fleur de peau",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-massage-adapte-aux-enfants-22h30-781846432727?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Montreal Pottery and Wine Workshop - one time ceramics introduction class",
+        "Description": "Book your private pottery group party for birthdays, cooperate events, holidays and Christmas parties!",
+        "Date": "Sat, Jun 15, 2024 12:30 PM - 2:30 PM EDT",
+        "Location": "POTTERAE (atelier | studio)",
+        "Price": 106.77,
+        "ImageURL": null,
+        "Organizer": "POTTERAE (atelier | studio)",
+        "StartTime": "Saturday, Jun 15, 2024 12:30 PM",
+        "EndTime": "2:30 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/montreal-pottery-and-wine-workshop-one-time-ceramics-introduction-class-tickets-547941637187?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "REMINISCE | Spectacle de Street Dance UEZ | 16H",
+        "Description": "UEZ pr\u00e9sente REMINISCE, Spectacle de Street Dance pr\u00e9sent\u00e9 par les \u00e9l\u00e8ves, les troupes et les invit\u00e9s du Studio de Danse Urban-Element Zone.",
+        "Date": "Sun, Jun 16, 2024 4:00 PM - 6:00 PM EDT",
+        "Location": "Salle Sylvain-Leli\u00e8vre, Coll\u00e8ge de Maisonneuve",
+        "Price": "0.0 - 32.15",
+        "ImageURL": null,
+        "Organizer": "Urban-Element Zone",
+        "StartTime": "Sunday, Jun 16, 2024 4:00 PM",
+        "EndTime": "6:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/reminisce-spectacle-de-street-dance-uez-16h-tickets-900837879347?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Montreal Grand Prix Deep Afro House Party",
+        "Description": "Check out our special bottles packages!",
+        "Date": "June 7 \u00b7 9pm - June 8 \u00b7 3am EDT",
+        "Location": "311 Rue Saint-Paul E, Montreal, QC, Canada",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Kwizinn",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/montreal-grand-prix-deep-afro-house-party-tickets-917567056767?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "VIP RED Montr\u00e9al",
+        "Description": "Plaza Vogue",
+        "Date": "Tuesday, June 11 \u00b7 6 - 9pm EDT",
+        "Location": "Plaza Vogue",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/vip-red-montreal-tickets-916240579237?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "DIRECTEMENT DE CUBA ALEX DUVALL (21/06/2024) ET MAYITO RIVERA (22-06-2024)",
+        "Description": "O\u00f9 sont les amateurs de musique cubaine ?\nDeux concerts incroyables o\u00f9 le protagoniste est la musique cubaine, soulign\u00e9e par sa riche saveur",
+        "Date": "June 21 \u00b7 9pm - June 22 \u00b7 2am EDT",
+        "Location": "Salle Roumaine de Montr\u00e9al",
+        "Price": 34.99,
+        "ImageURL": null,
+        "Organizer": "L'\u00eele de Cuba",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/directement-de-cuba-alex-duvall-21062024-et-mayito-rivera-22-06-2024-tickets-883519098407?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "REMINISCE | Spectacle de Street Dance UEZ | 16H",
+        "Description": "UEZ pr\u00e9sente REMINISCE, Spectacle de Street Dance pr\u00e9sent\u00e9 par les \u00e9l\u00e8ves, les troupes et les invit\u00e9s du Studio de Danse Urban-Element Zone.",
+        "Date": "Sun, Jun 16, 2024 4:00 PM - 6:00 PM EDT",
+        "Location": "Salle Sylvain-Leli\u00e8vre, Coll\u00e8ge de Maisonneuve",
+        "Price": "0.0 - 32.15",
+        "ImageURL": null,
+        "Organizer": "Urban-Element Zone",
+        "StartTime": "Sunday, Jun 16, 2024 4:00 PM",
+        "EndTime": "6:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/reminisce-spectacle-de-street-dance-uez-16h-tickets-900837879347?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "DIVINES CR\u00c9ATURES - Lancement par Ofildesoie",
+        "Description": "x",
+        "Date": "Saturday, June 15 \u00b7 7 - 11pm EDT",
+        "Location": "Espace Transmission",
+        "Price": "10.0 - 15.0",
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "23:00",
+        "EndTime": "13:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/divines-creatures-lancement-par-ofildesoie-tickets-907193739897?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "\"Tcheke turns 2!",
+        "Description": "Get ready to celebrate Tcheke's 2nd birthday with us in person! Let's party like there's no tomorrow!",
+        "Date": "Fri, Jul 12, 2024 8:00 PM - 11:30 PM MST",
+        "Location": "Complexe La Providence",
+        "Price": "40.0 - 2.0",
+        "ImageURL": null,
+        "Organizer": "Masse Production",
+        "StartTime": "Friday, Jul 12, 2024 8:00 PM",
+        "EndTime": "11:30 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/tcheke-turns-2-tickets-907057402107?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "MAK-G MIX BIRTHDAY BASH",
+        "Description": "Come celebrate MAK-G's birthday with a mix of music, dancing, and good vibes! From 22:00 PM until 03:00 AM",
+        "Date": "Saturday, June 15 \u00b7 10 - 11:30pm EDT",
+        "Location": "1349 R. Saint-Zotique",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "DJ MBE, DJ MAK-G MIX",
+        "StartTime": "30:00",
+        "EndTime": "20:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.54223075,
+        "Longitude": -73.60280174221447,
+        "EventUrl": "https://www.eventbrite.com/e/mak-g-mix-birthday-bash-tickets-879484651267?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.54223075,-73.60280174221447"
+    },
+    {
+        "Title": "ATELIER YOGA KUNDALINI + CERCLE DE PARTAGE",
+        "Description": "Pr\u00e9parez-vous \u00e0 vivre une exp\u00e9rience enrichissante lors de notre \u00e9v\u00e9nement Atelier Yoga Kundalini, m\u00e9ditation + Cercle de partage.",
+        "Date": "dim. 9 juin 2024 11:00 - 13:00 UTC\u22124",
+        "Location": "5570 Rue Cartier #102a, Montreal, QC, Canada",
+        "Price": "39.0 - 67.0",
+        "ImageURL": null,
+        "Organizer": "WILD GRACE YOGA",
+        "StartTime": "11:00",
+        "EndTime": "13:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-atelier-yoga-kundalini-cercle-de-partage-914597595027?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "L'univers du chocolat",
+        "Description": "Plongez dans une aventure chocolat\u00e9e inoubliable \u00e0 l\u2019atelier o\u00f9 nous fabriquons nos chocolats \u00ab Bean to Bar \u00bb et des tartinades d\u2019exception.",
+        "Date": "lun. 14 ao\u00fbt 2023 14:00 - jeu. 6 juin 2024 18:00 EDT",
+        "Location": "5550 Rue Fullum local 530",
+        "Price": "62.0 - 76.0",
+        "ImageURL": null,
+        "Organizer": "Allo Simonne",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-lunivers-du-chocolat-690152754467?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Raulin Rosendo Canada Tour Montreal EVENT",
+        "Description": "\u00a1Prep\u00e1rate para bailar con la gira de Raulin Rosendo por Canad\u00e1! \u00a1No te lo puedes perder!",
+        "Date": "July 27 \u00b7 8pm - July 28 \u00b7 3am EDT",
+        "Location": "3971 Bd Robert",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Organized by Limon Toronto; reservations will be only taken until 9pm",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.574158366666666,
+        "Longitude": -73.61193066666667,
+        "EventUrl": "https://www.eventbrite.ca/e/raulin-rosendo-canada-tour-montreal-event-tickets-893953166987?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.574158366666666,-73.61193066666667"
+    },
+    {
+        "Title": "Hopelapp Connect Montreal",
+        "Description": "Un \u00e9v\u00e9nement de r\u00e9seautage o\u00f9 se rencontrent technologie, innovation et inspiration, avec des ateliers et des pr\u00e9sentations captivantes.",
+        "Date": "Wednesday, June 26 \u00b7 6 - 8pm EDT",
+        "Location": "6536 Av. Papineau",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Hopelapp Corp",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.543292699999995,
+        "Longitude": -73.59747113733354,
+        "EventUrl": "https://www.eventbrite.ca/e/hopelapp-connect-montreal-tickets-914279493577?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.543292699999995,-73.59747113733354"
+    },
+    {
+        "Title": "PINK & WHITE SUMMER DAY PARTY",
+        "Description": "Join us for a fun-filled day party where you can drink , relax, dance, and enjoy the summer vibes in your best white and pink outfits!",
+        "Date": "Sun, Jun 30, 2024 3:00 PM - 8:00 PM EDT",
+        "Location": "Le Maqui",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "LISA",
+        "StartTime": "Sunday, Jun 30, 2024 3:00 PM",
+        "EndTime": "8:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/pink-white-summer-day-party-tickets-913641685877?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Atelier Fermentation & Environnement : Adopter le rythme de la nature",
+        "Description": "Adoptez la fermentation comme rituel de reconnection au passage du temps. Se nourrir avec intention pour votre sant\u00e9 et celle de la plan\u00e8te.",
+        "Date": "Tuesday, June 18 \u00b7 6 - 9pm EDT",
+        "Location": "Ferment inc, 1255 Rue B\u00e9langer, Montr\u00e9al, QC, Canada",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "minivivants",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/atelier-fermentation-environnement-adopter-le-rythme-de-la-nature-tickets-895418790707?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "YOGA + POK\u00c9 & ROS\u00c9 \u2741",
+        "Description": "Voici l\u2019occasion parfaite de c\u00e9l\u00e9brer le Solstice d\u2019\u00e9t\u00e9 avec nous \u2600\ufe0e",
+        "Date": "Thursday, June 20 \u00b7 5:30 - 8pm EDT",
+        "Location": "5787 Rue Marquette",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "\u21a0  YogAventures  \u219e",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.539428521518985,
+        "Longitude": -73.58975880506328,
+        "EventUrl": "https://www.eventbrite.ca/e/yoga-poke-rose-tickets-896379253477?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.539428521518985,-73.58975880506328"
+    },
+    {
+        "Title": "A Dieu Soit La Gloire",
+        "Description": "Un concert de louange et d'adoration",
+        "Date": "Saturday, June 22 \u00b7 5 - 10pm EDT",
+        "Location": "10310 Av. Pelletier",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Jean Daniel Pierre",
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.58763606,
+        "Longitude": -73.62861972,
+        "EventUrl": "https://www.eventbrite.ca/e/a-dieu-soit-la-gloire-tickets-864937971757?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.58763606,-73.62861972"
+    },
+    {
+        "Title": "Alsace Fan Day et knack party \u00e0 la brasserie !",
+        "Description": "Pour c\u00e9l\u00e9brer l\u2019\u00e9t\u00e9, les Alsaciens de Montr\u00e9al vous invitent \u00e0 une belle soir\u00e9e alsacienne \u00e0 la brasserie \u201cl\u2019Espace Public\u201d dans le quartier",
+        "Date": "mer. 19 juin 2024 18:00 - 22:00 UTC\u22124",
+        "Location": "Brasserie l'Espace Public",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Les Alsaciens de Montr\u00e9al",
+        "StartTime": "18:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-alsace-fan-day-et-knack-party-a-la-brasserie-891151777957?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Colorful Canvas Creators Charity",
+        "Description": "Crafting Colorful Futures",
+        "Date": "Sunday, July 7 \u00b7 10am - 12pm EDT",
+        "Location": "8158 Rue Chabot",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "12:00",
+        "EndTime": "14:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5547905,
+        "Longitude": -73.61908067142858,
+        "EventUrl": "https://www.eventbrite.com/e/colorful-canvas-creators-charity-tickets-914368941117?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5547905,-73.61908067142858"
+    },
+    {
+        "Title": "CONFIDENCE - 3e \u00c9dition",
+        "Description": "Une exp\u00e9rience unique de R\u00c9SEAUTAGE ET PARTAGE.\n\u00ab De la d\u00e9termination au succ\u00e8s \u00bbD\u00e9couvrez le parcours d\u2019entrepreneurs d\u00e9termin\u00e9s!",
+        "Date": "Friday, June 28 \u00b7 5 - 8:30pm EDT",
+        "Location": "1258 Rue B\u00e9langer",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Bless_care_",
+        "StartTime": "30:00",
+        "EndTime": "20:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.54248438333333,
+        "Longitude": -73.60688753333334,
+        "EventUrl": "https://www.eventbrite.com/e/confidence-3e-edition-tickets-918025257257?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.54248438333333,-73.60688753333334"
+    },
+    {
+        "Title": "Soir\u00e9e chez les Givr\u00e9s !",
+        "Description": "Les Grillons Givr\u00e9s vous invitent \u00e0 leur soir\u00e9e de jeux hebdomadaire !!!!",
+        "Date": "ven. 7 juin 2024 19:00 - 23:00 EDT",
+        "Location": "Les jeux Grillons Givr\u00e9s",
+        "Price": "5.0 - 75.0",
+        "ImageURL": null,
+        "Organizer": "Les jeux Grillons Givr\u00e9s",
+        "StartTime": "19:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-soiree-chez-les-givres-918867265727?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "English comedy show at Cafe Eevee",
+        "Description": "Join us for a night of hilarious English comedy at Cafe Eevee - guaranteed to have you laughing until your sides hurt!",
+        "Date": "Fri, Jun 28, 2024 8:00 PM - 10:00 PM EDT",
+        "Location": "Caf\u00e9 Eevee, Rue Saint-Zotique East, Montreal, QC, Canada",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Cafe Eevee is an all ages nerdy Coffee shop.",
+        "StartTime": "Friday, Jun 28, 2024 8:00 PM",
+        "EndTime": "10:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/english-comedy-show-at-cafe-eevee-tickets-917585652387?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Laughknights comedy show",
+        "Description": "Get ready for a night of hilarious stand-up comedy at the Laughknights comedy show - it's gonna be a riot!",
+        "Date": "Fri, Jun 28, 2024 8:00 PM - 10:00 PM EDT",
+        "Location": "Caf\u00e9 Eevee",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Laughknights",
+        "StartTime": "Friday, Jun 28, 2024 8:00 PM",
+        "EndTime": "10:00 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/laughknights-comedy-show-tickets-917586053587?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Red Light Green Light Party",
+        "Description": "Red light, green light",
+        "Date": "July 6 \u00b7 10pm - July 7 \u00b7 4am EDT",
+        "Location": "Montreal",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "MF Entertainment",
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5031824,
+        "Longitude": -73.5698065,
+        "EventUrl": "https://www.eventbrite.ca/e/red-light-green-light-party-tickets-919160723467?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065"
+    },
+    {
+        "Title": "Qantu Chocolat - Visite de la fabrique",
+        "Description": "D\u00e9couvrez comment le chocolat est fabriqu\u00e9 de la f\u00e8ve de cacao \u00e0 la barre de chocolat et d\u00e9gustez des chocolats prim\u00e9s mondialement.",
+        "Date": "sam. 8 juin 2024 11:00 - 12:30 EDT",
+        "Location": "Qantu Cacao et Chocolat",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Qantu Cacao et Chocolat",
+        "StartTime": "11:00",
+        "EndTime": "12:30",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-qantu-chocolat-visite-de-la-fabrique-426975263507?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Montreal Grand Prix Deep Afro House Party",
+        "Description": "Check out our special bottles packages!",
+        "Date": "June 7 \u00b7 9pm - June 8 \u00b7 3am EDT",
+        "Location": "311 Rue Saint-Paul E, Montreal, QC, Canada",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Kwizinn",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/montreal-grand-prix-deep-afro-house-party-tickets-917567056767?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "VIP RED Montr\u00e9al",
+        "Description": "Plaza Vogue",
+        "Date": "Tuesday, June 11 \u00b7 6 - 9pm EDT",
+        "Location": "Plaza Vogue",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/vip-red-montreal-tickets-916240579237?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "DIRECTEMENT DE CUBA ALEX DUVALL (21/06/2024) ET MAYITO RIVERA (22-06-2024)",
+        "Description": "O\u00f9 sont les amateurs de musique cubaine ?\nDeux concerts incroyables o\u00f9 le protagoniste est la musique cubaine, soulign\u00e9e par sa riche saveur",
+        "Date": "June 21 \u00b7 9pm - June 22 \u00b7 2am EDT",
+        "Location": "Salle Roumaine de Montr\u00e9al",
+        "Price": 34.99,
+        "ImageURL": null,
+        "Organizer": "L'\u00eele de Cuba",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/directement-de-cuba-alex-duvall-21062024-et-mayito-rivera-22-06-2024-tickets-883519098407?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Relaxation pour deux avec bols tib\u00e9tains th\u00e9rapeutiques",
+        "Description": "D\u00e9couvrez une nouvelle fa\u00e7on d\u2019atteindre une d\u00e9tente profonde, de l\u00e2cher-prise et de restaurer la sensation de calme int\u00e9rieur!",
+        "Date": "jeu. 6 juin 2024 20:00 - 21:00 UTC\u22124",
+        "Location": "Petra Canart - Relaxation Montreal",
+        "Price": "74.0 - 50.0",
+        "ImageURL": null,
+        "Organizer": "Petra Canart - Relaxation Montr\u00e9al",
+        "StartTime": "20:00",
+        "EndTime": "21:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/inscription-relaxation-pour-deux-avec-bols-tibetains-therapeutiques-902385608647?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "DIRECTEMENT DE CUBA ALEX DUVALL (21/06/2024) ET MAYITO RIVERA (22-06-2024)",
+        "Description": "O\u00f9 sont les amateurs de musique cubaine ?\nDeux concerts incroyables o\u00f9 le protagoniste est la musique cubaine, soulign\u00e9e par sa riche saveur",
+        "Date": "June 21 \u00b7 9pm - June 22 \u00b7 2am EDT",
+        "Location": "Salle Roumaine de Montr\u00e9al",
+        "Price": 34.99,
+        "ImageURL": null,
+        "Organizer": "L'\u00eele de Cuba",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/directement-de-cuba-alex-duvall-21062024-et-mayito-rivera-22-06-2024-tickets-883519098407?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "POP UP : V\u00e9lo | crevaison // deal with a puncture (bike mechanic)",
+        "Description": "Une formation en mixit\u00e9 choisie, d\u00e9di\u00e9e aux femmes et personnes queer // A chosen gender-mix bike class,  for women & queer persons.",
+        "Date": "Saturday, June 8 \u00b7 11am - 1pm EDT",
+        "Location": "LESPACEMAKER",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "LESPACEMAKER : Formations",
+        "StartTime": "13:00",
+        "EndTime": "15:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.539163,
+        "Longitude": -73.5566571,
+        "EventUrl": "https://www.eventbrite.ca/e/pop-up-velo-crevaison-deal-with-a-puncture-bike-mechanic-tickets-912101779977?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.539163,-73.5566571"
+    },
+    {
+        "Title": "Frank Moyo and Amanda Pascali Live in Montreal",
+        "Description": "For the first time, Frank Moyo and Amanda Pascali performing together in Montreal, Quebec",
+        "Date": "Saturday, August 31 \u00b7 7 - 11pm EDT",
+        "Location": "Centre Leonardo Da Vinci",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "23:00",
+        "EndTime": "13:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5854468,
+        "Longitude": -73.59709108159345,
+        "EventUrl": "https://www.eventbrite.com/e/frank-moyo-and-amanda-pascali-live-in-montreal-tickets-913264196797?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5854468,-73.59709108159345"
+    },
+    {
+        "Title": "L'heure des vrais adorateurs 3",
+        "Description": "Les adorateurs que le p\u00e8re demande. Jean 4 V23",
+        "Date": "Saturday, August 10 \u00b7 4 - 8pm EDT",
+        "Location": "Complexe C.E.U.M.",
+        "Price": 38.61,
+        "ImageURL": null,
+        "Organizer": "MINIST\u00c8RE DEBORA L\u00c8VE TOI INTERNATIONAL",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5031824,
+        "Longitude": -73.5698065,
+        "EventUrl": "https://www.eventbrite.ca/e/lheure-des-vrais-adorateurs-3-tickets-906132295087?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5031824,-73.5698065"
+    },
+    {
+        "Title": "POP & SOUL V -FATHER'S DAY EDITION",
+        "Description": "Come celebrate Father's Day with live Pop and Soul Music, Comedy & Spoken Word at\t\t \nPOP & SOUL V - FATHER'S DAY EDITION!",
+        "Date": "Sunday, June 16 \u00b7 7 - 9:30pm EDT",
+        "Location": "Salle H\u00e9ritage",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "30:00",
+        "EndTime": "20:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/pop-soul-v-fathers-day-edition-tickets-877472944197?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "UNSTOPPABLE",
+        "Description": "Pr\u00e9parez-vous a vivre un moment sans pr\u00e9c\u00e9dent lors du \"UNSTOPPABLE\" comedy show. Des humoristes de calibre sauront vous faire rire au \u00e9clat",
+        "Date": "Fri, Aug 16, 2024 7:00 PM - 10:30 PM EDT",
+        "Location": "6566 Rue Jarry Est, Saint-L\u00e9onard, QC, Canada",
+        "Price": 29.55,
+        "ImageURL": null,
+        "Organizer": "Divertissements Double R",
+        "StartTime": "Friday, Aug 16, 2024 7:00 PM",
+        "EndTime": "10:30 PM",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.59585419591836,
+        "Longitude": -73.58056972040816,
+        "EventUrl": "https://www.eventbrite.ca/e/unstoppable-tickets-868046158427?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.59585419591836,-73.58056972040816"
+    },
+    {
+        "Title": "Beets n' Betteraves FUNraiser",
+        "Description": "Fellow dancers!\nCome join us for a night of music and high beets. To help raise money for the Beets n\u2019 Betteraves camp.",
+        "Date": "June 8 \u00b7 9pm - June 9 \u00b7 3am EDT",
+        "Location": "7330 R. Saint-Denis",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": null,
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5390948,
+        "Longitude": -73.6175356,
+        "EventUrl": "https://www.eventbrite.com/e/beets-n-betteraves-funraiser-tickets-917043019357?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5390948,-73.6175356"
+    },
+    {
+        "Title": "Cours de yoga & m\u00e9ditation \u00e0 5$",
+        "Description": "Vous \u00eates invit\u00e9s \u00e0 vous joindre \u00e0 nous tous les vendredis soirs pour un cours de yoga (drop-in) tous niveaux, pour seulement 5$.",
+        "Date": "ven. 7 juin 2024 18:00 - 19:00 EDT",
+        "Location": "Surya-Montr\u00e9al | Yoga, TaiChi/QiGong, M\u00e9ditation",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Surya-Montr\u00e9al",
+        "StartTime": "18:00",
+        "EndTime": "19:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-cours-de-yoga-meditation-a-5-732852470467?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Initiation Trager",
+        "Description": "Trager aide \u00e0 lib\u00e9rer des sch\u00e9mas physiques et mentaux profond\u00e9ment ancr\u00e9s",
+        "Date": "sam. 17 ao\u00fbt 2024 09:00 - dim. 18 ao\u00fbt 2024 17:00 EDT",
+        "Location": "\u00c9cole de massage \u00c0 fleur de peau",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "\u00c9cole de massage professionnel \u00c0 fleur de peau",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-initiation-trager-872139672237?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "Emo\u00e7\u00e3o Kizomba Night, your Friday saida",
+        "Description": "Come experience the emotion of kizomba with us! An evening of dance highly musical and unique! Kizomba, UrbanKiz, Tarraxinha, KoNpa, Semba",
+        "Date": "June 7 \u00b7 9pm - June 8 \u00b7 2:30am EDT",
+        "Location": "7048 Rue St-Hubert",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Emo\u00e7\u00e3o Kizomba Night",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.539904965263155,
+        "Longitude": -73.61166741368422,
+        "EventUrl": "https://www.eventbrite.ca/e/emocao-kizomba-night-your-friday-saida-tickets-918555643657?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.539904965263155,-73.61166741368422"
+    },
+    {
+        "Title": "Initiation \u00e0 la massoth\u00e9rapie",
+        "Description": "Atelier d'initiation \u00e0 la massoth\u00e9rapie de 15h",
+        "Date": "sam. 17 ao\u00fbt 2024 09:00 - dim. 18 ao\u00fbt 2024 17:00 EDT",
+        "Location": "\u00c9cole de massage \u00c0 fleur de peau",
+        "Price": "107.0 - 83.0",
+        "ImageURL": null,
+        "Organizer": "\u00c9cole de massage professionnel \u00c0 fleur de peau",
+        "StartTime": null,
+        "EndTime": null,
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-initiation-a-la-massotherapie-891465426087?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "101 RAC | IMPRESSION 3D : Intro \u00e0 l\u2019Atelier +  reconnaissance des acquis",
+        "Description": "Reconnaissance des acquis Impression 3D",
+        "Date": "dim. 16 juin 2024 18:00 - 19:00 EDT",
+        "Location": "LESPACEMAKER",
+        "Price": "57.0 - 49.0",
+        "ImageURL": null,
+        "Organizer": "LESPACEMAKER : Formations",
+        "StartTime": "18:00",
+        "EndTime": "19:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.539163,
+        "Longitude": -73.5566571,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-101-rac-impression-3d-intro-a-latelier-reconnaissance-des-acquis-878974254657?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.539163,-73.5566571"
+    },
+    {
+        "Title": "Bordz & Friends @ Le Petit Secret , MTL",
+        "Description": "Intimate night ahead as Bordz & Guest DJs deliver a incredible music journey through Afro, Progressive & Trance House Music.",
+        "Date": "June 15 \u00b7 10pm - June 16 \u00b7 3am EDT",
+        "Location": "806 Bd Rosemont",
+        "Price": null,
+        "ImageURL": null,
+        "Organizer": "Arte Nammu",
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.53332665714286,
+        "Longitude": -73.59625897142858,
+        "EventUrl": "https://www.eventbrite.com/e/bordz-friends-le-petit-secret-mtl-tickets-908405293687?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.53332665714286,-73.59625897142858"
+    },
+    {
+        "Title": "Arrai\u00e1 De Montreal  - com Forro\u00e7acana",
+        "Description": "Primeiro Arrai\u00e1 De Montreal  - com Forro\u00e7acana, Forr\u00f3 de Man\u00e9, Flavia Nascimento e Lara Klaus.",
+        "Date": "Sunday, June 16 \u00b7 4 - 9pm EDT",
+        "Location": "La Tulipe",
+        "Price": 24.89,
+        "ImageURL": null,
+        "Organizer": "SHOWZA\u00c7O",
+        "StartTime": "21:00",
+        "EndTime": "23:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.ca/e/arraia-de-montreal-com-forrocacana-tickets-902327625217?aff=ebdssbdestsearch"
+    },
+    {
+        "Title": "The Homies Network Official Playtest",
+        "Description": "Join us  for an evening of games, food, and fun! Participants will have an exclusive sneak peek for the upcoming Homies app",
+        "Date": "Saturday, June 8 \u00b7 4 - 10pm EDT",
+        "Location": "2700 Rue Angus",
+        "Price": 6.66,
+        "ImageURL": null,
+        "Organizer": "Moad Lahmimsi",
+        "StartTime": "22:00",
+        "EndTime": "12:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.538348,
+        "Longitude": -73.5631119,
+        "EventUrl": "https://www.eventbrite.ca/e/the-homies-network-official-playtest-tickets-914859247637?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.538348,-73.5631119"
+    },
+    {
+        "Title": "Afro Saint-Jean Baptiste 2024",
+        "Description": "Le 23 juin, les  Qu\u00e9b\u00e9cois de toutes origines vont c\u00e9l\u00e9brer le Qu\u00e9bec aux saveurs Afro. Danse, karaoke,Tam-tam et autre seront de la partie",
+        "Date": "dim. 23 juin 2024 12:00 - 23:59 UTC\u22124",
+        "Location": "Parc des Hirondelles, Montr\u00e9al",
+        "Price": "0.0 - 30.0",
+        "ImageURL": null,
+        "Organizer": "Groupe Nkulbeti",
+        "StartTime": "12:00",
+        "EndTime": "23:59",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5757815,
+        "Longitude": -73.64280246510361,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-afro-saint-jean-baptiste-2024-900809674987?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5757815,-73.64280246510361"
+    },
+    {
+        "Title": "Course - Entra\u00eenements de groupe",
+        "Description": "Entra\u00eenement de course en groupe ext\u00e9rieur incluant 1 programme sp\u00e9cifique p\u00e9riodis\u00e9 et adapt\u00e9 (non personnalis\u00e9)",
+        "Date": "sam. 8 juin 2024 09:00 - 10:00 EDT",
+        "Location": "Stade de soccer de Montr\u00e9al",
+        "Price": "18.0 - 67.0",
+        "ImageURL": null,
+        "Organizer": "Kinergika",
+        "StartTime": "09:00",
+        "EndTime": "10:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": 45.5618637,
+        "Longitude": -73.6383055,
+        "EventUrl": "https://www.eventbrite.ca/e/billets-course-entrainements-de-groupe-912902103767?aff=ebdssbdestsearch",
+        "GoogleMaps_URL": "https://www.google.com/maps/search/?api=1&query=45.5618637,-73.6383055"
+    },
+    {
+        "Title": "Soir\u00e9e d'humour - Boldock et ses ami.e.s chez Ernest",
+        "Description": "Tous les lundis 20h, Guillaume Boldock re\u00e7oit plusieurs humoristes dans le d\u00e9cor le plus curieux de la ville!",
+        "Date": "lun. 10 juin 2024 20:00 - 22:00 EDT",
+        "Location": "Chez Ernest - Comptoir de curiosit\u00e9s",
+        "Price": 10.0,
+        "ImageURL": null,
+        "Organizer": "Boldock et ses ami.e.s",
+        "StartTime": "20:00",
+        "EndTime": "22:00",
+        "City": "Montreal",
+        "CountryCode": "ca",
+        "Latitude": null,
+        "Longitude": null,
+        "EventUrl": "https://www.eventbrite.com/e/billets-soiree-dhumour-boldock-et-ses-amies-chez-ernest-775870659027?aff=ebdssbdestsearch"
     }
 ]

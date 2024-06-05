@@ -11,96 +11,6 @@ from geopy.geocoders import Nominatim
 import re
 from datetime import datetime, timedelta
 from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
-import openai
-
-client = openai.OpenAI(api_key='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')
-
-def generate_tags(title, description):
-    predefined_tags = [
-        {"id": "005a4420-88c3-11ee-ab49-69be32c19a11", "name": "Startup", "emoji": "🚀", "tagCategory": "Education"},
-        {"id": "00fb7c50-3c47-11ee-bb59-7f5156da6f07", "name": "Reggae", "emoji": " 💚", "tagCategory": "Musique"},
-        {"id": "00fe8220-3d0e-11ee-a0b5-a3a6fbdfc7e4", "name": "Squash", "emoji": "🏸", "tagCategory": "Sports"},
-        {"id": "0159ac60-3d0c-11ee-a0b5-a3a6fbdfc7e4", "name": "Aquatics", "emoji": "🏊‍♂️", "tagCategory": "Sports"},
-        {"id": "01785870-4ce5-11ee-931a-073fc9abbdfa", "name": "Karaoke", "emoji": "🎤", "tagCategory": "Leisure"},
-        {"id": "06759f60-5c8d-11ee-8ae0-fb963ffbedc0", "name": "Holiday", "emoji": "🌞", "tagCategory": "Musique"},
-        {"id": "0693e050-5c8e-11ee-8ae0-fb963ffbedc0", "name": "Roller Derby", "emoji": "🛼", "tagCategory": "Sports"},
-        {"id": "099b2b90-4ce5-11ee-931a-073fc9abbdfa", "name": "Singing", "emoji": "🎤", "tagCategory": "Leisure"},
-        {"id": "09dddaa0-573d-11ee-8b78-9b77053f08ef", "name": "Chess", "emoji": "♟", "tagCategory": "Leisure"},
-        {"id": "0a3f4540-3c46-11ee-bb59-7f5156da6f07", "name": "Blues", "emoji": " 🎵", "tagCategory": "Musique"},
-        {"id": "0ad207f0-3d0d-11ee-a0b5-a3a6fbdfc7e4", "name": "Golf", "emoji": "⛳", "tagCategory": "Sports"},
-        {"id": "0b379d00-3d0c-11ee-a0b5-a3a6fbdfc7e4", "name": "Athletic Races", "emoji": "🏅", "tagCategory": "Sports"},
-        {"id": "0cafac20-3d0e-11ee-a0b5-a3a6fbdfc7e4", "name": "Surfing", "emoji": "🏄‍♀️", "tagCategory": "Sports"},
-        {"id": "0dc9b310-45df-11ee-837b-e184466a9b82", "name": "Book", "emoji": "📖", "tagCategory": "Leisure"},
-        {"id": "108f37a0-3d0b-11ee-a0b5-a3a6fbdfc7e4", "name": "Fashion", "emoji": "🥻", "tagCategory": "Leisure"},
-        {"id": "11164b60-4381-11ee-b8b1-a1b868b635cd", "name": "Punk", "emoji": "👩‍🎤", "tagCategory": "Musique"},
-        {"id": "133a3370-3c47-11ee-bb59-7f5156da6f07", "name": "Religious", "emoji": "✝", "tagCategory": "Musique"},
-        {"id": "1453a7c0-3d0d-11ee-a0b5-a3a6fbdfc7e4", "name": "Gymnastics", "emoji": "🤸‍♀️", "tagCategory": "Sports"},
-        {"id": "15de0a70-45e3-11ee-837b-e184466a9b82", "name": "Hiking", "emoji": "🏃‍♂️", "tagCategory": "Sports"},
-        {"id": "1859e020-6ec5-11ee-839e-4b70ecb92583", "name": "Cycling", "emoji": "🚴‍♂️", "tagCategory": "Sports"},
-        {"id": "18f44470-6ec6-11ee-839e-4b70ecb92583", "name": "Fencing", "emoji": "🤺", "tagCategory": "Sports"},
-        {"id": "19783bb0-45e3-11ee-837b-e184466a9b82", "name": "Yoga", "emoji": "🧘‍♂️", "tagCategory": "Sports"},
-        {"id": "1b7e1210-3d0b-11ee-a0b5-a3a6fbdfc7e4", "name": "Photography", "emoji": "📸", "tagCategory": "Leisure"},
-        {"id": "1cbfc5a0-3c46-11ee-bb59-7f5156da6f07", "name": "Jazz", "emoji": " 🎵", "tagCategory": "Musique"},
-        {"id": "1d344290-3c46-11ee-bb59-7f5156da6f07", "name": "Pop", "emoji": "🎶", "tagCategory": "Musique"},
-        {"id": "1d809850-3c47-11ee-bb59-7f5156da6f07", "name": "R&B", "emoji": " 🎶", "tagCategory": "Musique"},
-        {"id": "1de59e30-3c47-11ee-bb59-7f5156da6f07", "name": "Rock", "emoji": "🎸", "tagCategory": "Musique"},
-        {"id": "1e2c0d80-3c47-11ee-bb59-7f5156da6f07", "name": "Soul", "emoji": "🎶", "tagCategory": "Musique"},
-        {"id": "1ec41b90-3c46-11ee-bb59-7f5156da6f07", "name": "Classical", "emoji": " 🎶", "tagCategory": "Musique"},
-        {"id": "1f39ec90-3d0c-11ee-a0b5-a3a6fbdfc7e4", "name": "Baseball", "emoji": "⚾", "tagCategory": "Sports"},
-        {"id": "201cbff0-3c47-11ee-bb59-7f5156da6f07", "name": "Country", "emoji": "🤠", "tagCategory": "Musique"},
-        {"id": "21882c20-3c46-11ee-bb59-7f5156da6f07", "name": "Folk", "emoji": "🎻", "tagCategory": "Musique"},
-        {"id": "2211e6d0-3c46-11ee-bb59-7f5156da6f07", "name": "Hip-Hop", "emoji": "🎤", "tagCategory": "Musique"},
-        {"id": "226300e0-3d0b-11ee-a0b5-a3a6fbdfc7e4", "name": "Dance", "emoji": "💃", "tagCategory": "Leisure"},
-        {"id": "2307f3e0-3c47-11ee-bb59-7f5156da6f07", "name": "Indie", "emoji": " 🎶", "tagCategory": "Musique"},
-        {"id": "2401c100-3c46-11ee-bb59-7f5156da6f07", "name": "Metal", "emoji": "🤘", "tagCategory": "Musique"},
-        {"id": "244cfde0-3c47-11ee-bb59-7f5156da6f07", "name": "Punk Rock", "emoji": "👩‍🎤", "tagCategory": "Musique"},
-        {"id": "24883e40-3c46-11ee-bb59-7f5156da6f07", "name": "Reggaeton", "emoji": "🎵", "tagCategory": "Musique"},
-        {"id": "24d07ab0-3d0d-11ee-a0b5-a3a6fbdfc7e4", "name": "Tennis", "emoji": "🎾", "tagCategory": "Sports"},
-        {"id": "253b9e90-3d0d-11ee-a0b5-a3a6fbdfc7e4", "name": "Basketball", "emoji": "🏀", "tagCategory": "Sports"},
-        {"id": "2602b960-3c47-11ee-bb59-7f5156da6f07", "name": "Gospel", "emoji": "🎶", "tagCategory": "Musique"},
-        {"id": "263997d0-3c46-11ee-bb59-7f5156da6f07", "name": "Jazz", "emoji": " 🎶", "tagCategory": "Musique"},
-        {"id": "274d8200-3c46-11ee-bb59-7f5156da6f07", "name": "Rap", "emoji": "🎤", "tagCategory": "Musique"},
-        {"id": "27a4a0f0-3c47-11ee-bb59-7f5156da6f07", "name": "Rock and Roll", "emoji": "🎸", "tagCategory": "Musique"},
-        {"id": "27fb1d20-3c47-11ee-bb59-7f5156da6f07", "name": "Ska", "emoji": "🎺", "tagCategory": "Musique"},
-        {"id": "28ab7800-3c46-11ee-bb59-7f5156da6f07", "name": "Soul", "emoji": "🎶", "tagCategory": "Musique"},
-        {"id": "290a1bb0-3c47-11ee-bb59-7f5156da6f07", "name": "Techno", "emoji": "🎧", "tagCategory": "Musique"},
-        {"id": "2995c8b0-3c46-11ee-bb59-7f5156da6f07", "name": "World Music", "emoji": "🌍", "tagCategory": "Musique"}
-    ]
-
-    prompt = (
-        f"You are a meticulous selector, trained on identifying relevant tags for events.\n" +
-        f"Your task is to select, only from the list below, at most 5 tags that are very relevant for the event \"{title}\" (description: \"{description}\").\n" +
-        f"Here are the exhaustive list of tags to select from:\n" +
-        ''.join([f"{index+1}. {tag['name']} ({tag['tagCategory']})\n" for index, tag in enumerate(predefined_tags)]) +
-        f"Only output the selected tags from this list, separated by comma.\n" +
-        f"Do not output any other tag.\n" +
-        f"If there is no relevant tag in the list, output 'NO TAG'."
-    )
-    print(prompt)
-
-    try:
-        completion = client.chat.completions.create(
-            model="gpt-4-turbo",
-            temperature=0,
-            messages=[
-                {"role": "system", "content": prompt}
-            ]
-        )
-    except openai.error.OpenAIError as e:
-        print(f"Erro na API OpenAI: {e}")
-        return []
-
-    response = completion.choices[0].message.content.strip()
-    print('response:', response)
-
-    relevant_tags = []
-
-    for predefined_tag in predefined_tags:
-        if predefined_tag["name"] in response:
-            relevant_tags.append(predefined_tag)
-
-    print("Relevant tags:", relevant_tags)
-    return relevant_tags
 
 def scroll_to_bottom(driver, max_clicks=15):
     for _ in range(max_clicks):
@@ -143,17 +53,6 @@ def format_date(date_str):
     print("Erro: Formato de data inválido.")
     return None
 
-def get_street_address(location):
-    # Regular expression pattern to match street address
-    pattern = r'^(\d+\s[A-Za-zÀ-ÿ0-9\s-]+)'
-
-    # Try to find the street address pattern in the location string
-    match = re.match(pattern, location)
-    if match:
-        return match.group(1)
-    else:
-        return None
-
 def get_coordinates(location_text):
     if location_text is None:
         print("Localização não encontrada para o evento.")
@@ -161,7 +60,6 @@ def get_coordinates(location_text):
 
     geolocator = Nominatim(user_agent="event_scraper")
 
-    # Tenta obter as coordenadas diretamente na cidade de Montreal
     try:
         location_obj = geolocator.geocode(location_text + ", Montreal, Quebec", exactly_one=True)
         if location_obj:
@@ -169,9 +67,7 @@ def get_coordinates(location_text):
     except (GeocoderTimedOut, GeocoderUnavailable) as e:
         print(f"Erro ao obter coordenadas para {location_text}: {e}")
 
-    # Se a tentativa direta falhar, tenta obter as coordenadas de partes do endereço
     try:
-        # Extrai o nome da rua do endereço
         street_address = location_text.split(',')[0]
         street_location = geolocator.geocode(street_address + ", Montreal, Quebec", exactly_one=True)
         if street_location:
@@ -179,7 +75,6 @@ def get_coordinates(location_text):
     except (GeocoderTimedOut, GeocoderUnavailable) as e:
         print(f"Erro ao obter coordenadas para {street_address}: {e}")
 
-    # Se ainda não conseguir obter coordenadas, retorna None
     print(f"Não foi possível obter coordenadas para {location_text}")
     return None, None
 
@@ -191,19 +86,18 @@ def get_location_details(latitude, longitude):
     try:
         location = geolocator.reverse((latitude, longitude), exactly_one=True)
         if location:
-            # address = location.address
             city = location.raw.get('address', {}).get('city')
             country_code = location.raw.get('address', {}).get('country_code')
             return city, country_code
         else:
-            return None, None, None
+            return None, None
     except Exception as e:
         print(f"An error occurred while fetching location details: {e}")
-        return None, None, None
+        return None, None
 
 def scrape_facebook_events(driver, url, selectors, max_scroll=50):
     driver.get(url)
-    driver.implicitly_wait(20)  # Wait for elements to load
+    driver.implicitly_wait(20)
     all_events = []
     unique_event_titles = set()
     scroll_to_bottom(driver, max_scroll)
@@ -226,7 +120,7 @@ def scrape_facebook_events(driver, url, selectors, max_scroll=50):
             print(f"Erro do WebDriver ao carregar o evento: {event_url} - {e}")
             continue
 
-        time.sleep(2)  # Allow event page to load
+        time.sleep(2)
         event_page_content = driver.page_source
         event_page = BeautifulSoup(event_page_content, 'html.parser')
 
@@ -246,7 +140,6 @@ def scrape_facebook_events(driver, url, selectors, max_scroll=50):
         location_div = event_page.find('div', class_='x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1sur9pj xkrqix3 xzsf02u x1s688f')
         location_text = location_div.text.strip() if location_div else None
 
-        # Ignore locations with text "See More..."
         if location_text and location_text.lower() == "see more":
             location_text = None
 
@@ -270,7 +163,7 @@ def scrape_facebook_events(driver, url, selectors, max_scroll=50):
             location_details['CountryCode'] = 'ca'
 
         date_text = event_page.find('div', class_='x1e56ztr x1xmf6yo').text.strip() if event_page.find('div', class_='x1e56ztr x1xmf6yo') else None
-        print("Date text:", date_text)  # Add this line for debugging
+        print("Date text:", date_text)
 
         if date_text:
             match = re.search(r'(\d{1,2}:\d{2}\s?[AP]M)\s?–\s?(\d{1,2}:\d{2}\s?[AP]M)', date_text)
@@ -286,14 +179,13 @@ def scrape_facebook_events(driver, url, selectors, max_scroll=50):
             start_time, end_time = None, None
 
         if event_title is None or date_text is None or location_text is None:
-            # Ignorar eventos com campos nulos
             driver.back()
             continue
 
         event_info = {
             'Title': event_title,
             'Description': description,
-            'Date': format_date(date_text),  # Corrected to pass the original date
+            'Date': format_date(date_text),
             'StartTime': start_time,
             'EndTime': end_time,
             **location_details,
@@ -302,10 +194,6 @@ def scrape_facebook_events(driver, url, selectors, max_scroll=50):
             'Organizer': event_page.find('span', class_='xt0psk2').text.strip() if event_page.find('span', class_='xt0psk2') else None,
             'Organizer_IMG': event_page.find('img', class_='xz74otr')['src'] if event_page.find('img', class_='xz74otr') else None
         }
-
-        # Call generate_tags function here passing event title and description
-        event_tags = generate_tags(event_title, description)
-        event_info['Tags'] = event_tags
 
         all_events.append(event_info)
         unique_event_titles.add(event_title)
@@ -374,7 +262,8 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
                         location = location_element.text.strip() if location_element else None
                         print(f"Location: {location}")
 
-                        ImageURL = event.find('img', class_='event-card-image')['src']
+                        img_element = event_page.find('img', class_='event-card-image')
+                        ImageURL = img_element['src'] if img_element and 'src' in img_element.attrs else None
                         print(f"ImageURL: {ImageURL}")
 
                         price_number = None
@@ -396,7 +285,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
                         event_info['Title'] = title
                         event_info['Description'] = description
                         event_info['Price'] = price_number
-                        event_info['Date'] = format_date(date, 'Eventbrite')
+                        event_info['Date'] = date
                         event_info['StartTime'], event_info['EndTime'] = extract_start_end_time(date)
                         event_info.update(format_location(location, 'Eventbrite'))
                         event_info['ImageURL'] = ImageURL
@@ -408,8 +297,6 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
                         if latitude is not None and longitude is not None:
                             map_url = open_google_maps(latitude, longitude)
                             event_info['GoogleMaps_URL'] = map_url
-
-                        event_info['Tags'] = generate_tags(title, description)
 
                         all_events.append(event_info)
                         print(f"Scraped event: {title}")
@@ -578,7 +465,7 @@ def main():
     options.add_argument("--disable-popup-blocking")
 
     driver = webdriver.Chrome(options=options)
-    driver.set_page_load_timeout(30)  # Increase page load timeout
+    driver.set_page_load_timeout(30)
 
     sources = [
         {
@@ -616,16 +503,16 @@ def main():
                 print("No events found.")
         elif source['name'] == 'Eventbrite':
             events = scrape_eventbrite_events(driver, source['url'], source['selectors'], source['max_pages'])
-            events_with_data = [event for event in events if sum(1 for value in event.values() if value is not None) > 10]
-            all_events.extend(events_with_data)
+            if events is not None:
+                all_events.extend(events)
+            else:
+                print("No events found.")
         else:
             print(f"Unsupported source: {source['name']}")
             continue
 
-    # Filtrar eventos com campos nulos
     all_events = [event for event in all_events if all(event.get(key) is not None for key in ['Title', 'Date', 'Location'])]
 
-    # Save events to JSON file
     with open('events.json', 'w') as f:
         json.dump(all_events, f, indent=4)
 
