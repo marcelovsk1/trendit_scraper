@@ -240,7 +240,7 @@ def open_google_maps(latitude, longitude):
     google_maps_url = f"https://www.google.com/maps/search/?api=1&query={latitude},{longitude}"
     return google_maps_url
 
-client = openai.OpenAI(api_key='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')
+client = openai.OpenAI(api_key='sk-proj-8lKsR44GzfnLa5Rr1U37T3BlbkFJcOwzeduob8Z03zLoKX0O')
 
 def generate_tags(title, description):
     predefined_tags = [
@@ -381,6 +381,9 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
                         price = price_element.text.strip() if price_element else price_default
                         print(f"Price: {price}")
 
+                        if not price:
+                            price = "Price not informed"
+
                         date_element = event_page.find('span', class_='date-info__full-datetime')
                         date = date_element.text.strip() if date_element else None
                         print(f"Date: {date}")
@@ -389,7 +392,8 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
                         location = location_element.text.strip() if location_element else None
                         print(f"Location: {location}")
 
-                        ImageURL = event.find('img', class_='event-card-image')['src']
+                        img_element = event_page.find('img', class_='event-card-image')
+                        ImageURL = img_element['src'] if img_element and 'src' in img_element.attrs else None
                         print(f"ImageURL: {ImageURL}")
 
                         price_number = None
@@ -410,7 +414,7 @@ def scrape_eventbrite_events(driver, url, selectors, max_pages=45):
 
                         event_info['Title'] = title
                         event_info['Description'] = description
-                        event_info['Price'] = price_number
+                        event_info['Price'] = price_number if price_number is not None else "Price not informed"
                         event_info['Date'] = format_date(date, 'Eventbrite')
                         event_info['StartTime'], event_info['EndTime'] = extract_start_end_time(date)
                         event_info.update(format_location(location, 'Eventbrite'))

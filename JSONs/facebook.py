@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
 import openai
 
-client = openai.OpenAI(api_key='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')
+client = openai.OpenAI(api_key='sk-proj-8lKsR44GzfnLa5Rr1U37T3BlbkFJcOwzeduob8Z03zLoKX0O')
 
 def generate_tags(title, description):
     predefined_tags = [
