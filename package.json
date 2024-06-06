@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@types/node": "^20.14.2",
     "moment": "^2.30.1",
     "puppeteer": "^22.10.0",
+    "typescript": "^5.4.5",
     "uuid": "^9.0.1"
   }
 }
